@@ -1,0 +1,5970 @@
+[
+  {
+    "id": "node/10011630606",
+    "name": "",
+    "category": "art",
+    "lat": 55.7904296,
+    "lon": 49.1184912,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "Стол с книгами",
+    "osm_tags": {
+      "description": "Стол с книгами",
+      "material": "metal",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/10033242761",
+    "name": "",
+    "category": "art",
+    "lat": 55.8350846,
+    "lon": 49.078562,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "aircraft",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/10038829015",
+    "name": "",
+    "category": "art",
+    "lat": 55.8575675,
+    "lon": 49.0786526,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "installation",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/10047779562",
+    "name": "",
+    "category": "art",
+    "lat": 55.7999462,
+    "lon": 49.1274145,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "sculpture",
+      "material": "metal",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/10047779583",
+    "name": "",
+    "category": "art",
+    "lat": 55.8024723,
+    "lon": 49.1081736,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "Лоси",
+    "osm_tags": {
+      "artwork_type": "sculpture",
+      "description": "Лоси",
+      "material": "wood",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/10186610135",
+    "name": "",
+    "category": "art",
+    "lat": 55.8526947,
+    "lon": 49.0850917,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "statue",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/10186610136",
+    "name": "",
+    "category": "art",
+    "lat": 55.8526523,
+    "lon": 49.0850854,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "statue",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/10186610137",
+    "name": "",
+    "category": "art",
+    "lat": 55.8525785,
+    "lon": 49.085072,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "statue",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/10186610138",
+    "name": "",
+    "category": "art",
+    "lat": 55.8525204,
+    "lon": 49.0850693,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "statue",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/10250911691",
+    "name": "",
+    "category": "art",
+    "lat": 55.7818171,
+    "lon": 49.1302169,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "graffiti",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/10758758418",
+    "name": "",
+    "category": "art",
+    "lat": 55.8139654,
+    "lon": 49.1864622,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "Советская мозаика",
+    "osm_tags": {
+      "artwork_type": "mosaic",
+      "description": "Советская мозаика",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/10804852130",
+    "name": "",
+    "category": "art",
+    "lat": 55.7755807,
+    "lon": 49.1370153,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "graffiti",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/10822648414",
+    "name": "",
+    "category": "art",
+    "lat": 55.798698,
+    "lon": 49.0606336,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "graffiti",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/10827513011",
+    "name": "",
+    "category": "art",
+    "lat": 55.8012457,
+    "lon": 48.9744527,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/10836656756",
+    "name": "",
+    "category": "art",
+    "lat": 55.7918318,
+    "lon": 49.1529811,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "mural",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/10886030896",
+    "name": "",
+    "category": "art",
+    "lat": 55.7826641,
+    "lon": 49.1341662,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artist_name": "QBic",
+      "artwork_type": "graffiti",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/10946063323",
+    "name": "",
+    "category": "art",
+    "lat": 55.7752508,
+    "lon": 49.1478354,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "sculpture",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/10960406328",
+    "name": "",
+    "category": "art",
+    "lat": 55.830162,
+    "lon": 49.0822538,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "mural",
+      "location": "wall",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/10960406329",
+    "name": "",
+    "category": "art",
+    "lat": 55.8303971,
+    "lon": 49.0820025,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "mural",
+      "location": "wall",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/11038616834",
+    "name": "",
+    "category": "art",
+    "lat": 55.7962281,
+    "lon": 49.1426155,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "stele",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/11049264570",
+    "name": "",
+    "category": "art",
+    "lat": 55.7990808,
+    "lon": 49.1523763,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "graffiti",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/11062159583",
+    "name": "",
+    "category": "art",
+    "lat": 55.7884171,
+    "lon": 49.1050791,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "graffiti",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/11062159585",
+    "name": "",
+    "category": "art",
+    "lat": 55.7883135,
+    "lon": 49.1003277,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "sculpture",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/11062160017",
+    "name": "",
+    "category": "art",
+    "lat": 55.7882533,
+    "lon": 49.1003637,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "sculpture",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/11064007516",
+    "name": "",
+    "category": "art",
+    "lat": 55.7832767,
+    "lon": 49.1332445,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "graffiti",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/11070932931",
+    "name": "",
+    "category": "art",
+    "lat": 55.8277502,
+    "lon": 49.1109345,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "sculpture",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/11086745349",
+    "name": "",
+    "category": "art",
+    "lat": 55.779823,
+    "lon": 49.1129925,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "Цветы",
+    "osm_tags": {
+      "artwork_type": "installation",
+      "description": "Цветы",
+      "material": "metal",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/11150214865",
+    "name": "",
+    "category": "art",
+    "lat": 55.7536997,
+    "lon": 49.2422275,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "graffiti",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/11166802488",
+    "name": "",
+    "category": "art",
+    "lat": 55.8019427,
+    "lon": 49.0569843,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "Гномы-кочегары",
+    "osm_tags": {
+      "artwork_type": "graffiti",
+      "description": "Гномы-кочегары",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/11170114007",
+    "name": "",
+    "category": "art",
+    "lat": 55.7802408,
+    "lon": 49.1119949,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "Глобус",
+    "osm_tags": {
+      "artwork_type": "installation",
+      "description": "Глобус",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/11170114017",
+    "name": "",
+    "category": "art",
+    "lat": 55.7738018,
+    "lon": 49.1013103,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "sculpture",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/11187518969",
+    "name": "",
+    "category": "art",
+    "lat": 55.7109417,
+    "lon": 49.2134755,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "installation",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/11228417611",
+    "name": "",
+    "category": "art",
+    "lat": 55.8306222,
+    "lon": 49.0693857,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "mural",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/11228417612",
+    "name": "",
+    "category": "art",
+    "lat": 55.838815,
+    "lon": 49.066493,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "mural",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/11237768507",
+    "name": "",
+    "category": "art",
+    "lat": 55.8016264,
+    "lon": 49.1864178,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "сграффито",
+    "osm_tags": {
+      "artwork_type": "mural",
+      "description": "сграффито",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/11266057329",
+    "name": "",
+    "category": "art",
+    "lat": 55.8349819,
+    "lon": 49.108596,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "graffiti",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/11353577769",
+    "name": "",
+    "category": "art",
+    "lat": 55.8710069,
+    "lon": 49.2249372,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/11375191549",
+    "name": "",
+    "category": "art",
+    "lat": 55.7850765,
+    "lon": 49.125946,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "sculpture",
+      "material": "metal",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/11375191555",
+    "name": "",
+    "category": "art",
+    "lat": 55.7852672,
+    "lon": 49.1255737,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "sculpture",
+      "material": "metal",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/11576116212",
+    "name": "",
+    "category": "art",
+    "lat": 55.8153594,
+    "lon": 49.0793977,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "mural_painting",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/11601575638",
+    "name": "",
+    "category": "art",
+    "lat": 55.7951984,
+    "lon": 49.171515,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/11618545129",
+    "name": "",
+    "category": "art",
+    "lat": 55.7972234,
+    "lon": 49.1104055,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "mural",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/11733510918",
+    "name": "",
+    "category": "art",
+    "lat": 55.8279345,
+    "lon": 49.1458191,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "mural",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/11742165381",
+    "name": "",
+    "category": "art",
+    "lat": 55.8268445,
+    "lon": 49.0858304,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "mural",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/11778218876",
+    "name": "",
+    "category": "art",
+    "lat": 55.9267928,
+    "lon": 49.2089086,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "statue",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/11778218877",
+    "name": "",
+    "category": "art",
+    "lat": 55.9267782,
+    "lon": 49.2089599,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "relief",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/11840784988",
+    "name": "",
+    "category": "art",
+    "lat": 55.7693112,
+    "lon": 49.1778659,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "graffiti",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/11849708985",
+    "name": "",
+    "category": "art",
+    "lat": 55.7515083,
+    "lon": 49.1957887,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "installation",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/11869510774",
+    "name": "",
+    "category": "art",
+    "lat": 55.832376,
+    "lon": 49.0762927,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "graffiti",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/11877335712",
+    "name": "",
+    "category": "art",
+    "lat": 55.798318,
+    "lon": 49.1095191,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "graffiti",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/11972546393",
+    "name": "",
+    "category": "art",
+    "lat": 55.7997593,
+    "lon": 49.1006263,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "mural",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/11973859917",
+    "name": "",
+    "category": "art",
+    "lat": 55.8285555,
+    "lon": 49.0576381,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "graffiti",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/11979229759",
+    "name": "",
+    "category": "art",
+    "lat": 55.8274863,
+    "lon": 49.1059823,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "relief",
+      "direction": "180",
+      "location": "wall",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/11981224690",
+    "name": "",
+    "category": "art",
+    "lat": 55.7928308,
+    "lon": 49.1338358,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "sculpture",
+      "material": "metal",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/1203529335",
+    "name": "",
+    "category": "art",
+    "lat": 55.7951417,
+    "lon": 49.1351957,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/12040500825",
+    "name": "",
+    "category": "art",
+    "lat": 55.8288186,
+    "lon": 49.0614244,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "graffiti",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/12068774911",
+    "name": "",
+    "category": "art",
+    "lat": 55.8182927,
+    "lon": 49.0620302,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "graffiti",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/12068774940",
+    "name": "",
+    "category": "art",
+    "lat": 55.8202696,
+    "lon": 49.0552398,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "graffiti",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/12084539363",
+    "name": "",
+    "category": "art",
+    "lat": 55.8035922,
+    "lon": 49.068601,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "mosaic",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/12084582204",
+    "name": "",
+    "category": "art",
+    "lat": 55.8219538,
+    "lon": 49.0522791,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "graffiti",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/12084582205",
+    "name": "",
+    "category": "art",
+    "lat": 55.8209422,
+    "lon": 49.0545193,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "graffiti",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/12109793489",
+    "name": "",
+    "category": "art",
+    "lat": 55.8159726,
+    "lon": 49.1045661,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "mural",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/12128335503",
+    "name": "",
+    "category": "art",
+    "lat": 55.8308974,
+    "lon": 49.0595326,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "graffiti",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/12143539776",
+    "name": "",
+    "category": "art",
+    "lat": 55.796525,
+    "lon": 49.1250337,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "relief",
+      "material": "metal",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/12150261075",
+    "name": "",
+    "category": "art",
+    "lat": 55.8304605,
+    "lon": 49.262917,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "sculpture",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/12152154905",
+    "name": "",
+    "category": "art",
+    "lat": 55.7832596,
+    "lon": 49.2239243,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "mural",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/12159356368",
+    "name": "",
+    "category": "art",
+    "lat": 55.811869,
+    "lon": 49.1806411,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "installation",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/12165955695",
+    "name": "",
+    "category": "art",
+    "lat": 55.7808178,
+    "lon": 49.1164137,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "sculpture",
+      "material": "metal",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/12165955823",
+    "name": "",
+    "category": "art",
+    "lat": 55.7806399,
+    "lon": 49.1155385,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "graffiti",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/12209493128",
+    "name": "",
+    "category": "art",
+    "lat": 55.7907071,
+    "lon": 49.2234254,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "graffiti",
+      "fixme": "Please merge me into a nearby wall",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/12248833633",
+    "name": "",
+    "category": "art",
+    "lat": 55.8026584,
+    "lon": 49.1016306,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "graffiti",
+      "fixme": "Please merge me into a nearby wall",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/12638770965",
+    "name": "",
+    "category": "art",
+    "lat": 55.7972914,
+    "lon": 49.0485051,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "mural",
+      "fixme": "Please merge me into a nearby wall",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/12754681001",
+    "name": "",
+    "category": "art",
+    "lat": 55.7460957,
+    "lon": 49.2177274,
+    "address": "улица Рихарда Зорге, 93",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "addr:housenumber": "93",
+      "addr:street": "улица Рихарда Зорге",
+      "artwork_type": "mural",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/12755532677",
+    "name": "",
+    "category": "art",
+    "lat": 55.8341641,
+    "lon": 49.0985353,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "mosaic",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/12755532678",
+    "name": "",
+    "category": "art",
+    "lat": 55.8341344,
+    "lon": 49.0992459,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "mural",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/12755532679",
+    "name": "",
+    "category": "art",
+    "lat": 55.8341439,
+    "lon": 49.0999064,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "mural",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/12755532680",
+    "name": "",
+    "category": "art",
+    "lat": 55.8334664,
+    "lon": 49.0998644,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "mural",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/12755532681",
+    "name": "",
+    "category": "art",
+    "lat": 55.8321819,
+    "lon": 49.0983778,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "mural",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/12755532682",
+    "name": "",
+    "category": "art",
+    "lat": 55.8321181,
+    "lon": 49.0998272,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "mural",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/12816279601",
+    "name": "",
+    "category": "art",
+    "lat": 55.7700595,
+    "lon": 49.2362171,
+    "address": "улица Ноксинский Спуск, 15",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "addr:housenumber": "15",
+      "addr:street": "улица Ноксинский Спуск",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/12863010226",
+    "name": "",
+    "category": "art",
+    "lat": 55.8170355,
+    "lon": 49.1028114,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "graffiti",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/12863028609",
+    "name": "",
+    "category": "art",
+    "lat": 55.747839,
+    "lon": 49.220259,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "graffiti",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/12950348705",
+    "name": "",
+    "category": "art",
+    "lat": 55.8208613,
+    "lon": 49.1067709,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "mural",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/12950348706",
+    "name": "",
+    "category": "art",
+    "lat": 55.8208597,
+    "lon": 49.1083592,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "mural",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/12952500478",
+    "name": "",
+    "category": "art",
+    "lat": 55.7830425,
+    "lon": 49.1309269,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "installation",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/12974213222",
+    "name": "",
+    "category": "art",
+    "lat": 55.8350826,
+    "lon": 49.0486692,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artist_name": "Bozik",
+      "artwork_type": "mural",
+      "fixme": "Please merge me into a nearby wall",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/12983549392",
+    "name": "",
+    "category": "art",
+    "lat": 55.7916297,
+    "lon": 49.118756,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "relief",
+      "inscription": "E=mc²",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/13002498710",
+    "name": "",
+    "category": "art",
+    "lat": 55.7936274,
+    "lon": 49.1216137,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "Лев",
+    "osm_tags": {
+      "artwork_type": "sculpture",
+      "description": "Лев",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/13002498738",
+    "name": "",
+    "category": "art",
+    "lat": 55.7936956,
+    "lon": 49.1216525,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "Лев",
+    "osm_tags": {
+      "artwork_type": "sculpture",
+      "description": "Лев",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/13019791406",
+    "name": "",
+    "category": "art",
+    "lat": 55.8208618,
+    "lon": 49.1096247,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "mural",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/13076481101",
+    "name": "",
+    "category": "art",
+    "lat": 55.8644234,
+    "lon": 49.2221367,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/13100947952",
+    "name": "",
+    "category": "art",
+    "lat": 55.8282065,
+    "lon": 49.0808828,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "graffiti",
+      "fixme": "Please merge me into a nearby wall",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/13112863678",
+    "name": "",
+    "category": "art",
+    "lat": 55.782,
+    "lon": 49.1381192,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "graffiti",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/13142525360",
+    "name": "",
+    "category": "art",
+    "lat": 55.7811955,
+    "lon": 49.11269,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "graffiti",
+      "fixme": "Please merge me into a nearby wall",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/13177199873",
+    "name": "",
+    "category": "art",
+    "lat": 55.8306412,
+    "lon": 49.1459668,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "graffiti",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/13177199874",
+    "name": "",
+    "category": "art",
+    "lat": 55.8305298,
+    "lon": 49.145959,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "graffiti",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/13181088440",
+    "name": "",
+    "category": "art",
+    "lat": 55.8195323,
+    "lon": 49.0842071,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "graffiti",
+      "fixme": "Please merge me into a nearby wall",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/13324766711",
+    "name": "",
+    "category": "art",
+    "lat": 55.786325,
+    "lon": 49.1227352,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "mosaic",
+      "indoor": "yes",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/13324766712",
+    "name": "",
+    "category": "art",
+    "lat": 55.7863259,
+    "lon": 49.1221947,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "mosaic",
+      "indoor": "yes",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/13337683901",
+    "name": "",
+    "category": "art",
+    "lat": 55.7799379,
+    "lon": 49.1140641,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "mural",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/13413454497",
+    "name": "",
+    "category": "art",
+    "lat": 55.8264621,
+    "lon": 49.0925213,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "tilework",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/13418396290",
+    "name": "",
+    "category": "art",
+    "lat": 55.8363531,
+    "lon": 49.1468226,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "mural",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/13758160017",
+    "name": "",
+    "category": "art",
+    "lat": 55.820181,
+    "lon": 49.1271072,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "mural",
+      "fixme": "Please merge me into a nearby wall",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/13758172713",
+    "name": "",
+    "category": "art",
+    "lat": 55.7937394,
+    "lon": 49.1043478,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "graffiti",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/13960454487",
+    "name": "",
+    "category": "art",
+    "lat": 55.8131939,
+    "lon": 49.0614768,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "mural",
+      "fixme": "Please merge me into a nearby wall",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/14016853469",
+    "name": "",
+    "category": "art",
+    "lat": 55.7738573,
+    "lon": 49.1006186,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/1818815662",
+    "name": "",
+    "category": "art",
+    "lat": 55.7441498,
+    "lon": 49.1897377,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/2794349710",
+    "name": "",
+    "category": "art",
+    "lat": 55.8191157,
+    "lon": 49.0965967,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/3457649519",
+    "name": "",
+    "category": "art",
+    "lat": 55.7678382,
+    "lon": 49.1461026,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/4932698081",
+    "name": "",
+    "category": "art",
+    "lat": 55.8058306,
+    "lon": 49.1463438,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "graffiti",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/5037354397",
+    "name": "",
+    "category": "art",
+    "lat": 55.871296,
+    "lon": 49.2268353,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "graffiti",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/5037354403",
+    "name": "",
+    "category": "art",
+    "lat": 55.8704683,
+    "lon": 49.2266958,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "statue",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/5037354404",
+    "name": "",
+    "category": "art",
+    "lat": 55.8707806,
+    "lon": 49.2270915,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "statue",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/5950835094",
+    "name": "",
+    "category": "art",
+    "lat": 55.7951567,
+    "lon": 49.1720165,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "sculpture",
+      "material": "metal",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/6571712966",
+    "name": "",
+    "category": "art",
+    "lat": 55.8361011,
+    "lon": 48.9614047,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "sculpture",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/6609791159",
+    "name": "",
+    "category": "art",
+    "lat": 55.7871611,
+    "lon": 49.1128422,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "graffiti",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/6609806451",
+    "name": "",
+    "category": "art",
+    "lat": 55.7734977,
+    "lon": 49.1177823,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "graffiti",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/6609845612",
+    "name": "",
+    "category": "art",
+    "lat": 55.7809155,
+    "lon": 49.1165658,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "graffiti",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/7920728440",
+    "name": "",
+    "category": "art",
+    "lat": 55.7938229,
+    "lon": 49.1482486,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/8536011117",
+    "name": "",
+    "category": "art",
+    "lat": 55.8305364,
+    "lon": 49.0464228,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artist_name": "Sly Dog",
+      "artwork_type": "graffiti",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/8697511517",
+    "name": "",
+    "category": "art",
+    "lat": 55.8057839,
+    "lon": 49.0745106,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "mural",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/8968458717",
+    "name": "",
+    "category": "art",
+    "lat": 55.7909471,
+    "lon": 49.1006029,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artist_name": "Bozik",
+      "artwork_type": "graffiti",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/9210114302",
+    "name": "",
+    "category": "art",
+    "lat": 55.7593774,
+    "lon": 49.1145252,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "statue",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/9308038717",
+    "name": "",
+    "category": "art",
+    "lat": 55.8249923,
+    "lon": 49.1111606,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artist_name": "SAV 45",
+      "artwork_type": "mural",
+      "start_date": "2021",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/9599384976",
+    "name": "",
+    "category": "art",
+    "lat": 55.8222661,
+    "lon": 49.1113937,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "mural",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/9602979450",
+    "name": "",
+    "category": "art",
+    "lat": 55.7619495,
+    "lon": 49.2069738,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "installation",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/9602989248",
+    "name": "",
+    "category": "art",
+    "lat": 55.7604667,
+    "lon": 49.2118722,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "installation",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/9631265017",
+    "name": "",
+    "category": "art",
+    "lat": 55.8213213,
+    "lon": 49.1095188,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/9631265217",
+    "name": "",
+    "category": "art",
+    "lat": 55.8225848,
+    "lon": 49.1113357,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "mural",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/9676775711",
+    "name": "",
+    "category": "art",
+    "lat": 55.7407078,
+    "lon": 49.1327396,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "sculpture",
+      "material": "metal",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/9702311267",
+    "name": "",
+    "category": "art",
+    "lat": 55.8130856,
+    "lon": 49.1086296,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "statue",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/9702311268",
+    "name": "",
+    "category": "art",
+    "lat": 55.813086,
+    "lon": 49.1078544,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "statue",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/9702311269",
+    "name": "",
+    "category": "art",
+    "lat": 55.8125441,
+    "lon": 49.1078537,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "statue",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/9702311270",
+    "name": "",
+    "category": "art",
+    "lat": 55.8125438,
+    "lon": 49.1086288,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "statue",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/9702572283",
+    "name": "",
+    "category": "art",
+    "lat": 55.7981973,
+    "lon": 49.1163354,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/9760243359",
+    "name": "",
+    "category": "art",
+    "lat": 55.7780487,
+    "lon": 49.1331866,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "graffiti",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/9776584454",
+    "name": "",
+    "category": "art",
+    "lat": 55.8028446,
+    "lon": 49.112748,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "Буквы Казань",
+    "osm_tags": {
+      "artwork_type": "installation",
+      "description": "Буквы Казань",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/9781135190",
+    "name": "",
+    "category": "art",
+    "lat": 55.7987236,
+    "lon": 49.1841763,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "installation",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/9781217073",
+    "name": "",
+    "category": "art",
+    "lat": 55.7827997,
+    "lon": 49.1978543,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "sculpture",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/9781589031",
+    "name": "",
+    "category": "art",
+    "lat": 55.8385297,
+    "lon": 49.1018913,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "graffiti",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/9781757228",
+    "name": "",
+    "category": "art",
+    "lat": 55.8270377,
+    "lon": 49.1000851,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artist_name": "Bozik",
+      "artwork_type": "graffiti",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/9785703056",
+    "name": "",
+    "category": "art",
+    "lat": 55.7935388,
+    "lon": 49.1712615,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "sculpture",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/9789086938",
+    "name": "",
+    "category": "art",
+    "lat": 55.8181098,
+    "lon": 49.0970298,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "Футболисты из цветов",
+    "osm_tags": {
+      "artwork_type": "installation",
+      "description": "Футболисты из цветов",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/9838871590",
+    "name": "",
+    "category": "art",
+    "lat": 55.7954014,
+    "lon": 49.1357497,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "statue",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/9846873514",
+    "name": "",
+    "category": "art",
+    "lat": 55.8300842,
+    "lon": 49.0792571,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "sculpture",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/9855122072",
+    "name": "",
+    "category": "art",
+    "lat": 55.7782351,
+    "lon": 49.1090759,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "Габдулла Тукай",
+    "osm_tags": {
+      "artist_name": "Bozik",
+      "artwork_type": "mural",
+      "description": "Габдулла Тукай",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/9881506519",
+    "name": "",
+    "category": "art",
+    "lat": 55.7874871,
+    "lon": 49.1040067,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/9882757241",
+    "name": "",
+    "category": "art",
+    "lat": 55.7797897,
+    "lon": 49.1127033,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/9911705683",
+    "name": "",
+    "category": "art",
+    "lat": 55.7782449,
+    "lon": 49.1415497,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "sculpture",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/9953531800",
+    "name": "",
+    "category": "art",
+    "lat": 55.7752051,
+    "lon": 49.1435826,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "inscription": "GULDENE BER, QAZAN! Shygys Dazaqstan atynan",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/9978776581",
+    "name": "",
+    "category": "art",
+    "lat": 55.7929676,
+    "lon": 49.1269087,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "mural",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "way/593615204",
+    "name": "",
+    "category": "art",
+    "lat": 55.7628742,
+    "lon": 49.2128097,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "installation",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/11115940470",
+    "name": "#Добрый Советский",
+    "category": "art",
+    "lat": 55.8185716,
+    "lon": 49.1771563,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "inscription",
+      "inscription": "#Добрый Советский",
+      "name": "#Добрый Советский",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/9838444894",
+    "name": "#Добрый Советский",
+    "category": "art",
+    "lat": 55.7935418,
+    "lon": 49.1718708,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "inscription",
+      "inscription": "#Добрый Советский",
+      "name": "#Добрый Советский",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/13112863650",
+    "name": "413",
+    "category": "art",
+    "lat": 55.8018231,
+    "lon": 49.1341808,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artist_name": "Василий Клюкин",
+      "artwork_type": "installation",
+      "name": "413",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/2382416503",
+    "name": "6-летию РЖД",
+    "category": "art",
+    "lat": 55.8194777,
+    "lon": 48.8752249,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "name": "6-летию РЖД",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/11350619627",
+    "name": "AK bars retro cars",
+    "category": "art",
+    "lat": 55.7628499,
+    "lon": 49.1573701,
+    "address": "",
+    "opening_hours": "10:00-20:00",
+    "website": "https://akbarsretrocars.ru",
+    "phone": "+7 843 5610311",
+    "description": "",
+    "osm_tags": {
+      "amenity": "exhibition_centre",
+      "check_date": "2026-02-28",
+      "contact:email": "akbarsretrocars@gmail.com",
+      "contact:phone": "+7 843 5610311",
+      "contact:website": "https://akbarsretrocars.ru",
+      "name": "AK bars retro cars",
+      "opening_hours": "10:00-20:00",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "id": "node/11169395724",
+    "name": "Artplay Media",
+    "category": "art",
+    "lat": 55.789132,
+    "lon": 49.123749,
+    "address": "",
+    "opening_hours": "Fr-Sa 10:00-22:00; Mo-Th,Su 10:00-21:00",
+    "website": "https://artplaymediakazan.ru/",
+    "phone": "+7 987 4011616",
+    "description": "",
+    "osm_tags": {
+      "amenity": "arts_centre",
+      "contact:email": "main@artplaykazan.ru",
+      "contact:phone": "+7 987 4011616",
+      "contact:website": "https://artplaymediakazan.ru/",
+      "name": "Artplay Media",
+      "opening_hours": "Fr-Sa 10:00-22:00; Mo-Th,Su 10:00-21:00"
+    }
+  },
+  {
+    "id": "node/9995602250",
+    "name": "Belova art gallery",
+    "category": "art",
+    "lat": 55.7952023,
+    "lon": 49.1125217,
+    "address": "",
+    "opening_hours": "Tu-Sa 12:00-20:00",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "addr:floor": "1",
+      "check_date": "2022-09-02",
+      "level": "0",
+      "name": "Belova art gallery",
+      "opening_hours": "Tu-Sa 12:00-20:00",
+      "operator": "ИП Белова В. В.",
+      "tourism": "gallery"
+    }
+  },
+  {
+    "id": "node/9781135166",
+    "name": "Bestiarium",
+    "category": "art",
+    "lat": 55.7965439,
+    "lon": 49.1892752,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "Мурал «Bestiarium»",
+    "osm_tags": {
+      "artwork_type": "mural",
+      "description": "Мурал «Bestiarium»",
+      "name": "Bestiarium",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/13002498727",
+    "name": "Figital игры будущего",
+    "category": "art",
+    "lat": 55.7891348,
+    "lon": 49.1219154,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "graffiti",
+      "name": "Figital игры будущего",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/11348785499",
+    "name": "I 🌷 Kazan",
+    "category": "art",
+    "lat": 55.8200868,
+    "lon": 49.0901871,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "inscription",
+      "direction": "350",
+      "inscription": "I 🌷 Kazan",
+      "name": "I 🌷 Kazan",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/12244984711",
+    "name": "Jamal art gallery",
+    "category": "art",
+    "lat": 55.8344035,
+    "lon": 49.0587631,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "+7 984 1391006",
+    "description": "",
+    "osm_tags": {
+      "check_date": "2025-09-26",
+      "contact:phone": "+7 984 1391006",
+      "name": "Jamal art gallery",
+      "tourism": "gallery",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "id": "node/12144159366",
+    "name": "Per scientiam ad astra",
+    "category": "art",
+    "lat": 55.8198213,
+    "lon": 49.1314411,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artist_name": "Сергей IMAN",
+      "artwork_type": "mural",
+      "name": "Per scientiam ad astra",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/10004372096",
+    "name": "Sverhmodern",
+    "category": "art",
+    "lat": 55.7962407,
+    "lon": 49.1138861,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "check_date": "2022-09-06",
+      "name": "Сверхмодерн",
+      "name:ru": "Sverhmodern",
+      "tourism": "gallery",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "id": "node/11033844391",
+    "name": "Universiade Kazan 2013",
+    "category": "art",
+    "lat": 55.788988,
+    "lon": 49.1218153,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "graffiti",
+      "name": "Universiade Kazan 2013",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/11807320641",
+    "name": "А. Н. Островский",
+    "category": "art",
+    "lat": 55.7907092,
+    "lon": 49.1137058,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "mural",
+      "name": "А. Н. Островский",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "way/90178096",
+    "name": "Адонис",
+    "category": "art",
+    "lat": 55.79387,
+    "lon": 49.1118485,
+    "address": "Казань, улица Чернышевского, 9",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "addr:city": "Казань",
+      "addr:country": "RU",
+      "addr:housenumber": "9",
+      "addr:street": "улица Чернышевского",
+      "amenity": "arts_centre",
+      "building": "commercial",
+      "name": "Адонис"
+    }
+  },
+  {
+    "id": "node/11150023005",
+    "name": "Айболит",
+    "category": "art",
+    "lat": 55.7544699,
+    "lon": 49.2336401,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "sculpture",
+      "name": "Айболит",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/9808531214",
+    "name": "Ак барс",
+    "category": "art",
+    "lat": 55.7847503,
+    "lon": 49.1181988,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "sculpture",
+      "material": "grass",
+      "name": "Ак барс",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/12059171728",
+    "name": "Ак Барс Галерея",
+    "category": "art",
+    "lat": 55.7912875,
+    "lon": 49.1114402,
+    "address": "",
+    "opening_hours": "Mo-Fr 10:00-19:00; Sa-Su 11:00-19:00",
+    "website": "",
+    "phone": "+7 843 2925062",
+    "description": "",
+    "osm_tags": {
+      "amenity": "arts_centre",
+      "contact:email": "akbars_galereya@mail.ru",
+      "contact:phone": "+7 843 2925062",
+      "name": "Ак Барс Галерея",
+      "opening_hours": "Mo-Fr 10:00-19:00; Sa-Su 11:00-19:00"
+    }
+  },
+  {
+    "id": "node/11064007511",
+    "name": "Алексей Вербов",
+    "category": "art",
+    "lat": 55.7834007,
+    "lon": 49.1262716,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "Игрок Зенит Казань",
+    "osm_tags": {
+      "artwork_type": "graffiti",
+      "description": "Игрок Зенит Казань",
+      "name": "Алексей Вербов",
+      "subject:wikidata": "Q921790",
+      "subject:wikipedia": "ru:Вербов, Алексей Игоревич",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/10690064205",
+    "name": "Алтынчеч",
+    "category": "art",
+    "lat": 55.7909742,
+    "lon": 49.2223876,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "name": "Алтынчеч",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/9776584465",
+    "name": "Бабочки",
+    "category": "art",
+    "lat": 55.8039025,
+    "lon": 49.1239979,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "installation",
+      "name": "Бабочки",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/14000553602",
+    "name": "Банщик-барабанщик",
+    "category": "art",
+    "lat": 55.7970394,
+    "lon": 49.1228277,
+    "address": "",
+    "opening_hours": "",
+    "website": "https://krot.guide/obitateli#rec2242611441",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artist_name": "Проект Петра Работника (33+1) и Крота Казанского",
+      "artwork_type": "mural",
+      "name": "Банщик-барабанщик",
+      "tourism": "artwork",
+      "website": "https://krot.guide/obitateli#rec2242611441"
+    }
+  },
+  {
+    "id": "node/12061617224",
+    "name": "Батыршин Г. А.",
+    "category": "art",
+    "lat": 55.8226488,
+    "lon": 49.0651413,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "graffiti",
+      "name": "Батыршин Г. А.",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/9308038617",
+    "name": "Белые цветы",
+    "category": "art",
+    "lat": 55.8242634,
+    "lon": 49.111152,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "mural",
+      "name": "Белые цветы",
+      "start_date": "2021",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/12236527158",
+    "name": "Берегиня",
+    "category": "art",
+    "lat": 55.789337,
+    "lon": 49.1440256,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artist_name": "Сергей Аксе и Супернова",
+      "artwork_type": "graffiti",
+      "name": "Берегиня",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/12755532683",
+    "name": "Берёзка",
+    "category": "art",
+    "lat": 55.8259987,
+    "lon": 49.1013562,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "tilework",
+      "name": "Берёзка",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/13002498714",
+    "name": "Бизон",
+    "category": "art",
+    "lat": 55.7902258,
+    "lon": 49.12493,
+    "address": "",
+    "opening_hours": "Tu-Su 12:00-20:00",
+    "website": "https://bizon.gallery/",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "addr:floor": "1",
+      "check_date": "2026-03-21",
+      "contact:website": "https://bizon.gallery/",
+      "level": "0",
+      "name": "Бизон",
+      "opening_hours": "Tu-Su 12:00-20:00",
+      "operator": "ООО \"Фото агентство \"БО-Фото\"",
+      "tourism": "gallery",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "id": "node/1577985990",
+    "name": "Благотворителю",
+    "category": "art",
+    "lat": 55.7986861,
+    "lon": 49.1024332,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artist_name": "Асия Минуллина",
+      "artwork_type": "statue",
+      "historic": "memorial",
+      "image": "https://ru.wikipedia.org/wiki/Файл:Памятник_благотворителю_(Казань).jpg",
+      "material": "metal",
+      "memorial": "sculpture",
+      "name": "Благотворителю",
+      "name:en": "Philanthropist",
+      "name:ru": "Благотворителю",
+      "start_date": "2008-08-30",
+      "subject:wikidata": "Q21092651",
+      "subject:wikipedia": "ru:Галимзянов, Асгат Галимзянович",
+      "subject:wikipedia:tt": "Äsğät Ğalimcanov",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/10138200416",
+    "name": "Богатыри",
+    "category": "art",
+    "lat": 55.7720098,
+    "lon": 49.1397629,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "sculpture",
+      "name": "Богатыри",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/12092274997",
+    "name": "Валерий Чкалов",
+    "category": "art",
+    "lat": 55.8195652,
+    "lon": 49.0598772,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "mural",
+      "name": "Валерий Чкалов",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/11203187102",
+    "name": "Вдыхайте",
+    "category": "art",
+    "lat": 55.9027671,
+    "lon": 49.1578939,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "sculpture",
+      "material": "metal",
+      "name": "Вдыхайте",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/13343165287",
+    "name": "Ветер Победы шепчет их имена...",
+    "category": "art",
+    "lat": 55.7723704,
+    "lon": 49.1465345,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "mural",
+      "fixme": "Please merge me into a nearby wall",
+      "name": "Ветер Победы шепчет их имена...",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/11840701668",
+    "name": "Вечность",
+    "category": "art",
+    "lat": 55.7788809,
+    "lon": 49.1317265,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artist_name": "Женя Андерсон",
+      "artwork_type": "installation",
+      "name": "Вечность",
+      "name:en": "Perpetual",
+      "name:ru": "Вечность",
+      "start_date": "2023",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/12122506128",
+    "name": "Взрастим сады",
+    "category": "art",
+    "lat": 55.8250577,
+    "lon": 49.0882433,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "mosaic",
+      "man_made": "artwork",
+      "name": "Взрастим сады",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/1213534571",
+    "name": "Владыкой мира будет труд",
+    "category": "art",
+    "lat": 55.7855414,
+    "lon": 49.1129314,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "Выполнена известным скульптором Садри Ахуновым в 1935 году. В основе идеи создания скульптуры лежит прославление труда на всем земном шаре.",
+    "osm_tags": {
+      "artist_name": "Садри Ахунов",
+      "artwork_type": "sculpture",
+      "description": "Выполнена известным скульптором Садри Ахуновым в 1935 году. В основе идеи создания скульптуры лежит прославление труда на всем земном шаре.",
+      "name": "Владыкой мира будет труд",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/14000553607",
+    "name": "Влюблённый кафешёнок",
+    "category": "art",
+    "lat": 55.792904,
+    "lon": 49.1331193,
+    "address": "",
+    "opening_hours": "",
+    "website": "https://krot.guide/obitateli#rec2242611441",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artist_name": "Проект Петра Работника (33+1) и Крота Казанского",
+      "artwork_type": "mural",
+      "name": "Влюблённый кафешёнок",
+      "tourism": "artwork",
+      "website": "https://krot.guide/obitateli#rec2242611441"
+    }
+  },
+  {
+    "id": "node/5225221592",
+    "name": "Волк",
+    "category": "art",
+    "lat": 55.7604073,
+    "lon": 49.2096841,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "sculpture",
+      "material": "metal",
+      "name": "Волк",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/13002498739",
+    "name": "Время. Система. Энергия. НОТ.",
+    "category": "art",
+    "lat": 55.7933833,
+    "lon": 49.1235322,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "inscription": "Время система энергия НОТ",
+      "name": "Время. Система. Энергия. НОТ.",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/14156727842",
+    "name": "Г. Тукай",
+    "category": "art",
+    "lat": 55.7859905,
+    "lon": 49.1240619,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "addr:floor": "0",
+      "artwork_type": "bust",
+      "inscription": "Г. Тукай",
+      "level": "-1",
+      "material": "metal",
+      "name": "Г. Тукай",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "way/101558579",
+    "name": "Галерея современного искусства",
+    "category": "art",
+    "lat": 55.7955266,
+    "lon": 49.135991,
+    "address": "Казань, улица Карла Маркса, 57",
+    "opening_hours": "Tu-Su 11:00-20:00",
+    "website": "https://izo-muzeum.ru",
+    "phone": "+7 843 2384327",
+    "description": "closed last Tue of month",
+    "osm_tags": {
+      "addr:city": "Казань",
+      "addr:country": "RU",
+      "addr:housenumber": "57",
+      "addr:street": "улица Карла Маркса",
+      "building": "civic",
+      "check_date": "2025-07-12",
+      "contact:phone": "+7 843 2384327",
+      "contact:website": "https://izo-muzeum.ru",
+      "description": "closed last Tue of month",
+      "name": "Галерея современного искусства",
+      "name:en": "Gallery of modern and contemporary art",
+      "name:ru": "Галерея современного искусства",
+      "opening_hours": "Tu-Su 11:00-20:00",
+      "tourism": "gallery"
+    }
+  },
+  {
+    "id": "node/5487842936",
+    "name": "Галерея—мастерская Зайцева",
+    "category": "art",
+    "lat": 55.7901857,
+    "lon": 49.1133275,
+    "address": "420111, Казань, улица Островского, 9/3",
+    "opening_hours": "10:00-20:00",
+    "website": "https://xn--80aaahcnabqvr5d8d1f.xn--p1ai/",
+    "phone": "+7 9270391938",
+    "description": "Яркая, творческая достопримечательность города Казани, расположенная в историческом центре города. Выделяющаяся, на фоне традиционных галерей и музеев нестандартным подходом к искусству и разнообразием творческих идей.",
+    "osm_tags": {
+      "addr:city": "Казань",
+      "addr:housenumber": "9/3",
+      "addr:postcode": "420111",
+      "addr:street": "улица Островского",
+      "check_date": "2023-12-03",
+      "description": "Яркая, творческая достопримечательность города Казани, расположенная в историческом центре города. Выделяющаяся, на фоне традиционных галерей и музеев нестандартным подходом к искусству и разнообразием творческих идей.",
+      "email": "galleryzaitsev@gmail.com",
+      "level": "0",
+      "name": "Галерея—мастерская Зайцева",
+      "name:en": "Zaitsev Gallery–Workshop",
+      "name:ru": "Галерея—мастерская Зайцева",
+      "opening_hours": "10:00-20:00",
+      "payment:cash": "yes",
+      "payment:credit_cards": "yes",
+      "payment:debit_cards": "yes",
+      "payment:mastercard": "yes",
+      "phone": "+7 9270391938",
+      "short_name": "Галерея Зайцева",
+      "short_name:en": "Gallery Zaitsev",
+      "start_date": "11.06.2016",
+      "tourism": "gallery",
+      "website": "https://xn--80aaahcnabqvr5d8d1f.xn--p1ai/",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "id": "node/13227663802",
+    "name": "Герои татарских сказок",
+    "category": "art",
+    "lat": 55.768059,
+    "lon": 49.2334353,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "name": "Герои татарских сказок",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/9575887068",
+    "name": "Герой Советского союза Кузнецов Борис Кириллович",
+    "category": "art",
+    "lat": 55.7852131,
+    "lon": 49.1315354,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "graffiti",
+      "name": "Герой Советского союза Кузнецов Борис Кириллович",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/10033357174",
+    "name": "Год космонавтики",
+    "category": "art",
+    "lat": 55.8406483,
+    "lon": 49.0829783,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "Портрет Гагарина, 2011 год космонавтики",
+    "osm_tags": {
+      "artwork_type": "graffiti",
+      "description": "Портрет Гагарина, 2011 год космонавтики",
+      "name": "Год космонавтики",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/12140566462",
+    "name": "Год учителя",
+    "category": "art",
+    "lat": 55.8402351,
+    "lon": 49.0849967,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "2010 год учителя",
+    "osm_tags": {
+      "artwork_type": "graffiti",
+      "description": "2010 год учителя",
+      "name": "Год учителя",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/14000553605",
+    "name": "Голубь-почтальон",
+    "category": "art",
+    "lat": 55.7987236,
+    "lon": 49.1330072,
+    "address": "",
+    "opening_hours": "",
+    "website": "https://krot.guide/obitateli#rec2242611441",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artist_name": "Проект Петра Работника (33+1) и Крота Казанского",
+      "artwork_type": "mural",
+      "name": "Голубь-почтальон",
+      "tourism": "artwork",
+      "website": "https://krot.guide/obitateli#rec2242611441"
+    }
+  },
+  {
+    "id": "node/12863006660",
+    "name": "Дамир Гилемханов",
+    "category": "art",
+    "lat": 55.7566943,
+    "lon": 49.2305253,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "mural",
+      "name": "Дамир Гилемханов",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/8073955118",
+    "name": "Дарить города",
+    "category": "art",
+    "lat": 55.7993814,
+    "lon": 49.1783977,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "Витраж «Дарить города»",
+    "osm_tags": {
+      "artwork_type": "stained_glass",
+      "description": "Витраж «Дарить города»",
+      "name": "Дарить города",
+      "name:ru": "Дарить города",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/10793534748",
+    "name": "Дворник",
+    "category": "art",
+    "lat": 55.8208283,
+    "lon": 49.086074,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "statue",
+      "material": "wood",
+      "name": "Дворник",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/9783888905",
+    "name": "Дерево любви",
+    "category": "art",
+    "lat": 55.7766999,
+    "lon": 49.143292,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "installation",
+      "name": "Дерево любви",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/9783888906",
+    "name": "Дерево любви",
+    "category": "art",
+    "lat": 55.7765971,
+    "lon": 49.1431419,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "\"Замковое\" дерево",
+    "osm_tags": {
+      "artwork_type": "installation",
+      "description": "\"Замковое\" дерево",
+      "name": "Дерево любви",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/11187929848",
+    "name": "Деревья",
+    "category": "art",
+    "lat": 55.761666,
+    "lon": 49.1370844,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "sculpture",
+      "material": "concrete",
+      "name": "Деревья",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/12155901369",
+    "name": "Детская мастерская «Идейная»",
+    "category": "art",
+    "lat": 55.8011995,
+    "lon": 49.1304371,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "amenity": "arts_centre",
+      "name": "Детская мастерская «Идейная»"
+    }
+  },
+  {
+    "id": "node/6871960585",
+    "name": "Детская художественная школа №3",
+    "category": "art",
+    "lat": 55.8409479,
+    "lon": 49.1553136,
+    "address": "420137",
+    "opening_hours": "Mo-Sa 08:00-12:00, 14:00-20:00",
+    "website": "https://edu.tatar.ru/nsav/page523120.htm",
+    "phone": "+78435203226",
+    "description": "",
+    "osm_tags": {
+      "addr:postcode": "420137",
+      "amenity": "arts_centre",
+      "email": "dxsh3@mail.ru",
+      "name": "Детская художественная школа №3",
+      "name:en": "Children's art school №3",
+      "opening_hours": "Mo-Sa 08:00-12:00, 14:00-20:00",
+      "phone": "+78435203226",
+      "website": "https://edu.tatar.ru/nsav/page523120.htm"
+    }
+  },
+  {
+    "id": "node/9599370377",
+    "name": "Джоконда с Айфоном",
+    "category": "art",
+    "lat": 55.7895897,
+    "lon": 49.1175208,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "graffiti",
+      "name": "Джоконда с Айфоном",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/9897119428",
+    "name": "Дидье Дишам",
+    "category": "art",
+    "lat": 55.7937597,
+    "lon": 49.1080258,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "mural",
+      "name": "Дидье Дишам",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/4402518618",
+    "name": "Доверие",
+    "category": "art",
+    "lat": 55.7935019,
+    "lon": 49.1108846,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artist_name": "Фаниль Альтафович Валиуллин",
+      "artwork_type": "statue",
+      "name": "Доверие",
+      "name:ru": "Доверие",
+      "start_date": "2016",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "way/104528777",
+    "name": "Дом ученых",
+    "category": "art",
+    "lat": 55.7881713,
+    "lon": 49.132907,
+    "address": "Казань, улица Бутлерова, 30",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "addr:city": "Казань",
+      "addr:country": "RU",
+      "addr:housenumber": "30",
+      "addr:street": "улица Бутлерова",
+      "amenity": "arts_centre",
+      "building": "civic",
+      "historic": "heritage",
+      "name": "Дом ученых",
+      "name:en": "House of scientists",
+      "wikidata": "Q4165612",
+      "wikipedia": "ru:Дом учёных (Казань)"
+    }
+  },
+  {
+    "id": "node/5273696999",
+    "name": "Дракон Зилант",
+    "category": "art",
+    "lat": 55.7959167,
+    "lon": 49.1060529,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artist_name": "Губайдуллин Марат",
+      "artwork_type": "statue",
+      "name": "Дракон Зилант",
+      "name:en": "Zilant dragon",
+      "start_date": "2005",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/12714521733",
+    "name": "Единорог",
+    "category": "art",
+    "lat": 55.8144007,
+    "lon": 49.1434637,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "installation",
+      "material": "metal",
+      "name": "Единорог",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/14000553601",
+    "name": "Ждущая конца света",
+    "category": "art",
+    "lat": 55.7902858,
+    "lon": 49.1308199,
+    "address": "",
+    "opening_hours": "",
+    "website": "https://krot.guide/obitateli#rec2242611441",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artist_name": "Проект Петра Работника (33+1) и Крота Казанского",
+      "artwork_type": "mural",
+      "name": "Ждущая конца света",
+      "tourism": "artwork",
+      "website": "https://krot.guide/obitateli#rec2242611441"
+    }
+  },
+  {
+    "id": "node/2947296723",
+    "name": "Загадки Шурале",
+    "category": "art",
+    "lat": 55.7838634,
+    "lon": 49.1183871,
+    "address": "420056, Казань, улица Татарстан, 2",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "Скульптура “Загадки Шурале” была создана по мотивам сказки великого татарского поэта Габдуллы Тукая, к празднованию 125-летия со дня его рождения.",
+    "osm_tags": {
+      "addr:city": "Казань",
+      "addr:housenumber": "2",
+      "addr:postcode": "420056",
+      "addr:street": "улица Татарстан",
+      "artwork_type": "sculpture",
+      "description": "Скульптура “Загадки Шурале” была создана по мотивам сказки великого татарского поэта Габдуллы Тукая, к празднованию 125-летия со дня его рождения.",
+      "name": "Загадки Шурале",
+      "name:en": "Shurale's riddles",
+      "tourism": "artwork",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "id": "node/9907198607",
+    "name": "Зонт",
+    "category": "art",
+    "lat": 55.8540225,
+    "lon": 49.20732,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "sculpture",
+      "material": "metal",
+      "name": "Зонт",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/9781589032",
+    "name": "Игорь Нетто",
+    "category": "art",
+    "lat": 55.8157352,
+    "lon": 49.139531,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_subject": "Игорь Нетто",
+      "artwork_type": "mural_painting",
+      "name": "Игорь Нетто",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/13002498726",
+    "name": "Игры BRICS 2024",
+    "category": "art",
+    "lat": 55.7892936,
+    "lon": 49.1221567,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "graffiti",
+      "name": "Игры BRICS 2024",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/11773373064",
+    "name": "Ирбис",
+    "category": "art",
+    "lat": 55.9014505,
+    "lon": 49.1944341,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "statue",
+      "name": "Ирбис",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/11483008889",
+    "name": "Иске Татар Бистесэ",
+    "category": "art",
+    "lat": 55.7811608,
+    "lon": 49.1148982,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "installation",
+      "name": "Иске Татар Бистесэ",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/9764481633",
+    "name": "Кабан",
+    "category": "art",
+    "lat": 55.7912792,
+    "lon": 49.1148457,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "sculpture",
+      "name": "Кабан",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/9982083912",
+    "name": "Казанская художественная галерея",
+    "category": "art",
+    "lat": 55.7967311,
+    "lon": 49.130573,
+    "address": "",
+    "opening_hours": "09:00-21:00",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "addr:floor": "1",
+      "check_date": "2025-07-12",
+      "level": "0",
+      "name": "Казанская художественная галерея",
+      "opening_hours": "09:00-21:00",
+      "operator": "ИП Букатина Л. А.",
+      "tourism": "gallery",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "id": "way/1222198875",
+    "name": "Казанская Ярмарка",
+    "category": "art",
+    "lat": 55.7589851,
+    "lon": 49.1493531,
+    "address": "Оренбургский тракт, 8",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "addr:housenumber": "8",
+      "addr:street": "Оренбургский тракт",
+      "amenity": "exhibition_centre",
+      "landuse": "commercial",
+      "name": "Казанская Ярмарка",
+      "operator": "ОАО \"Казанская ярмарка\"",
+      "wikidata": "Q123376925"
+    }
+  },
+  {
+    "id": "node/9610934717",
+    "name": "Казанский Кремль",
+    "category": "art",
+    "lat": 55.8205079,
+    "lon": 49.1001823,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "tilework",
+      "name": "Казанский Кремль",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/10945938151",
+    "name": "Казанский марафон",
+    "category": "art",
+    "lat": 55.7933748,
+    "lon": 49.1538328,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artist_name": "Братья Сергеевы",
+      "artwork_type": "mural",
+      "name": "Казанский марафон",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "way/72775543",
+    "name": "Казанский молодёжный центр им. А. Гайдара",
+    "category": "art",
+    "lat": 55.8544536,
+    "lon": 49.0834299,
+    "address": "Казань, улица Белинского, 2",
+    "opening_hours": "",
+    "website": "http://kazanmolcenter.ru/",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "addr:city": "Казань",
+      "addr:housenumber": "2",
+      "addr:street": "улица Белинского",
+      "amenity": "arts_centre",
+      "building": "yes",
+      "building:levels": "3",
+      "name": "Казанский молодёжный центр им. А. Гайдара",
+      "roof:shape": "gabled",
+      "website": "http://kazanmolcenter.ru/"
+    }
+  },
+  {
+    "id": "way/1309951362",
+    "name": "Казань",
+    "category": "art",
+    "lat": 55.6686517,
+    "lon": 49.2802792,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "area": "yes",
+      "artwork_type": "sculpture",
+      "material": "metal",
+      "name": "Казань",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/9733470522",
+    "name": "Капитан Татарстан",
+    "category": "art",
+    "lat": 55.8198973,
+    "lon": 49.1254308,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "graffiti",
+      "direction": "180",
+      "location": "wall",
+      "name": "Капитан Татарстан",
+      "tourism": "artwork",
+      "visibility": "street"
+    }
+  },
+  {
+    "id": "node/11178656637",
+    "name": "Картины Валентина Серова",
+    "category": "art",
+    "lat": 55.8311596,
+    "lon": 49.0629828,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "Картины Серова",
+    "osm_tags": {
+      "artwork_type": "mural",
+      "description": "Картины Серова",
+      "name": "Картины Валентина Серова",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/12053149579",
+    "name": "Кеды",
+    "category": "art",
+    "lat": 55.8283196,
+    "lon": 49.0631071,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "graffiti",
+      "name": "Кеды",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/11063619541",
+    "name": "КИРМОС",
+    "category": "art",
+    "lat": 55.8187212,
+    "lon": 49.097439,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "inscription",
+      "direction": "135",
+      "inscription": "КирМос",
+      "name": "КИРМОС",
+      "name:ru": "КИРМОС",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/7379601318",
+    "name": "Колокол желаний",
+    "category": "art",
+    "lat": 55.8385496,
+    "lon": 49.1538877,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "sculpture",
+      "name": "Колокол желаний",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/13002498737",
+    "name": "Конфуций",
+    "category": "art",
+    "lat": 55.7931084,
+    "lon": 49.1234285,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "statue",
+      "inscription": "Конфуций великий китайский философ 551-479 гг. до н.э.",
+      "name": "Конфуций",
+      "name:ru": "Конфуций",
+      "name:zh": "孔子",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/7603659285",
+    "name": "Конь в пальто",
+    "category": "art",
+    "lat": 55.7904789,
+    "lon": 49.1151199,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "statue",
+      "name": "Конь в пальто",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/5809821567",
+    "name": "Конь-страна",
+    "category": "art",
+    "lat": 55.7947285,
+    "lon": 49.1075366,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artist_name": "Рафаэль Сафиулин",
+      "artwork_type": "sculpture",
+      "inscription": "Бәхет сиңа",
+      "name": "Конь-страна",
+      "start_date": "2018",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/13018836201",
+    "name": "Кот",
+    "category": "art",
+    "lat": 55.7851053,
+    "lon": 49.1735311,
+    "address": "улица Степана Разина, 39",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "addr:housenumber": "39",
+      "addr:street": "улица Степана Разина",
+      "artwork_type": "mural",
+      "name": "Кот",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/8607245918",
+    "name": "Красота города",
+    "category": "art",
+    "lat": 55.7923678,
+    "lon": 49.1675901,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artist_name": "Алина Яхина",
+      "artwork_type": "mural",
+      "name": "Красота города",
+      "start_date": "2008",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "way/97266117",
+    "name": "Культурный центр «Московский»",
+    "category": "art",
+    "lat": 55.8384728,
+    "lon": 49.0665639,
+    "address": "Казань, улица Академика Королёва, 47",
+    "opening_hours": "09:00-21:00",
+    "website": "http://ccsmos.ru/",
+    "phone": "+7 843 5606692",
+    "description": "",
+    "osm_tags": {
+      "addr:city": "Казань",
+      "addr:housenumber": "47",
+      "addr:street": "улица Академика Королёва",
+      "amenity": "arts_centre",
+      "building": "yes",
+      "check_date": "2024-05-15",
+      "contact:email": "welcome@ccsmos.ru",
+      "contact:instagram": "https://www.instagram.com/ccsmoskovsky/",
+      "contact:phone": "+7 843 5606692",
+      "contact:vk": "https://vk.com/ccsmoskovsky",
+      "contact:website": "http://ccsmos.ru/",
+      "name": "Культурный центр «Московский»",
+      "official_name": "Центр культуры и спорта «Московский»",
+      "old_name": "ДК имени Урицкого",
+      "opening_hours": "09:00-21:00",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "id": "node/14000553603",
+    "name": "Лама-шахматист",
+    "category": "art",
+    "lat": 55.7920886,
+    "lon": 49.1241645,
+    "address": "",
+    "opening_hours": "",
+    "website": "https://krot.guide/obitateli#rec2242611441",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artist_name": "Проект Петра Работника (33+1) и Крота Казанского",
+      "artwork_type": "mural",
+      "name": "Лама-шахматист",
+      "tourism": "artwork",
+      "website": "https://krot.guide/obitateli#rec2242611441"
+    }
+  },
+  {
+    "id": "node/9575887479",
+    "name": "Лев",
+    "category": "art",
+    "lat": 55.7875806,
+    "lon": 49.1220156,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "name": "Лев",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/10138203686",
+    "name": "Ленин",
+    "category": "art",
+    "lat": 55.7749399,
+    "lon": 49.1074272,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "Мозаичное панно \"Ленин\"",
+    "osm_tags": {
+      "artwork_type": "mosaic",
+      "description": "Мозаичное панно \"Ленин\"",
+      "name": "Ленин",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/12138272485",
+    "name": "Лес",
+    "category": "art",
+    "lat": 55.7668039,
+    "lon": 49.2184044,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "sculpture",
+      "material": "wood",
+      "name": "Лес",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/9602963437",
+    "name": "Лиса",
+    "category": "art",
+    "lat": 55.7633775,
+    "lon": 49.2041782,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "name": "Лиса",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/14000553608",
+    "name": "Ловцы бабочек",
+    "category": "art",
+    "lat": 55.7906046,
+    "lon": 49.1426249,
+    "address": "",
+    "opening_hours": "",
+    "website": "https://krot.guide/obitateli#rec2242611441",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artist_name": "Проект Петра Работника (33+1) и Крота Казанского",
+      "artwork_type": "mural",
+      "name": "Ловцы бабочек",
+      "tourism": "artwork",
+      "website": "https://krot.guide/obitateli#rec2242611441"
+    }
+  },
+  {
+    "id": "node/9585575758",
+    "name": "Лыжник",
+    "category": "art",
+    "lat": 55.8226118,
+    "lon": 49.1030494,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "tilework",
+      "material": "ceramic",
+      "name": "Лыжник",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/11909516862",
+    "name": "Любовь",
+    "category": "art",
+    "lat": 55.7997954,
+    "lon": 49.1006291,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artist_name": "Bozik",
+      "artwork_type": "graffiti",
+      "name": "Любовь",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/5122541676",
+    "name": "Любовь",
+    "category": "art",
+    "lat": 55.8007746,
+    "lon": 49.1498832,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "name": "Любовь",
+      "name:ru": "Любовь",
+      "name:tt": "Мәхәббәт",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/14000553606",
+    "name": "Лягушатники",
+    "category": "art",
+    "lat": 55.7956932,
+    "lon": 49.1348173,
+    "address": "",
+    "opening_hours": "",
+    "website": "https://krot.guide/obitateli#rec2242611441",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artist_name": "Проект Петра Работника (33+1) и Крота Казанского",
+      "artwork_type": "mural",
+      "name": "Лягушатники",
+      "tourism": "artwork",
+      "website": "https://krot.guide/obitateli#rec2242611441"
+    }
+  },
+  {
+    "id": "node/8853199784",
+    "name": "Маленький принц",
+    "category": "art",
+    "lat": 55.8485316,
+    "lon": 49.2206035,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "name": "Маленький принц",
+      "natural": "wood",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/9911705693",
+    "name": "Маленький принц",
+    "category": "art",
+    "lat": 55.7796689,
+    "lon": 49.1387025,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "sculpture",
+      "material": "metal",
+      "name": "Маленький принц",
+      "name:en": "The Little Prince",
+      "name:ru": "Маленький принц",
+      "name:tt": "Кечкенә Кенәз",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/9594480739",
+    "name": "Мальчики играют в футбол",
+    "category": "art",
+    "lat": 55.8133729,
+    "lon": 49.1024554,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "sculpture",
+      "material": "metal",
+      "name": "Мальчики играют в футбол",
+      "name:en": "Boys are playing football",
+      "name:tt": "Малайлар футбол уйныйлар",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/10033367227",
+    "name": "Медведь",
+    "category": "art",
+    "lat": 55.8403432,
+    "lon": 49.0834049,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "sculpture",
+      "material": "wood",
+      "name": "Медведь",
+      "source": "survey",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/5225221593",
+    "name": "Медведь",
+    "category": "art",
+    "lat": 55.759698,
+    "lon": 49.2111057,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "sculpture",
+      "material": "metal",
+      "name": "Медведь",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/13415362721",
+    "name": "Месяц",
+    "category": "art",
+    "lat": 55.7904666,
+    "lon": 49.1156401,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "relief",
+      "name": "Месяц",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/8607245917",
+    "name": "Мечеть Кул Шариф",
+    "category": "art",
+    "lat": 55.7930611,
+    "lon": 49.1679931,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artist_name": "Алина Яхина",
+      "artwork_type": "mural",
+      "name": "Мечеть Кул Шариф",
+      "start_date": "2008",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/11280912340",
+    "name": "Мир",
+    "category": "art",
+    "lat": 55.8330327,
+    "lon": 49.0753438,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "mural",
+      "name": "Мир",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/8163234117",
+    "name": "Мир",
+    "category": "art",
+    "lat": 55.8255898,
+    "lon": 49.0385952,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "Панно «Мир»",
+    "osm_tags": {
+      "artwork_type": "mural",
+      "description": "Панно «Мир»",
+      "name": "Мир",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/9107111832",
+    "name": "Миру-мир",
+    "category": "art",
+    "lat": 55.797637,
+    "lon": 49.1246071,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "inscription",
+      "historic": "memorial",
+      "inscription": "Миру-мир",
+      "location": "roof",
+      "memorial": "sculpture",
+      "name": "Миру-мир",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/11112427775",
+    "name": "Михаил Девятаев",
+    "category": "art",
+    "lat": 55.7734376,
+    "lon": 49.0963176,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "под железнодорожным мостом",
+    "osm_tags": {
+      "artwork_type": "graffiti",
+      "description": "под железнодорожным мостом",
+      "inscription": "Нам нужны герои Михаил Девятаев",
+      "name": "Михаил Девятаев",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/6048957923",
+    "name": "Многогранный куб",
+    "category": "art",
+    "lat": 55.8175416,
+    "lon": 48.8997044,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "name": "Многогранный куб",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/12755519933",
+    "name": "Мозаичная остановка",
+    "category": "art",
+    "lat": 55.6459542,
+    "lon": 49.1076392,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "mosaic",
+      "name": "Мозаичная остановка",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/12755532676",
+    "name": "Мозаичная стела",
+    "category": "art",
+    "lat": 55.8363283,
+    "lon": 49.091749,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "mosaic",
+      "name": "Мозаичная стела",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/12216703235",
+    "name": "Мозаичное панно",
+    "category": "art",
+    "lat": 55.7970956,
+    "lon": 49.1376996,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "name": "Мозаичное панно",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/2952011587",
+    "name": "Мойдодыр",
+    "category": "art",
+    "lat": 55.8274623,
+    "lon": 49.161787,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "sculpture",
+      "material": "bronze",
+      "name": "Мойдодыр",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "way/81707991",
+    "name": "Молодёжный центр",
+    "category": "art",
+    "lat": 55.8126254,
+    "lon": 49.0980955,
+    "address": "улица Декабристов, 1",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "addr:housenumber": "1",
+      "addr:street": "улица Декабристов",
+      "amenity": "arts_centre",
+      "building": "yes",
+      "building:levels": "9",
+      "name": "Молодёжный центр",
+      "name:ru": "Молодёжный центр",
+      "start_date": "1977"
+    }
+  },
+  {
+    "id": "node/9135418317",
+    "name": "Муса Джалиль",
+    "category": "art",
+    "lat": 55.7704814,
+    "lon": 49.1531585,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "graffiti",
+      "name": "Муса Джалиль",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/9234922017",
+    "name": "Мы будем лётчиками",
+    "category": "art",
+    "lat": 55.8208592,
+    "lon": 49.1055186,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "Мурал «Мы будем летчиками»",
+    "osm_tags": {
+      "artwork_type": "mural",
+      "description": "Мурал «Мы будем летчиками»",
+      "name": "Мы будем лётчиками",
+      "name:ru": "Мы будем лётчиками",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/9838469224",
+    "name": "Мэтт Андерсон",
+    "category": "art",
+    "lat": 55.7756319,
+    "lon": 49.1394709,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artist_name": "layar",
+      "artwork_type": "mural",
+      "name": "Мэтт Андерсон",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/5809835219",
+    "name": "На озеро",
+    "category": "art",
+    "lat": 55.795719,
+    "lon": 49.1166468,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artist_name": "Фаниль Валиуллин",
+      "artwork_type": "sculpture",
+      "material": "metal",
+      "name": "На озеро",
+      "name:en": "To the lake",
+      "name:ru": "На озеро",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/8607277417",
+    "name": "Настроение",
+    "category": "art",
+    "lat": 55.7871124,
+    "lon": 49.1646994,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "mural",
+      "name": "Настроение",
+      "name:ru": "Настроение",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/9808601545",
+    "name": "Наука",
+    "category": "art",
+    "lat": 55.8007057,
+    "lon": 49.1811132,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "Сграффито «Наука»",
+    "osm_tags": {
+      "artwork_type": "mural",
+      "description": "Сграффито «Наука»",
+      "name": "Наука",
+      "name:ru": "Наука",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/6411351655",
+    "name": "Национальная художественная галерея «Хазинэ»",
+    "category": "art",
+    "lat": 55.7990048,
+    "lon": 49.1055289,
+    "address": "",
+    "opening_hours": "",
+    "website": "https://izo-museum.ru/",
+    "phone": "+7 843 5678043",
+    "description": "В экспозиции представлены произведения декоративно-прикладного искусства, живописи, графики, скульптуры, созданные художниками Казани, Казанской губернии, Республики Татарстан в XIX–XXI вв.",
+    "osm_tags": {
+      "contact:instagram": "https://www.instagram.com/gmiirt/",
+      "description": "В экспозиции представлены произведения декоративно-прикладного искусства, живописи, графики, скульптуры, созданные художниками Казани, Казанской губернии, Республики Татарстан в XIX–XXI вв.",
+      "facebook": "https://www.facebook.com/izo.museum.rt",
+      "name": "Национальная художественная галерея «Хазинэ»",
+      "name:en": "National Gallery of Art \"Hazine\"",
+      "name:ru": "Национальная художественная галерея «Хазинэ»",
+      "phone": "+7 843 5678043",
+      "start_date": "2005",
+      "tourism": "gallery",
+      "website": "https://izo-museum.ru/",
+      "wikidata": "Q4314887"
+    }
+  },
+  {
+    "id": "node/1069187416",
+    "name": "Нулевой меридиан Казани",
+    "category": "art",
+    "lat": 55.7909186,
+    "lon": 49.114501,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "sculpture",
+      "name": "Нулевой меридиан Казани",
+      "name:en": "Kazan Zero Meridian",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/8658625917",
+    "name": "Огнеборцы",
+    "category": "art",
+    "lat": 55.8034279,
+    "lon": 49.0691844,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "Советская мозаика «Огнеборцы»",
+    "osm_tags": {
+      "artwork_type": "mosaic",
+      "description": "Советская мозаика «Огнеборцы»",
+      "location": "wall",
+      "name": "Огнеборцы",
+      "name:ru": "Огнеборцы",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/9602970089",
+    "name": "Одуванчики",
+    "category": "art",
+    "lat": 55.7593858,
+    "lon": 49.2112928,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "installation",
+      "name": "Одуванчики",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/12236508627",
+    "name": "Окно",
+    "category": "art",
+    "lat": 55.7920666,
+    "lon": 49.1156416,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "name": "Окно",
+      "tourism": "gallery"
+    }
+  },
+  {
+    "id": "node/6152442458",
+    "name": "Окно в Казань",
+    "category": "art",
+    "lat": 55.7789261,
+    "lon": 49.1181573,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "name": "Окно в Казань",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/11778218879",
+    "name": "Олени",
+    "category": "art",
+    "lat": 55.926929,
+    "lon": 49.2095969,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "statue",
+      "name": "Олени",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/10146648862",
+    "name": "Пионер",
+    "category": "art",
+    "lat": 55.8071822,
+    "lon": 49.1878597,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "graffiti",
+      "name": "Пионер",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/11228459813",
+    "name": "Победа коммунизма неизбежна",
+    "category": "art",
+    "lat": 55.8374852,
+    "lon": 49.0796685,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "mural",
+      "name": "Победа коммунизма неизбежна",
+      "name:ru": "Победа коммунизма неизбежна",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/9588766014",
+    "name": "Пограничный столб",
+    "category": "art",
+    "lat": 55.8013825,
+    "lon": 49.1534917,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "sculpture",
+      "name": "Пограничный столб",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/10146648863",
+    "name": "Попов",
+    "category": "art",
+    "lat": 55.8078952,
+    "lon": 49.1887023,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "graffiti",
+      "name": "Попов",
+      "name:ru": "Попов",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/11146181505",
+    "name": "Порт пяти морей",
+    "category": "art",
+    "lat": 55.7932836,
+    "lon": 49.0972104,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "Сграффито «Порт пяти морей»",
+    "osm_tags": {
+      "artwork_type": "sgraffito",
+      "description": "Сграффито «Порт пяти морей»",
+      "name": "Порт пяти морей",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/12170381090",
+    "name": "Портовый",
+    "category": "art",
+    "lat": 55.7709697,
+    "lon": 49.0958685,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "mural",
+      "name": "Портовый",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/11203187098",
+    "name": "Прикасайтесь",
+    "category": "art",
+    "lat": 55.9078673,
+    "lon": 49.1565692,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "sculpture",
+      "material": "metal",
+      "name": "Прикасайтесь",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/11203187099",
+    "name": "Пробуйте на вкус",
+    "category": "art",
+    "lat": 55.9066114,
+    "lon": 49.160462,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "sculpture",
+      "material": "metal",
+      "name": "Пробуйте на вкус",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/11203187100",
+    "name": "Пробуйте на вкус",
+    "category": "art",
+    "lat": 55.9065901,
+    "lon": 49.1601206,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "sculpture",
+      "material": "metal",
+      "name": "Пробуйте на вкус",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/9808601546",
+    "name": "Производство",
+    "category": "art",
+    "lat": 55.8010181,
+    "lon": 49.1817566,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "Сграффито «Производство»",
+    "osm_tags": {
+      "artwork_type": "mural",
+      "description": "Сграффито «Производство»",
+      "name": "Производство",
+      "name:ru": "Производство",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/13002498766",
+    "name": "Пролетарии всех стран, соединяйтесь",
+    "category": "art",
+    "lat": 55.7931712,
+    "lon": 49.1234278,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "inscription": "Пролетарии всех стран, соединяйтесь!",
+      "name": "Пролетарии всех стран, соединяйтесь",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/11972542855",
+    "name": "Пушкин",
+    "category": "art",
+    "lat": 55.8244782,
+    "lon": 49.1014952,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "mural",
+      "name": "Пушкин",
+      "name:ru": "Пушкин",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/8602983117",
+    "name": "Резчик по дереву",
+    "category": "art",
+    "lat": 55.7872025,
+    "lon": 49.1102934,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "mural",
+      "name": "Резчик по дереву",
+      "name:ru": "Резчик по дереву",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/9917653667",
+    "name": "Речные ворота",
+    "category": "art",
+    "lat": 55.8020973,
+    "lon": 49.1312019,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artist_name": "Orchestra Design",
+      "artwork_type": "installation",
+      "name": "Речные ворота",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/9917653668",
+    "name": "Речные ворота",
+    "category": "art",
+    "lat": 55.8019921,
+    "lon": 49.1363336,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artist_name": "Orchestra Design",
+      "artwork_type": "installation",
+      "name": "Речные ворота",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/9917653669",
+    "name": "Речные ворота",
+    "category": "art",
+    "lat": 55.8025075,
+    "lon": 49.1392702,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artist_name": "Orchestra Design",
+      "artwork_type": "installation",
+      "name": "Речные ворота",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/9917653672",
+    "name": "Речные ворота",
+    "category": "art",
+    "lat": 55.8032716,
+    "lon": 49.1422714,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artist_name": "Orchestra Design",
+      "artwork_type": "installation",
+      "name": "Речные ворота",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/9917653673",
+    "name": "Речные ворота",
+    "category": "art",
+    "lat": 55.8044305,
+    "lon": 49.1434629,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artist_name": "Orchestra Design",
+      "artwork_type": "installation",
+      "name": "Речные ворота",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/9685307117",
+    "name": "Рубин Казань",
+    "category": "art",
+    "lat": 55.831629,
+    "lon": 49.0809575,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artist_name": "4anay",
+      "artwork_type": "graffiti",
+      "check_date": "2022-04-22",
+      "name": "Рубин Казань",
+      "name:ru": "Рубин Казань",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "way/100103432",
+    "name": "Сайдаш",
+    "category": "art",
+    "lat": 55.7996021,
+    "lon": 49.1781685,
+    "address": "Казань, улица Николая Ершова, 57А",
+    "opening_hours": "Mo-Fr 09:00-22:00",
+    "website": "https://saidash.ru/",
+    "phone": "+7 843 2721172",
+    "description": "",
+    "osm_tags": {
+      "addr:city": "Казань",
+      "addr:housenumber": "57А",
+      "addr:street": "улица Николая Ершова",
+      "amenity": "arts_centre",
+      "building": "civic",
+      "check_date": "2024-06-03",
+      "contact:instagram": "https://www.instagram.com/kcsaidash_official",
+      "contact:website": "https://saidash.ru/",
+      "email": "kcsaidash@mail.ru",
+      "name": "Сайдаш",
+      "name:en": "Saidash",
+      "name:ru": "Сайдаш",
+      "name:tt": "Сәйдәш",
+      "opening_hours": "Mo-Fr 09:00-22:00",
+      "phone": "+7 843 2721172",
+      "wikidata": "Q116791094",
+      "wikipedia": "ru:Сайдаш"
+    }
+  },
+  {
+    "id": "node/12072897210",
+    "name": "Салих Сайдашев",
+    "category": "art",
+    "lat": 55.7994508,
+    "lon": 49.1786057,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "installation",
+      "name": "Салих Сайдашев",
+      "name:ru": "Салих Сайдашев",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/10033250752",
+    "name": "Самолет",
+    "category": "art",
+    "lat": 55.8366574,
+    "lon": 49.074822,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artist_name": "Slydog",
+      "artwork_type": "graffiti",
+      "name": "Самолет",
+      "source": "survey",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "way/1322373635",
+    "name": "Сенсорный сад",
+    "category": "art",
+    "lat": 55.8270495,
+    "lon": 49.06276,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "area": "yes",
+      "artwork_type": "sculpture",
+      "name": "Сенсорный сад",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/10038828988",
+    "name": "Серго Орджоникидзе",
+    "category": "art",
+    "lat": 55.8532342,
+    "lon": 49.0800231,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "sculpture",
+      "name": "Серго Орджоникидзе",
+      "name:ru": "Серго Орджоникидзе",
+      "subject": "Григорий Константинович Орджоникидзе",
+      "subject:wikidata": "Q259843",
+      "tourism": "artwork",
+      "wikipedia:ru": "Орджоникидзе, Серго"
+    }
+  },
+  {
+    "id": "node/11187911698",
+    "name": "Слоны",
+    "category": "art",
+    "lat": 55.7616134,
+    "lon": 49.1373165,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "sculpture",
+      "name": "Слоны",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/11157745700",
+    "name": "Слушай свое сердце!",
+    "category": "art",
+    "lat": 55.7878673,
+    "lon": 49.1076584,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "graffiti",
+      "name": "Слушай свое сердце!",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/11203187101",
+    "name": "Слушайте",
+    "category": "art",
+    "lat": 55.9062669,
+    "lon": 49.1612661,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "sculpture",
+      "material": "metal",
+      "name": "Слушайте",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/8163228817",
+    "name": "Советская Татария",
+    "category": "art",
+    "lat": 55.7894639,
+    "lon": 49.100685,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "Сграффито «Советская Татария»",
+    "osm_tags": {
+      "artwork_type": "sgraffito",
+      "description": "Сграффито «Советская Татария»",
+      "name": "Советская Татария",
+      "name:ru": "Советская Татария",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/13415362720",
+    "name": "Солнце",
+    "category": "art",
+    "lat": 55.7905824,
+    "lon": 49.1154187,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "relief",
+      "name": "Солнце",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/9598072723",
+    "name": "Солнце и Луна",
+    "category": "art",
+    "lat": 55.8212649,
+    "lon": 49.1096163,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artist_name": "Arsek & Erase",
+      "artwork_type": "mural",
+      "name": "Солнце и Луна",
+      "start_date": "2021",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/10038828985",
+    "name": "Стена любви",
+    "category": "art",
+    "lat": 55.8374371,
+    "lon": 49.0655687,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "installation",
+      "name": "Стена любви",
+      "name:ru": "Стена любви",
+      "name:tt": "Мәхәббәт стенасы",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/8064480089",
+    "name": "Су анасы",
+    "category": "art",
+    "lat": 55.7875373,
+    "lon": 49.1212399,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "name": "Су анасы",
+      "name:en": "Su Anasy",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/9776584483",
+    "name": "Суворовцу",
+    "category": "art",
+    "lat": 55.7966634,
+    "lon": 49.1400516,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "sculpture",
+      "name": "Суворовцу",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/9871773747",
+    "name": "Сцена барда",
+    "category": "art",
+    "lat": 55.7924646,
+    "lon": 49.1112617,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "installation",
+      "name": "Сцена барда",
+      "start_date": "2020-07",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/9173872217",
+    "name": "Счастье",
+    "category": "art",
+    "lat": 55.7663559,
+    "lon": 49.2229901,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "Мурал Счастье",
+    "osm_tags": {
+      "artist_name": "Slydog",
+      "artwork_type": "mural",
+      "description": "Мурал Счастье",
+      "name": "Счастье",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/12344593893",
+    "name": "Такса",
+    "category": "art",
+    "lat": 55.7905361,
+    "lon": 49.1149755,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "statue",
+      "material": "metal",
+      "name": "Такса",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/4879782122",
+    "name": "Танцующий свинг",
+    "category": "art",
+    "lat": 55.7874827,
+    "lon": 49.1472772,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "sculpture",
+      "name": "Танцующий свинг",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/10877563482",
+    "name": "Татарский алфавит",
+    "category": "art",
+    "lat": 55.8265473,
+    "lon": 49.1102964,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "installation",
+      "name": "Татарский алфавит",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/12061617223",
+    "name": "Тигр",
+    "category": "art",
+    "lat": 55.8225654,
+    "lon": 49.0646901,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "graffiti",
+      "name": "Тигр",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/9842702710",
+    "name": "Толстой и дети",
+    "category": "art",
+    "lat": 55.7787107,
+    "lon": 49.1381433,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "Быть правдивым и честными с детьми есть единственное воспитание",
+    "osm_tags": {
+      "artwork_type": "graffiti",
+      "description": "Быть правдивым и честными с детьми есть единственное воспитание",
+      "name": "Толстой и дети",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "way/163863623",
+    "name": "Тюбетейка",
+    "category": "art",
+    "lat": 55.828894,
+    "lon": 49.0811481,
+    "address": "улица Декабристов, 133",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "«Тюбетейка» Здание с мозаикой",
+    "osm_tags": {
+      "addr:housenumber": "133",
+      "addr:street": "улица Декабристов",
+      "artwork_type": "mosaic",
+      "building:levels": "2",
+      "building:part": "retail",
+      "description": "«Тюбетейка» Здание с мозаикой",
+      "name": "Тюбетейка",
+      "name:ru": "Тюбетейка",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/9781548015",
+    "name": "Улей с пчелами",
+    "category": "art",
+    "lat": 55.8363281,
+    "lon": 49.1391854,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "Мурал «Улей с пчелами»",
+    "osm_tags": {
+      "artwork_type": "mural",
+      "description": "Мурал «Улей с пчелами»",
+      "name": "Улей с пчелами",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/8607245919",
+    "name": "Улыбнись",
+    "category": "art",
+    "lat": 55.7916397,
+    "lon": 49.1672534,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artist_name": "Алина Яхина",
+      "artwork_type": "mural",
+      "name": "Улыбнись",
+      "name:ru": "Улыбнись",
+      "start_date": "2008",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/9300048617",
+    "name": "Учёный кот",
+    "category": "art",
+    "lat": 55.7914496,
+    "lon": 49.1199614,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "sculpture",
+      "material": "metal",
+      "name": "Учёный кот",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/9585575753",
+    "name": "Футболист",
+    "category": "art",
+    "lat": 55.824431,
+    "lon": 49.1044959,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "tilework",
+      "material": "ceramic",
+      "name": "Футболист",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/11285783938",
+    "name": "футбольный клуб Сокол",
+    "category": "art",
+    "lat": 55.8325845,
+    "lon": 49.0903054,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artist_name": "Рустам Кубик",
+      "artwork_type": "mural",
+      "location": "wall",
+      "name": "футбольный клуб Сокол",
+      "name:ru": "футбольный клуб Сокол",
+      "tourism": "artwork",
+      "visibility": "street"
+    }
+  },
+  {
+    "id": "node/10690054006",
+    "name": "Хайдар Бигичев",
+    "category": "art",
+    "lat": 55.7909838,
+    "lon": 49.2232969,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "name": "Хайдар Бигичев",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/9781589040",
+    "name": "хоккейный клуб Ак-Барс",
+    "category": "art",
+    "lat": 55.815598,
+    "lon": 49.1351642,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "mural_painting",
+      "inscription": "Ак-Барс. Татнефть.",
+      "name": "хоккейный клуб Ак-Барс",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/11062233643",
+    "name": "Хранительница огня",
+    "category": "art",
+    "lat": 55.8095801,
+    "lon": 49.1667118,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artist_name": "Bozik",
+      "artwork_type": "graffiti",
+      "name": "Хранительница огня",
+      "start_date": "2020",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/9781589037",
+    "name": "Цветок",
+    "category": "art",
+    "lat": 55.8164864,
+    "lon": 49.1344685,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "graffiti",
+      "name": "Цветок",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/9740178191",
+    "name": "Центр детского творчества",
+    "category": "art",
+    "lat": 55.7870934,
+    "lon": 49.1138469,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "amenity": "arts_centre",
+      "check_date": "2026-06-23",
+      "name": "Центр детского творчества"
+    }
+  },
+  {
+    "id": "node/11053541343",
+    "name": "Че Гевара",
+    "category": "art",
+    "lat": 55.8343415,
+    "lon": 49.1884968,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "graffiti",
+      "name": "Че Гевара",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/11332576577",
+    "name": "Читать в саду",
+    "category": "art",
+    "lat": 55.7871351,
+    "lon": 49.147097,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "installation",
+      "material": "metal",
+      "name": "Читать в саду",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/8656002917",
+    "name": "ЧМ по футболу 2018",
+    "category": "art",
+    "lat": 55.8135435,
+    "lon": 49.1024289,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "name": "ЧМ по футболу 2018",
+      "name:en": "Football World Cup 2018",
+      "name:tt": "Футбол буенча Дөнья кубогы 2018",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/11981521417",
+    "name": "Шарм",
+    "category": "art",
+    "lat": 55.8321829,
+    "lon": 49.0748354,
+    "address": "",
+    "opening_hours": "08:00-21:00",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "amenity": "arts_centre",
+      "check_date": "2024-06-14",
+      "name": "Шарм",
+      "opening_hours": "08:00-21:00"
+    }
+  },
+  {
+    "id": "node/9602972583",
+    "name": "Шишки",
+    "category": "art",
+    "lat": 55.7611863,
+    "lon": 49.2168139,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "installation",
+      "name": "Шишки",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/10837839613",
+    "name": "Шурале",
+    "category": "art",
+    "lat": 55.7798194,
+    "lon": 49.1362187,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artwork_type": "sculpture",
+      "material": "metal",
+      "name": "Шурале",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/9602997658",
+    "name": "Эффект бабочки",
+    "category": "art",
+    "lat": 55.7604491,
+    "lon": 49.2084372,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artist_name": "Алексей Лазарев",
+      "artwork_type": "installation",
+      "material": "plastic",
+      "name": "Эффект бабочки",
+      "name:ru": "Эффект бабочки",
+      "name:tt": "Күбәләк эффекты",
+      "start_date": "2021-07-12",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/9842702698",
+    "name": "Эчпочмак",
+    "category": "art",
+    "lat": 55.7798918,
+    "lon": 49.1362015,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artist_name": "Бочкарёв Александр Иванович",
+      "artwork_type": "installation",
+      "name": "Эчпочмак",
+      "start_date": "2016-08-30",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "id": "node/14000553604",
+    "name": "Юный букинист",
+    "category": "art",
+    "lat": 55.7962576,
+    "lon": 49.1290804,
+    "address": "",
+    "opening_hours": "",
+    "website": "https://krot.guide/obitateli#rec2242611441",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artist_name": "Проект Петра Работника (33+1) и Крота Казанского",
+      "artwork_type": "mural",
+      "name": "Юный букинист",
+      "tourism": "artwork",
+      "website": "https://krot.guide/obitateli#rec2242611441"
+    }
+  },
+  {
+    "id": "node/9575907790",
+    "name": "Яратам",
+    "category": "art",
+    "lat": 55.7937531,
+    "lon": 49.1111854,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "artist": "Фаниль Валиулин",
+      "artwork_type": "statue",
+      "name": "Яратам",
+      "start_date": "2021",
+      "tourism": "artwork"
+    }
+  }
+]

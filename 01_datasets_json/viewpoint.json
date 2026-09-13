@@ -1,0 +1,518 @@
+[
+  {
+    "id": "node/10038699084",
+    "name": "",
+    "category": "viewpoint",
+    "lat": 55.7972551,
+    "lon": 49.1055765,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "charge": "50 RUB",
+      "fee": "yes",
+      "tourism": "viewpoint"
+    }
+  },
+  {
+    "id": "node/10096051124",
+    "name": "",
+    "category": "viewpoint",
+    "lat": 55.8127455,
+    "lon": 49.10849,
+    "address": "",
+    "opening_hours": "10:00-14:30,15:00-19:30,20:00-22:00",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "fee": "yes",
+      "opening_hours": "10:00-14:30,15:00-19:30,20:00-22:00",
+      "tourism": "viewpoint"
+    }
+  },
+  {
+    "id": "node/10655109906",
+    "name": "",
+    "category": "viewpoint",
+    "lat": 55.7980811,
+    "lon": 49.1058556,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "tourism": "viewpoint"
+    }
+  },
+  {
+    "id": "node/10655109907",
+    "name": "",
+    "category": "viewpoint",
+    "lat": 55.7961873,
+    "lon": 49.1082724,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "tourism": "viewpoint"
+    }
+  },
+  {
+    "id": "node/11130696196",
+    "name": "",
+    "category": "viewpoint",
+    "lat": 55.9014199,
+    "lon": 49.1562612,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "direction": "65",
+      "tourism": "viewpoint"
+    }
+  },
+  {
+    "id": "node/11323234538",
+    "name": "",
+    "category": "viewpoint",
+    "lat": 55.8018404,
+    "lon": 49.1247751,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "tourism": "viewpoint"
+    }
+  },
+  {
+    "id": "node/11323234542",
+    "name": "",
+    "category": "viewpoint",
+    "lat": 55.7788379,
+    "lon": 49.1261421,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "direction": "160-330",
+      "tourism": "viewpoint"
+    }
+  },
+  {
+    "id": "node/11738624736",
+    "name": "",
+    "category": "viewpoint",
+    "lat": 55.7732768,
+    "lon": 49.0908394,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "tourism": "viewpoint"
+    }
+  },
+  {
+    "id": "node/11738624737",
+    "name": "",
+    "category": "viewpoint",
+    "lat": 55.773869,
+    "lon": 49.0908476,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "tourism": "viewpoint"
+    }
+  },
+  {
+    "id": "node/12260612588",
+    "name": "",
+    "category": "viewpoint",
+    "lat": 55.7983004,
+    "lon": 49.0411149,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "tourism": "viewpoint"
+    }
+  },
+  {
+    "id": "node/13354942809",
+    "name": "",
+    "category": "viewpoint",
+    "lat": 55.7934739,
+    "lon": 49.1129121,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "direction": "235",
+      "tourism": "viewpoint"
+    }
+  },
+  {
+    "id": "node/14139711524",
+    "name": "",
+    "category": "viewpoint",
+    "lat": 55.7741358,
+    "lon": 49.1219733,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "tourism": "viewpoint"
+    }
+  },
+  {
+    "id": "node/14143107373",
+    "name": "",
+    "category": "viewpoint",
+    "lat": 55.7783412,
+    "lon": 49.1215769,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "tourism": "viewpoint"
+    }
+  },
+  {
+    "id": "node/1585262243",
+    "name": "",
+    "category": "viewpoint",
+    "lat": 55.7976226,
+    "lon": 49.1051941,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "tourism": "viewpoint"
+    }
+  },
+  {
+    "id": "node/2111898341",
+    "name": "",
+    "category": "viewpoint",
+    "lat": 55.7999922,
+    "lon": 49.1072674,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "tourism": "viewpoint"
+    }
+  },
+  {
+    "id": "node/5102542623",
+    "name": "",
+    "category": "viewpoint",
+    "lat": 55.8121755,
+    "lon": 49.1094036,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "name:zh": "喀山大鍋（家庭中心）",
+      "tourism": "viewpoint"
+    }
+  },
+  {
+    "id": "node/6171124376",
+    "name": "",
+    "category": "viewpoint",
+    "lat": 55.800665,
+    "lon": 49.104626,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "tourism": "viewpoint"
+    }
+  },
+  {
+    "id": "node/6477455090",
+    "name": "",
+    "category": "viewpoint",
+    "lat": 55.8362918,
+    "lon": 49.1328483,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "direction": "312",
+      "tourism": "viewpoint"
+    }
+  },
+  {
+    "id": "node/6570957702",
+    "name": "",
+    "category": "viewpoint",
+    "lat": 55.8036559,
+    "lon": 48.9797131,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "direction": "180",
+      "tourism": "viewpoint"
+    }
+  },
+  {
+    "id": "node/6589217398",
+    "name": "",
+    "category": "viewpoint",
+    "lat": 55.7840996,
+    "lon": 49.119465,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "direction": "180",
+      "tourism": "viewpoint"
+    }
+  },
+  {
+    "id": "node/6589217400",
+    "name": "",
+    "category": "viewpoint",
+    "lat": 55.7726859,
+    "lon": 49.0908393,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "tourism": "viewpoint"
+    }
+  },
+  {
+    "id": "node/6589217605",
+    "name": "",
+    "category": "viewpoint",
+    "lat": 55.8028748,
+    "lon": 49.1021219,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "tourism": "viewpoint"
+    }
+  },
+  {
+    "id": "node/8656002817",
+    "name": "",
+    "category": "viewpoint",
+    "lat": 55.7905384,
+    "lon": 49.1186147,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "tourism": "viewpoint"
+    }
+  },
+  {
+    "id": "node/8658003517",
+    "name": "",
+    "category": "viewpoint",
+    "lat": 55.7998649,
+    "lon": 49.1298824,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "tourism": "viewpoint"
+    }
+  },
+  {
+    "id": "node/9861843138",
+    "name": "",
+    "category": "viewpoint",
+    "lat": 55.7529802,
+    "lon": 49.3201404,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "direction": "-120",
+      "tourism": "viewpoint"
+    }
+  },
+  {
+    "id": "node/9861850421",
+    "name": "",
+    "category": "viewpoint",
+    "lat": 55.7496418,
+    "lon": 49.3240901,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "direction": "-115",
+      "tourism": "viewpoint"
+    }
+  },
+  {
+    "id": "way/1167927203",
+    "name": "",
+    "category": "viewpoint",
+    "lat": 55.8020889,
+    "lon": 49.072925,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "direction": "110",
+      "tourism": "viewpoint"
+    }
+  },
+  {
+    "id": "way/278539273",
+    "name": "",
+    "category": "viewpoint",
+    "lat": 55.8361793,
+    "lon": 49.1232414,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "tourism": "viewpoint"
+    }
+  },
+  {
+    "id": "node/9738588165",
+    "name": "Балкон",
+    "category": "viewpoint",
+    "lat": 55.805947,
+    "lon": 49.1681202,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "direction": "-105",
+      "name": "Балкон",
+      "tourism": "viewpoint"
+    }
+  },
+  {
+    "id": "node/12252699001",
+    "name": "Вид на Горбатый мост",
+    "category": "viewpoint",
+    "lat": 55.8043377,
+    "lon": 49.069211,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "name": "Вид на Горбатый мост",
+      "tourism": "viewpoint"
+    }
+  },
+  {
+    "id": "node/9738588195",
+    "name": "Зимняя горка",
+    "category": "viewpoint",
+    "lat": 55.7988779,
+    "lon": 49.1638824,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "direction": "-20",
+      "name": "Зимняя горка",
+      "tourism": "viewpoint"
+    }
+  },
+  {
+    "id": "node/9753050436",
+    "name": "Насыпь строительства ЖД Казань - Бугульма",
+    "category": "viewpoint",
+    "lat": 55.8369408,
+    "lon": 49.3381078,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "name": "Насыпь строительства ЖД Казань - Бугульма",
+      "tourism": "viewpoint"
+    }
+  },
+  {
+    "id": "node/9922511717",
+    "name": "Поваленное дерево",
+    "category": "viewpoint",
+    "lat": 55.7851764,
+    "lon": 49.0340964,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "name": "Поваленное дерево",
+      "tourism": "viewpoint"
+    }
+  }
+]

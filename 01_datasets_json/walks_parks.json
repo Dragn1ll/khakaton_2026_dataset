@@ -1,0 +1,2802 @@
+[
+  {
+    "id": "relation/13209298",
+    "name": "",
+    "category": "walks_parks",
+    "lat": 55.7872625,
+    "lon": 49.1043835,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park",
+      "type": "multipolygon"
+    }
+  },
+  {
+    "id": "relation/14734278",
+    "name": "",
+    "category": "walks_parks",
+    "lat": 55.8477797,
+    "lon": 48.905755,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park",
+      "type": "multipolygon"
+    }
+  },
+  {
+    "id": "relation/16110126",
+    "name": "",
+    "category": "walks_parks",
+    "lat": 55.7977547,
+    "lon": 49.1828117,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park",
+      "type": "multipolygon"
+    }
+  },
+  {
+    "id": "relation/6302962",
+    "name": "",
+    "category": "walks_parks",
+    "lat": 55.7993289,
+    "lon": 49.1061682,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park",
+      "type": "multipolygon"
+    }
+  },
+  {
+    "id": "relation/6302963",
+    "name": "",
+    "category": "walks_parks",
+    "lat": 55.7999645,
+    "lon": 49.1068836,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park",
+      "type": "multipolygon"
+    }
+  },
+  {
+    "id": "relation/8420785",
+    "name": "",
+    "category": "walks_parks",
+    "lat": 55.7809752,
+    "lon": 49.123989,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park",
+      "type": "multipolygon"
+    }
+  },
+  {
+    "id": "way/1002962535",
+    "name": "",
+    "category": "walks_parks",
+    "lat": 55.8076499,
+    "lon": 49.1886368,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park"
+    }
+  },
+  {
+    "id": "way/1067176107",
+    "name": "",
+    "category": "walks_parks",
+    "lat": 55.7613437,
+    "lon": 49.2113903,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "общественный огород",
+    "osm_tags": {
+      "description": "общественный огород",
+      "garden:type": "community",
+      "leisure": "garden"
+    }
+  },
+  {
+    "id": "way/108466454",
+    "name": "",
+    "category": "walks_parks",
+    "lat": 55.7870622,
+    "lon": 49.2251907,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park"
+    }
+  },
+  {
+    "id": "way/1171098231",
+    "name": "",
+    "category": "walks_parks",
+    "lat": 55.8223184,
+    "lon": 49.1839794,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park"
+    }
+  },
+  {
+    "id": "way/1202082248",
+    "name": "",
+    "category": "walks_parks",
+    "lat": 55.7725083,
+    "lon": 49.1284292,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park"
+    }
+  },
+  {
+    "id": "way/1210345357",
+    "name": "",
+    "category": "walks_parks",
+    "lat": 55.8368834,
+    "lon": 49.2045799,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park"
+    }
+  },
+  {
+    "id": "way/1283206438",
+    "name": "",
+    "category": "walks_parks",
+    "lat": 55.8390287,
+    "lon": 49.0321491,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park"
+    }
+  },
+  {
+    "id": "way/1298041024",
+    "name": "",
+    "category": "walks_parks",
+    "lat": 55.8561472,
+    "lon": 49.0778785,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park"
+    }
+  },
+  {
+    "id": "way/1340284490",
+    "name": "",
+    "category": "walks_parks",
+    "lat": 55.7805352,
+    "lon": 49.1054722,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park"
+    }
+  },
+  {
+    "id": "way/1415074104",
+    "name": "",
+    "category": "walks_parks",
+    "lat": 55.7941302,
+    "lon": 49.1227844,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "garden"
+    }
+  },
+  {
+    "id": "way/1434924271",
+    "name": "",
+    "category": "walks_parks",
+    "lat": 55.8255905,
+    "lon": 49.2271332,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park"
+    }
+  },
+  {
+    "id": "way/164038439",
+    "name": "",
+    "category": "walks_parks",
+    "lat": 55.8376569,
+    "lon": 49.0818246,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park"
+    }
+  },
+  {
+    "id": "way/164038440",
+    "name": "",
+    "category": "walks_parks",
+    "lat": 55.838583,
+    "lon": 49.0818238,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park"
+    }
+  },
+  {
+    "id": "way/164047525",
+    "name": "",
+    "category": "walks_parks",
+    "lat": 55.8364203,
+    "lon": 49.1217881,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park"
+    }
+  },
+  {
+    "id": "way/170077268",
+    "name": "",
+    "category": "walks_parks",
+    "lat": 55.7990966,
+    "lon": 49.0645727,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park",
+      "natural": "wood"
+    }
+  },
+  {
+    "id": "way/189631240",
+    "name": "",
+    "category": "walks_parks",
+    "lat": 55.8225295,
+    "lon": 49.0609614,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park"
+    }
+  },
+  {
+    "id": "way/189631242",
+    "name": "",
+    "category": "walks_parks",
+    "lat": 55.8242165,
+    "lon": 49.0560126,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park"
+    }
+  },
+  {
+    "id": "way/224759857",
+    "name": "",
+    "category": "walks_parks",
+    "lat": 55.8290262,
+    "lon": 49.0933413,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park"
+    }
+  },
+  {
+    "id": "way/226195823",
+    "name": "",
+    "category": "walks_parks",
+    "lat": 55.8126894,
+    "lon": 49.064532,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "landuse": "grass",
+      "leisure": "park"
+    }
+  },
+  {
+    "id": "way/232405741",
+    "name": "",
+    "category": "walks_parks",
+    "lat": 55.7421819,
+    "lon": 49.1839698,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "access": "destination",
+      "leisure": "park"
+    }
+  },
+  {
+    "id": "way/233725216",
+    "name": "",
+    "category": "walks_parks",
+    "lat": 55.7720125,
+    "lon": 49.1397436,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park"
+    }
+  },
+  {
+    "id": "way/242923937",
+    "name": "",
+    "category": "walks_parks",
+    "lat": 55.832934,
+    "lon": 49.0510103,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park"
+    }
+  },
+  {
+    "id": "way/251795820",
+    "name": "",
+    "category": "walks_parks",
+    "lat": 55.7837203,
+    "lon": 49.110806,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park"
+    }
+  },
+  {
+    "id": "way/255361138",
+    "name": "",
+    "category": "walks_parks",
+    "lat": 55.8570559,
+    "lon": 49.0777182,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park"
+    }
+  },
+  {
+    "id": "way/257050018",
+    "name": "",
+    "category": "walks_parks",
+    "lat": 55.7835525,
+    "lon": 49.1559848,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park"
+    }
+  },
+  {
+    "id": "way/263174148",
+    "name": "",
+    "category": "walks_parks",
+    "lat": 55.7733422,
+    "lon": 49.1477429,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park"
+    }
+  },
+  {
+    "id": "way/283052763",
+    "name": "",
+    "category": "walks_parks",
+    "lat": 55.8337648,
+    "lon": 49.0767095,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "barrier": "fence",
+      "leisure": "park"
+    }
+  },
+  {
+    "id": "way/338125626",
+    "name": "",
+    "category": "walks_parks",
+    "lat": 55.8515063,
+    "lon": 49.2544513,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park"
+    }
+  },
+  {
+    "id": "way/343267565",
+    "name": "",
+    "category": "walks_parks",
+    "lat": 55.8628228,
+    "lon": 49.2322753,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park"
+    }
+  },
+  {
+    "id": "way/348282215",
+    "name": "",
+    "category": "walks_parks",
+    "lat": 55.7671272,
+    "lon": 49.1340409,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "barrier": "fence",
+      "leisure": "garden"
+    }
+  },
+  {
+    "id": "way/348282216",
+    "name": "",
+    "category": "walks_parks",
+    "lat": 55.7669128,
+    "lon": 49.1336493,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "barrier": "fence",
+      "leisure": "garden"
+    }
+  },
+  {
+    "id": "way/378555534",
+    "name": "",
+    "category": "walks_parks",
+    "lat": 55.7954716,
+    "lon": 49.1227841,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "garden"
+    }
+  },
+  {
+    "id": "way/409964576",
+    "name": "",
+    "category": "walks_parks",
+    "lat": 55.7752161,
+    "lon": 49.1435986,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park"
+    }
+  },
+  {
+    "id": "way/41183806",
+    "name": "",
+    "category": "walks_parks",
+    "lat": 55.8532069,
+    "lon": 49.0800139,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park"
+    }
+  },
+  {
+    "id": "way/41184763",
+    "name": "",
+    "category": "walks_parks",
+    "lat": 55.8427482,
+    "lon": 49.0854284,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park"
+    }
+  },
+  {
+    "id": "way/496914530",
+    "name": "",
+    "category": "walks_parks",
+    "lat": 55.7794552,
+    "lon": 49.1353326,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park"
+    }
+  },
+  {
+    "id": "way/515915556",
+    "name": "",
+    "category": "walks_parks",
+    "lat": 55.8720504,
+    "lon": 49.2231287,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park"
+    }
+  },
+  {
+    "id": "way/544551586",
+    "name": "",
+    "category": "walks_parks",
+    "lat": 55.7836126,
+    "lon": 49.1101909,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park"
+    }
+  },
+  {
+    "id": "way/544950032",
+    "name": "",
+    "category": "walks_parks",
+    "lat": 55.8790347,
+    "lon": 49.094172,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park"
+    }
+  },
+  {
+    "id": "way/558311079",
+    "name": "",
+    "category": "walks_parks",
+    "lat": 55.8310759,
+    "lon": 49.0936681,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "landuse": "grass",
+      "leisure": "park"
+    }
+  },
+  {
+    "id": "way/560057549",
+    "name": "",
+    "category": "walks_parks",
+    "lat": 55.8331794,
+    "lon": 49.1070019,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park"
+    }
+  },
+  {
+    "id": "way/57026636",
+    "name": "",
+    "category": "walks_parks",
+    "lat": 55.8026188,
+    "lon": 49.1860191,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park"
+    }
+  },
+  {
+    "id": "way/630271315",
+    "name": "",
+    "category": "walks_parks",
+    "lat": 55.7895794,
+    "lon": 49.2228803,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "Несколько скамеек, фонтан, пара высоких деревьев",
+    "osm_tags": {
+      "description": "Несколько скамеек, фонтан, пара высоких деревьев",
+      "leisure": "park"
+    }
+  },
+  {
+    "id": "way/685805841",
+    "name": "",
+    "category": "walks_parks",
+    "lat": 55.820447,
+    "lon": 49.0538148,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park"
+    }
+  },
+  {
+    "id": "way/70910492",
+    "name": "",
+    "category": "walks_parks",
+    "lat": 55.827876,
+    "lon": 49.1347561,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park"
+    }
+  },
+  {
+    "id": "way/71169968",
+    "name": "",
+    "category": "walks_parks",
+    "lat": 55.8320578,
+    "lon": 49.0918355,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "landuse": "grass",
+      "leisure": "park"
+    }
+  },
+  {
+    "id": "way/73833606",
+    "name": "",
+    "category": "walks_parks",
+    "lat": 55.830079,
+    "lon": 49.0800484,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park"
+    }
+  },
+  {
+    "id": "way/76250823",
+    "name": "",
+    "category": "walks_parks",
+    "lat": 55.8726271,
+    "lon": 49.0142994,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park"
+    }
+  },
+  {
+    "id": "way/81560132",
+    "name": "",
+    "category": "walks_parks",
+    "lat": 55.7862826,
+    "lon": 49.1061438,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park"
+    }
+  },
+  {
+    "id": "way/83520532",
+    "name": "",
+    "category": "walks_parks",
+    "lat": 55.8218919,
+    "lon": 49.0641084,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park"
+    }
+  },
+  {
+    "id": "way/83537507",
+    "name": "",
+    "category": "walks_parks",
+    "lat": 55.8379557,
+    "lon": 49.0800495,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park"
+    }
+  },
+  {
+    "id": "way/83537685",
+    "name": "",
+    "category": "walks_parks",
+    "lat": 55.8317631,
+    "lon": 49.0903696,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "landuse": "grass",
+      "leisure": "park"
+    }
+  },
+  {
+    "id": "way/886916833",
+    "name": "",
+    "category": "walks_parks",
+    "lat": 55.7698482,
+    "lon": 49.2264041,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park"
+    }
+  },
+  {
+    "id": "way/901809059",
+    "name": "",
+    "category": "walks_parks",
+    "lat": 55.8308376,
+    "lon": 49.0907806,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "landuse": "grass",
+      "leisure": "park"
+    }
+  },
+  {
+    "id": "way/95852910",
+    "name": "",
+    "category": "walks_parks",
+    "lat": 55.6802279,
+    "lon": 49.1663446,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "garden"
+    }
+  },
+  {
+    "id": "way/965589267",
+    "name": "",
+    "category": "walks_parks",
+    "lat": 55.8580629,
+    "lon": 49.23013,
+    "address": "",
+    "opening_hours": "24/7",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park",
+      "opening_hours": "24/7"
+    }
+  },
+  {
+    "id": "way/96668871",
+    "name": "",
+    "category": "walks_parks",
+    "lat": 55.7731364,
+    "lon": 49.1417316,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park"
+    }
+  },
+  {
+    "id": "way/99242833",
+    "name": "",
+    "category": "walks_parks",
+    "lat": 55.7787809,
+    "lon": 49.1407203,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park"
+    }
+  },
+  {
+    "id": "way/99242862",
+    "name": "",
+    "category": "walks_parks",
+    "lat": 55.7792738,
+    "lon": 49.1395836,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park"
+    }
+  },
+  {
+    "id": "way/992436222",
+    "name": "",
+    "category": "walks_parks",
+    "lat": 55.7632507,
+    "lon": 49.1493083,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park"
+    }
+  },
+  {
+    "id": "way/99288825",
+    "name": "",
+    "category": "walks_parks",
+    "lat": 55.7910727,
+    "lon": 49.1230435,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park"
+    }
+  },
+  {
+    "id": "way/99288827",
+    "name": "",
+    "category": "walks_parks",
+    "lat": 55.7911778,
+    "lon": 49.1221898,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "garden"
+    }
+  },
+  {
+    "id": "way/99288831",
+    "name": "",
+    "category": "walks_parks",
+    "lat": 55.7876018,
+    "lon": 49.1264174,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "landuse": "grass",
+      "leisure": "park"
+    }
+  },
+  {
+    "id": "way/99288832",
+    "name": "",
+    "category": "walks_parks",
+    "lat": 55.7916144,
+    "lon": 49.1215731,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park"
+    }
+  },
+  {
+    "id": "way/99288865",
+    "name": "",
+    "category": "walks_parks",
+    "lat": 55.7912975,
+    "lon": 49.1223339,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park"
+    }
+  },
+  {
+    "id": "way/978710552",
+    "name": "100 лет ТАССР",
+    "category": "walks_parks",
+    "lat": 55.8543906,
+    "lon": 48.9032533,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park",
+      "name": "100 лет ТАССР",
+      "name:ru": "100 лет ТАССР"
+    }
+  },
+  {
+    "id": "way/41173156",
+    "name": "cквер Л. Н. Толстого",
+    "category": "walks_parks",
+    "lat": 55.7954971,
+    "lon": 49.1392934,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park",
+      "name": "Сквер имени Л. Н. Толстого",
+      "name:ru": "cквер Л. Н. Толстого"
+    }
+  },
+  {
+    "id": "way/82899027",
+    "name": "cквер Фукса",
+    "category": "walks_parks",
+    "lat": 55.8000414,
+    "lon": 49.1295069,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "alt_name": "Фуксовский сад",
+      "leisure": "park",
+      "name": "cквер Фукса",
+      "name:ru": "cквер Фукса",
+      "name:tt": "Фукс бакчасы",
+      "wikidata": "Q4493322",
+      "wikipedia": "ru:Фуксовский сад"
+    }
+  },
+  {
+    "id": "way/745616675",
+    "name": "Аллея Ветеранов",
+    "category": "walks_parks",
+    "lat": 55.7815608,
+    "lon": 49.2323215,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park",
+      "name": "Аллея Ветеранов"
+    }
+  },
+  {
+    "id": "way/1062067308",
+    "name": "Аллея туризма",
+    "category": "walks_parks",
+    "lat": 55.7837707,
+    "lon": 49.1282327,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park",
+      "name": "Аллея туризма",
+      "name:en": "The Alley of Tourism",
+      "name:ru": "Аллея туризма",
+      "name:tt": "Туризм аллеясы"
+    }
+  },
+  {
+    "id": "way/1472691983",
+    "name": "Берёзовая роща",
+    "category": "walks_parks",
+    "lat": 55.7109267,
+    "lon": 49.1583131,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park",
+      "name": "Берёзовая роща"
+    }
+  },
+  {
+    "id": "way/942145048",
+    "name": "Ботанический сад КФУ",
+    "category": "walks_parks",
+    "lat": 55.8095543,
+    "lon": 49.2242396,
+    "address": "",
+    "opening_hours": "",
+    "website": "https://kpfu.ru/biology-medicine/struktura-instituta/drugie-podrazdeleniya-instituta/botanicheskij-sad",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "access": "permissive",
+      "charge": "200 RUR",
+      "fee": "yes",
+      "garden:type": "botanical",
+      "leisure": "garden",
+      "name": "Ботанический сад КФУ",
+      "website": "https://kpfu.ru/biology-medicine/struktura-instituta/drugie-podrazdeleniya-instituta/botanicheskij-sad"
+    }
+  },
+  {
+    "id": "way/1322373621",
+    "name": "Бульвар «Ярдэм» по ул. Серова",
+    "category": "walks_parks",
+    "lat": 55.8264784,
+    "lon": 49.0656613,
+    "address": "",
+    "opening_hours": "",
+    "website": "https://parkikazani.ru/park/bulvar-po-ul-serova/",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park",
+      "name": "Бульвар «Ярдэм» по ул. Серова",
+      "name:ru": "Бульвар «Ярдэм» по ул. Серова",
+      "website": "https://parkikazani.ru/park/bulvar-po-ul-serova/"
+    }
+  },
+  {
+    "id": "way/386686309",
+    "name": "Бульвар Белые цветы",
+    "category": "walks_parks",
+    "lat": 55.8236323,
+    "lon": 49.1105751,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park",
+      "name": "Бульвар Ак чәчәкләр",
+      "name:ru": "Бульвар Белые цветы",
+      "name:tt": "Ак Чәчәкләр Бульвары"
+    }
+  },
+  {
+    "id": "way/75280806",
+    "name": "Вахитовский сквер",
+    "category": "walks_parks",
+    "lat": 55.7661159,
+    "lon": 49.1292227,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park",
+      "name": "Вахитовский сквер",
+      "name:en": "Vakhitovsky square",
+      "name:ru": "Вахитовский сквер",
+      "name:tt": "Вахитов бакчасы"
+    }
+  },
+  {
+    "id": "way/450098289",
+    "name": "Горкинско-Ометьевский лес",
+    "category": "walks_parks",
+    "lat": 55.7618906,
+    "lon": 49.2101191,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park",
+      "name": "Горкинско-Ометьевский лес",
+      "name:ru": "Горкинско-Ометьевский лес",
+      "name:tt": "Горки-Әмәт урманы"
+    }
+  },
+  {
+    "id": "way/129285240",
+    "name": "Дворцовая площадь",
+    "category": "walks_parks",
+    "lat": 55.8012497,
+    "lon": 49.1115519,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park",
+      "name": "Дворцовая площадь",
+      "name:ar": "ساحة القصر",
+      "name:de": "Schloßplatz",
+      "name:en": "Palace Square",
+      "name:es": "Plaza del Palacio",
+      "name:fr": "Place du palais",
+      "name:ru": "Дворцовая площадь",
+      "name:tt": "Сарай мəйданы",
+      "park:vegetation": "grass",
+      "wikidata": "Q4156060",
+      "wikipedia": "ru:Дворцовая площадь (Казань)"
+    }
+  },
+  {
+    "id": "relation/19671802",
+    "name": "Детский парк «Елмай»",
+    "category": "walks_parks",
+    "lat": 55.8013259,
+    "lon": 49.1305115,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park",
+      "name": "Детский парк «Елмай»",
+      "type": "multipolygon"
+    }
+  },
+  {
+    "id": "way/102712637",
+    "name": "Детский парк Калейдоскоп",
+    "category": "walks_parks",
+    "lat": 55.7519492,
+    "lon": 49.1939716,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park",
+      "name": "Детский парк Калейдоскоп"
+    }
+  },
+  {
+    "id": "way/107203835",
+    "name": "Дубовый Кордон",
+    "category": "walks_parks",
+    "lat": 55.750497,
+    "lon": 49.2360655,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park",
+      "name": "Дубовый Кордон"
+    }
+  },
+  {
+    "id": "way/403924872",
+    "name": "Звёздный",
+    "category": "walks_parks",
+    "lat": 55.7782806,
+    "lon": 49.2229447,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park",
+      "name": "Звёздный сквер",
+      "name:ru": "Звёздный"
+    }
+  },
+  {
+    "id": "way/1322376308",
+    "name": "Казанские наличники",
+    "category": "walks_parks",
+    "lat": 55.7890969,
+    "lon": 49.1441264,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park",
+      "name": "Казанские наличники"
+    }
+  },
+  {
+    "id": "way/72575669",
+    "name": "Караваевский парк",
+    "category": "walks_parks",
+    "lat": 55.8596816,
+    "lon": 49.1073195,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park",
+      "name": "Караваевский парк",
+      "name:ru": "Караваевский парк"
+    }
+  },
+  {
+    "id": "way/1124644573",
+    "name": "Комсомолец",
+    "category": "walks_parks",
+    "lat": 55.7560419,
+    "lon": 49.1717782,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park",
+      "name": "Комсомолец",
+      "name:ru": "Комсомолец"
+    }
+  },
+  {
+    "id": "way/74063658",
+    "name": "Континент",
+    "category": "walks_parks",
+    "lat": 55.8264068,
+    "lon": 49.1563685,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park",
+      "name": "Континент",
+      "name:ru": "Континент"
+    }
+  },
+  {
+    "id": "way/75658841",
+    "name": "Ленинский сад",
+    "category": "walks_parks",
+    "lat": 55.793764,
+    "lon": 49.1232119,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park",
+      "name": "Ленинский сад",
+      "name:en": "Leninsky Garden",
+      "name:ru": "Ленинский сад",
+      "name:tt": "Ленин бакчасы",
+      "wikidata": "Q37856291",
+      "wikipedia": "ru:Ленинский сад (Казань)"
+    }
+  },
+  {
+    "id": "way/81512367",
+    "name": "Лядской сад",
+    "category": "walks_parks",
+    "lat": 55.7928032,
+    "lon": 49.133663,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "barrier": "fence",
+      "leisure": "park",
+      "name": "Лядской сад",
+      "name:en": "Lyadskoy Garden",
+      "name:ru": "Лядской сад",
+      "name:tt": "Лядский бакчасы",
+      "wikidata": "Q21641331",
+      "wikipedia": "ru:Лядской сад"
+    }
+  },
+  {
+    "id": "way/956516869",
+    "name": "Майдан",
+    "category": "walks_parks",
+    "lat": 55.8562063,
+    "lon": 49.2184225,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park",
+      "name": "Майдан",
+      "surface": "grass"
+    }
+  },
+  {
+    "id": "relation/12869938",
+    "name": "Маленький принц",
+    "category": "walks_parks",
+    "lat": 55.848504,
+    "lon": 49.2203829,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park",
+      "name": "Маленький принц",
+      "type": "multipolygon"
+    }
+  },
+  {
+    "id": "way/81810851",
+    "name": "Молодёжный сквер",
+    "category": "walks_parks",
+    "lat": 55.8131133,
+    "lon": 49.1001781,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park",
+      "name": "Молодёжный сквер"
+    }
+  },
+  {
+    "id": "way/99733784",
+    "name": "Ново-Кремлевский сквер",
+    "category": "walks_parks",
+    "lat": 55.7954023,
+    "lon": 49.1019393,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park",
+      "name": "Ново-Кремлевский сквер",
+      "name:en": "New Kremlin Square",
+      "name:ru": "Ново-Кремлевский сквер"
+    }
+  },
+  {
+    "id": "way/1472702916",
+    "name": "Ноксинский лес",
+    "category": "walks_parks",
+    "lat": 55.7649042,
+    "lon": 49.2405429,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park",
+      "name": "Ноксинский лес"
+    }
+  },
+  {
+    "id": "relation/12838269",
+    "name": "Парк «Весна»",
+    "category": "walks_parks",
+    "lat": 55.7930472,
+    "lon": 49.2441278,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park",
+      "name": "Парк «Весна»",
+      "type": "multipolygon"
+    }
+  },
+  {
+    "id": "way/56255060",
+    "name": "парк Горького",
+    "category": "walks_parks",
+    "lat": 55.7995461,
+    "lon": 49.1492403,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "full_name": "Центральный парк культуры и отдыха имени Горького",
+      "leisure": "park",
+      "name": "парк Горького",
+      "name:en": "Gorky Park",
+      "name:ru": "парк Горького",
+      "wikidata": "Q4504335",
+      "wikipedia": "ru:Центральный парк культуры и отдыха имени Горького (Казань)"
+    }
+  },
+  {
+    "id": "way/943368006",
+    "name": "Парк Дубрава",
+    "category": "walks_parks",
+    "lat": 55.7394726,
+    "lon": 49.2229012,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park",
+      "name": "Парк Дубрава"
+    }
+  },
+  {
+    "id": "way/71415149",
+    "name": "Парк им. Петрова",
+    "category": "walks_parks",
+    "lat": 55.8143235,
+    "lon": 49.0564668,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park",
+      "name": "Парк им. Петрова",
+      "name:ru": "Парк им. Петрова",
+      "name:tt": "Петров исемендәге Парк"
+    }
+  },
+  {
+    "id": "way/1213158624",
+    "name": "парк имени Айрата Хайруллина",
+    "category": "walks_parks",
+    "lat": 55.7710993,
+    "lon": 49.1493174,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park",
+      "name": "парк имени Айрата Хайруллина"
+    }
+  },
+  {
+    "id": "way/40741103",
+    "name": "Парк Крылья Советов",
+    "category": "walks_parks",
+    "lat": 55.851928,
+    "lon": 49.0914247,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "barrier": "fence",
+      "leisure": "park",
+      "name": "Парк Крылья Советов",
+      "name:ru": "Парк Крылья Советов",
+      "name:tt": "«Крылья Советов» паркы",
+      "old_name": "Парк Ленина",
+      "wikidata": "Q21640753",
+      "wikipedia": "ru:Крылья Советов (парк)"
+    }
+  },
+  {
+    "id": "way/61579550",
+    "name": "Парк на улице Мира",
+    "category": "walks_parks",
+    "lat": 55.8647571,
+    "lon": 49.2222378,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "internet_access": "wlan",
+      "leisure": "park",
+      "name": "Парк на улице Мира"
+    }
+  },
+  {
+    "id": "way/40579472",
+    "name": "Парк Победы",
+    "category": "walks_parks",
+    "lat": 55.8300526,
+    "lon": 49.1094034,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park",
+      "name": "Парк Победы",
+      "name:en": "Victory Park",
+      "name:ru": "Парк Победы",
+      "name:tt": "Җиңү паркы",
+      "name:tt-lat": "Ciñü parkı",
+      "wikidata": "Q4345245"
+    }
+  },
+  {
+    "id": "way/1064178442",
+    "name": "парк Савиново",
+    "category": "walks_parks",
+    "lat": 55.8363059,
+    "lon": 49.1659475,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park",
+      "name": "парк Савиново",
+      "name:ru": "парк Савиново",
+      "source": "https://kzn.ru/upload/iblock/c27/1244_19.05.2021.pdf"
+    }
+  },
+  {
+    "id": "way/81652828",
+    "name": "Парк Тинчурина",
+    "category": "walks_parks",
+    "lat": 55.7737602,
+    "lon": 49.1077984,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park",
+      "name": "Парк Тинчурина",
+      "name:en": "Tinchurin park",
+      "name:ru": "Парк Тинчурина",
+      "name:tt": "Тинчурин паркы"
+    }
+  },
+  {
+    "id": "relation/3873061",
+    "name": "Парк Тысячелетия Казани",
+    "category": "walks_parks",
+    "lat": 55.7833932,
+    "lon": 49.1236862,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "dog": "no",
+      "leisure": "park",
+      "name": "Парк Тысячелетия Казани",
+      "name:en": "Kazan Millennium Park",
+      "name:tt": "Казанның Меңьеллык паркы",
+      "smoking": "no",
+      "start_date": "2005",
+      "surface": "grass",
+      "type": "multipolygon",
+      "wikidata": "Q4345271",
+      "wikipedia": "ru:Парк Тысячелетия"
+    }
+  },
+  {
+    "id": "relation/14172354",
+    "name": "Парк Урицкого",
+    "category": "walks_parks",
+    "lat": 55.8379771,
+    "lon": 49.0625814,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park",
+      "name": "Парк Урицкого",
+      "name:ru": "Парк Урицкого",
+      "type": "multipolygon"
+    }
+  },
+  {
+    "id": "relation/13189336",
+    "name": "парк Чайковые озера",
+    "category": "walks_parks",
+    "lat": 55.8337407,
+    "lon": 49.1410777,
+    "address": "",
+    "opening_hours": "Mo-Su 08:00-21:00",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park",
+      "name": "парк Чайковые озера",
+      "opening_hours": "Mo-Su 08:00-21:00",
+      "type": "multipolygon"
+    }
+  },
+  {
+    "id": "way/40371211",
+    "name": "парк Чёрное озеро",
+    "category": "walks_parks",
+    "lat": 55.7948766,
+    "lon": 49.1174161,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park",
+      "name": "парк Чёрное озеро",
+      "name:en": "Black Lake park",
+      "name:ru": "парк Чёрное озеро",
+      "name:tt": "Черек күл",
+      "wikidata": "Q4518730",
+      "wikipedia": "ru:Чёрное озеро (Казань)",
+      "wikipedia:tt": "Черек күл"
+    }
+  },
+  {
+    "id": "way/70263526",
+    "name": "площадь Аллея Славы",
+    "category": "walks_parks",
+    "lat": 55.820564,
+    "lon": 48.8943801,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park",
+      "name": "площадь Аллея Славы",
+      "wikidata": "Q4062628",
+      "wikipedia": "ru:Аллея Славы (Юдино)"
+    }
+  },
+  {
+    "id": "way/231296709",
+    "name": "площадь тысячелетия Казани",
+    "category": "walks_parks",
+    "lat": 55.8176134,
+    "lon": 48.8996253,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park",
+      "name": "площадь тысячелетия Казани",
+      "place": "square",
+      "wikidata": "Q4365468",
+      "wikipedia": "ru:Площадь 1000-летия Казани"
+    }
+  },
+  {
+    "id": "way/108328384",
+    "name": "сад Акташ",
+    "category": "walks_parks",
+    "lat": 55.7948219,
+    "lon": 49.2310282,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park",
+      "name": "сад Акташ"
+    }
+  },
+  {
+    "id": "way/81560016",
+    "name": "Сад имени Кирова",
+    "category": "walks_parks",
+    "lat": 55.7856806,
+    "lon": 49.112864,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "http://www.kzn.ru/news/50275-v-kazani-posle-rekonstruktsii-otkrylsya-sad-imkirova",
+    "osm_tags": {
+      "description": "http://www.kzn.ru/news/50275-v-kazani-posle-rekonstruktsii-otkrylsya-sad-imkirova",
+      "internet_access": "wlan",
+      "leisure": "park",
+      "name": "Сад имени Кирова",
+      "name:en": "Kirov garden",
+      "name:ru": "Сад имени Кирова",
+      "name:tt": "Киров исемендәге бакча",
+      "supervised": "yes"
+    }
+  },
+  {
+    "id": "way/158860862",
+    "name": "Сад имени Чехова",
+    "category": "walks_parks",
+    "lat": 55.7897984,
+    "lon": 49.1429215,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park",
+      "name": "Сад имени Чехова",
+      "name:ru": "Сад имени Чехова"
+    }
+  },
+  {
+    "id": "way/1319011122",
+    "name": "Сад любви",
+    "category": "walks_parks",
+    "lat": 55.7785632,
+    "lon": 49.1153691,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park",
+      "name": "Сад любви"
+    }
+  },
+  {
+    "id": "way/198001760",
+    "name": "Сад Майдан",
+    "category": "walks_parks",
+    "lat": 55.7781058,
+    "lon": 49.1158355,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park",
+      "name": "Сад Майдан"
+    }
+  },
+  {
+    "id": "way/81652761",
+    "name": "сад Молодоженов",
+    "category": "walks_parks",
+    "lat": 55.7759561,
+    "lon": 49.1002083,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park",
+      "name": "сад Молодоженов"
+    }
+  },
+  {
+    "id": "way/562423061",
+    "name": "Сад печали",
+    "category": "walks_parks",
+    "lat": 55.7777701,
+    "lon": 49.1149245,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park",
+      "name": "Сад печали"
+    }
+  },
+  {
+    "id": "way/69707445",
+    "name": "Сад Рыбака",
+    "category": "walks_parks",
+    "lat": 55.7995641,
+    "lon": 49.0601038,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park",
+      "name": "Сад Рыбака"
+    }
+  },
+  {
+    "id": "way/562423071",
+    "name": "Сад танец",
+    "category": "walks_parks",
+    "lat": 55.7781983,
+    "lon": 49.1145706,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park",
+      "name": "Сад танец"
+    }
+  },
+  {
+    "id": "way/82176829",
+    "name": "сад Эрмитаж",
+    "category": "walks_parks",
+    "lat": 55.7901581,
+    "lon": 49.1290959,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park",
+      "name": "сад Эрмитаж",
+      "name:en": "Hermitage Garden",
+      "name:ru": "сад Эрмитаж",
+      "name:tt": "Эрмитаж бакчасы",
+      "wikidata": "Q16693784",
+      "wikipedia": "ru:Эрмитаж (сад, Казань)"
+    }
+  },
+  {
+    "id": "relation/15568739",
+    "name": "Светлая долина",
+    "category": "walks_parks",
+    "lat": 55.8013247,
+    "lon": 49.2330783,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "парк у ЖК \"Светлая долина\"",
+    "osm_tags": {
+      "description": "парк у ЖК \"Светлая долина\"",
+      "leisure": "park",
+      "name": "Светлая долина",
+      "name:ru": "Светлая долина",
+      "type": "multipolygon"
+    }
+  },
+  {
+    "id": "way/1453211254",
+    "name": "сквер \"Зилант\"",
+    "category": "walks_parks",
+    "lat": 55.7958248,
+    "lon": 49.1113359,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "fixme": "уточнить контур",
+      "leisure": "park",
+      "name": "сквер \"Зилант\"",
+      "name:tt": "\"Зилант\" скверы",
+      "source": "Постановление Исполнительного комитета г.Казани от 24.10.2025 №3721"
+    }
+  },
+  {
+    "id": "way/1124608922",
+    "name": "сквер 100-летия образования строительной отрасли РТ",
+    "category": "walks_parks",
+    "lat": 55.7588683,
+    "lon": 49.1795522,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park",
+      "name": "сквер 100-летия образования строительной отрасли РТ"
+    }
+  },
+  {
+    "id": "way/332161829",
+    "name": "Сквер 15-летия Ново-Савиновского района",
+    "category": "walks_parks",
+    "lat": 55.8239867,
+    "lon": 49.1073063,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park",
+      "name": "Сквер 15-летия Ново-Савиновского района"
+    }
+  },
+  {
+    "id": "way/41173089",
+    "name": "сквер Аксенов-сад",
+    "category": "walks_parks",
+    "lat": 55.7876742,
+    "lon": 49.1472161,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "Благоустройство сквера посвящено памяти известного русского писателя Василия Павловича Аксенова. Главной композиционной осью сквера является центральная аллея имени Аксенова.",
+    "osm_tags": {
+      "description": "Благоустройство сквера посвящено памяти известного русского писателя Василия Павловича Аксенова. Главной композиционной осью сквера является центральная аллея имени Аксенова.",
+      "leisure": "park",
+      "name": "сквер Аксенов-сад"
+    }
+  },
+  {
+    "id": "way/1420144806",
+    "name": "сквер Амирхана Еники",
+    "category": "walks_parks",
+    "lat": 55.7854469,
+    "lon": 49.1456252,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park",
+      "name": "сквер Амирхана Еники",
+      "name:tt": "Әмирхан Еники скверы"
+    }
+  },
+  {
+    "id": "way/122359449",
+    "name": "Сквер Баки Урманче",
+    "category": "walks_parks",
+    "lat": 55.7966191,
+    "lon": 49.1362606,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "dog": "no",
+      "leisure": "park",
+      "name": "Сквер Баки Урманче"
+    }
+  },
+  {
+    "id": "way/41183805",
+    "name": "сквер Белинского",
+    "category": "walks_parks",
+    "lat": 55.8549474,
+    "lon": 49.0801321,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park",
+      "name": "сквер Белинского",
+      "name:ru": "сквер Белинского"
+    }
+  },
+  {
+    "id": "way/73658467",
+    "name": "Сквер Васильченко",
+    "category": "walks_parks",
+    "lat": 55.833762,
+    "lon": 49.0598306,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park",
+      "name": "Сквер Васильченко",
+      "name:ru": "Сквер Васильченко"
+    }
+  },
+  {
+    "id": "way/70910663",
+    "name": "сквер героев-чернобыльцев",
+    "category": "walks_parks",
+    "lat": 55.8278029,
+    "lon": 49.1327988,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park",
+      "name": "сквер героев-чернобыльцев",
+      "name:tt": "Чернобыль геройлары скверы"
+    }
+  },
+  {
+    "id": "way/630271324",
+    "name": "сквер Гулливер",
+    "category": "walks_parks",
+    "lat": 55.7878426,
+    "lon": 49.2218494,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park",
+      "name": "сквер Гулливер"
+    }
+  },
+  {
+    "id": "relation/14469420",
+    "name": "сквер Гумера Усманова",
+    "category": "walks_parks",
+    "lat": 55.7921161,
+    "lon": 49.1595013,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park",
+      "name": "сквер Гумера Усманова",
+      "name:en": "Gumer Usmanov Square",
+      "name:ru": "сквер Гумера Усманова",
+      "old_name": "сквер Баумана",
+      "type": "multipolygon"
+    }
+  },
+  {
+    "id": "relation/13196702",
+    "name": "сквер Дербышки",
+    "category": "walks_parks",
+    "lat": 55.8720067,
+    "lon": 49.228039,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park",
+      "name": "сквер Дербышки",
+      "type": "multipolygon"
+    }
+  },
+  {
+    "id": "way/1472706736",
+    "name": "сквер Зайни Султана",
+    "category": "walks_parks",
+    "lat": 55.780353,
+    "lon": 49.1177249,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park",
+      "name": "сквер Зайни Султана"
+    }
+  },
+  {
+    "id": "way/370311422",
+    "name": "сквер Заря",
+    "category": "walks_parks",
+    "lat": 55.809612,
+    "lon": 49.177278,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park",
+      "name": "сквер Заря",
+      "name:ru": "сквер Заря"
+    }
+  },
+  {
+    "id": "way/242939916",
+    "name": "Сквер им. Габдуллы Тукая",
+    "category": "walks_parks",
+    "lat": 55.7850946,
+    "lon": 49.1203085,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park",
+      "name": "Сквер им. Габдуллы Тукая",
+      "name:en": "Gabdulla Tukay Square",
+      "name:ru": "Сквер им. Габдуллы Тукая",
+      "name:tt": "Габдулла Тукай исемендәге бакча"
+    }
+  },
+  {
+    "id": "way/96582339",
+    "name": "Сквер им. Сурикова",
+    "category": "walks_parks",
+    "lat": 55.7731893,
+    "lon": 49.1647854,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park",
+      "name": "Сквер им. Сурикова"
+    }
+  },
+  {
+    "id": "way/702946071",
+    "name": "сквер имени Асгата Галимзянова",
+    "category": "walks_parks",
+    "lat": 55.7989013,
+    "lon": 49.1030759,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park",
+      "name": "сквер имени Асгата Галимзянова",
+      "name:en": "Asgat Galimzyanov Square",
+      "name:ru": "сквер имени Асгата Галимзянова",
+      "start_date": "2016-04-04"
+    }
+  },
+  {
+    "id": "way/96072705",
+    "name": "Сквер Карбышева",
+    "category": "walks_parks",
+    "lat": 55.7556282,
+    "lon": 49.1789145,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park",
+      "name": "Сквер Карбышева"
+    }
+  },
+  {
+    "id": "way/95848089",
+    "name": "сквер Котельникова",
+    "category": "walks_parks",
+    "lat": 55.7938909,
+    "lon": 49.1423816,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park",
+      "name": "сквер Котельникова",
+      "name:en": "Kotelnikov Square",
+      "name:ru": "сквер Котельникова",
+      "name:tt": "Котельников паркы"
+    }
+  },
+  {
+    "id": "way/99288846",
+    "name": "Сквер Лобачевского",
+    "category": "walks_parks",
+    "lat": 55.7921039,
+    "lon": 49.120436,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "barrier": "fence",
+      "leisure": "park",
+      "name": "Сквер Лобачевского",
+      "name:en": "Lobachevsky Garden Square",
+      "name:ru": "Сквер Лобачевского",
+      "name:tt": "Лобачевский скверы"
+    }
+  },
+  {
+    "id": "way/41173087",
+    "name": "Сквер медицинских работников",
+    "category": "walks_parks",
+    "lat": 55.7918179,
+    "lon": 49.1482238,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "Сквер переименован постановлением исполнительного комитета г. Казани от 26.11.2021 №3110",
+    "osm_tags": {
+      "description": "Сквер переименован постановлением исполнительного комитета г. Казани от 26.11.2021 №3110",
+      "leisure": "park",
+      "name": "Сквер медицинских работников",
+      "name:ru": "Сквер медицинских работников",
+      "old_name": "Сквер им. Н.Ершова"
+    }
+  },
+  {
+    "id": "way/433786485",
+    "name": "сквер митрополита Андриана",
+    "category": "walks_parks",
+    "lat": 55.7828714,
+    "lon": 49.1309198,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "Постановление Исполнительного комитета г.Казани от 11.08.2021 №1994 https://kzn.ru/upload/iblock/823/Sbornik_31_2021.pdf",
+    "osm_tags": {
+      "description": "Постановление Исполнительного комитета г.Казани от 11.08.2021 №1994 https://kzn.ru/upload/iblock/823/Sbornik_31_2021.pdf",
+      "leisure": "park",
+      "name": "сквер митрополита Андриана",
+      "name:tt": "Митрополит Андриан скверы"
+    }
+  },
+  {
+    "id": "way/488623212",
+    "name": "Сквер по улице Академика Парина",
+    "category": "walks_parks",
+    "lat": 55.7455533,
+    "lon": 49.1956701,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park",
+      "name": "Сквер по улице Академика Парина",
+      "name:tt": "Академик Парин урамындагы сквер"
+    }
+  },
+  {
+    "id": "way/133485646",
+    "name": "Сквер славы",
+    "category": "walks_parks",
+    "lat": 55.7507224,
+    "lon": 49.2051755,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park",
+      "name": "Сквер славы",
+      "name:ru": "Сквер славы"
+    }
+  },
+  {
+    "id": "way/137820564",
+    "name": "Сквер Стамбул",
+    "category": "walks_parks",
+    "lat": 55.817756,
+    "lon": 49.1104701,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park",
+      "name": "Сквер Стамбул",
+      "name:en": "Istanbul Square",
+      "name:ru": "Сквер Стамбул"
+    }
+  },
+  {
+    "id": "way/95522588",
+    "name": "сквер Султан-Галиева",
+    "category": "walks_parks",
+    "lat": 55.8001795,
+    "lon": 49.1259861,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park",
+      "name": "сквер Султан-Галиева",
+      "name:en": "Square named after S. Galeev",
+      "name:tt": "Солтангалиев скверы"
+    }
+  },
+  {
+    "id": "way/1292069897",
+    "name": "сквер Тихомирова",
+    "category": "walks_parks",
+    "lat": 55.8568545,
+    "lon": 49.1015041,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "full_name": "сквер имени почётного строителя Бориса Тихомирова",
+      "leisure": "park",
+      "name": "сквер Тихомирова",
+      "name:ru": "сквер Тихомирова",
+      "subject": "Тихомиров Борис Иванович"
+    }
+  },
+  {
+    "id": "way/1108020930",
+    "name": "Сквер трудовой славы",
+    "category": "walks_parks",
+    "lat": 55.755923,
+    "lon": 49.1225939,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park",
+      "name": "Сквер трудовой славы"
+    }
+  },
+  {
+    "id": "way/81810893",
+    "name": "сквер Харовое озеро",
+    "category": "walks_parks",
+    "lat": 55.8151309,
+    "lon": 49.0908731,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "barrier": "fence",
+      "leisure": "park",
+      "name": "сквер Харовое озеро"
+    }
+  },
+  {
+    "id": "way/366254560",
+    "name": "Сквер Чишмяле",
+    "category": "walks_parks",
+    "lat": 55.7634354,
+    "lon": 49.2304724,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park",
+      "name": "Сквер Чишмяле"
+    }
+  },
+  {
+    "id": "way/83053327",
+    "name": "сквер Школьников",
+    "category": "walks_parks",
+    "lat": 55.8221973,
+    "lon": 49.1173258,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park",
+      "name": "сквер Школьников"
+    }
+  },
+  {
+    "id": "way/41459503",
+    "name": "Сосновая Роща",
+    "category": "walks_parks",
+    "lat": 55.82428,
+    "lon": 49.0898,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park",
+      "name": "Сосновая роща",
+      "name:en": "Pine Grove",
+      "name:ru": "Сосновая Роща"
+    }
+  },
+  {
+    "id": "way/163932766",
+    "name": "Студенческий сквер",
+    "category": "walks_parks",
+    "lat": 55.7873681,
+    "lon": 49.1641967,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park",
+      "name": "Студенческий сквер",
+      "name:ru": "Студенческий сквер"
+    }
+  },
+  {
+    "id": "way/41171031",
+    "name": "Тебриз",
+    "category": "walks_parks",
+    "lat": 55.8327948,
+    "lon": 49.0787873,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park",
+      "name": "Тебриз",
+      "name:ru": "Тебриз",
+      "name:tt": "Тәбрис"
+    }
+  },
+  {
+    "id": "way/479541322",
+    "name": "Фестивальный бульвар",
+    "category": "walks_parks",
+    "lat": 55.8156046,
+    "lon": 49.1017978,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park",
+      "name": "Фестивальный бульвар",
+      "name:ru": "Фестивальный бульвар"
+    }
+  },
+  {
+    "id": "way/154526608",
+    "name": "Шахматный сквер",
+    "category": "walks_parks",
+    "lat": 55.786051,
+    "lon": 49.151875,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park",
+      "name": "Шахматный сквер",
+      "name:ru": "Шахматный сквер"
+    }
+  },
+  {
+    "id": "way/1422818634",
+    "name": "Экопарк Аркадия",
+    "category": "walks_parks",
+    "lat": 55.7374802,
+    "lon": 49.1532489,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park",
+      "name": "Экопарк Аркадия"
+    }
+  },
+  {
+    "id": "way/543880409",
+    "name": "экопарк Марьино озеро",
+    "category": "walks_parks",
+    "lat": 55.8327957,
+    "lon": 49.1031088,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park",
+      "name": "экопарк Марьино озеро",
+      "name:ru": "экопарк Марьино озеро",
+      "name:tt": "Мария куле экопаркы"
+    }
+  },
+  {
+    "id": "way/850489927",
+    "name": "Экстрим-парк «Урам»",
+    "category": "walks_parks",
+    "lat": 55.8044304,
+    "lon": 49.1451582,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park",
+      "name": "Экстрим-парк «Урам»",
+      "name:en": "«Uram» Extrim Park",
+      "name:ru": "Экстрим-парк «Урам»",
+      "name:tt": "«Урам» Экстрим паркы"
+    }
+  },
+  {
+    "id": "way/231322978",
+    "name": "Юдинская Площадь",
+    "category": "walks_parks",
+    "lat": 55.8210433,
+    "lon": 48.8977162,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park",
+      "name": "Юдинская Площадь",
+      "wikidata": "Q4533842",
+      "wikipedia": "ru:Юдинская площадь"
+    }
+  },
+  {
+    "id": "way/143954521",
+    "name": "Юнусовская площадь",
+    "category": "walks_parks",
+    "lat": 55.778155,
+    "lon": 49.1152706,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park",
+      "name": "Юнусовская площадь",
+      "name:tt": "Юныс мəйданы",
+      "wikidata": "Q4534684",
+      "wikipedia": "ru:Юнусовская площадь"
+    }
+  },
+  {
+    "id": "way/242904702",
+    "name": "Ёлочный городок",
+    "category": "walks_parks",
+    "lat": 55.7465606,
+    "lon": 49.2048051,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "",
+    "osm_tags": {
+      "leisure": "park",
+      "name": "Ёлочный городок"
+    }
+  }
+]
