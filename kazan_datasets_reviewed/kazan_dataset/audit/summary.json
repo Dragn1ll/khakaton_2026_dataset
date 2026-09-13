@@ -1,0 +1,73 @@
+{
+  "categories": {
+    "art": {
+      "before": 339,
+      "after": 57,
+      "removed": 282,
+      "withImage": 3
+    },
+    "history": {
+      "before": 596,
+      "after": 166,
+      "removed": 430,
+      "withImage": 81
+    },
+    "literature": {
+      "before": 70,
+      "after": 50,
+      "removed": 20,
+      "withImage": 16
+    },
+    "museum": {
+      "before": 54,
+      "after": 46,
+      "removed": 8,
+      "withImage": 33
+    },
+    "religion_architecture": {
+      "before": 157,
+      "after": 48,
+      "removed": 109,
+      "withImage": 26
+    },
+    "tatar_food": {
+      "before": 14,
+      "after": 11,
+      "removed": 3,
+      "withImage": 1
+    },
+    "theatre": {
+      "before": 24,
+      "after": 20,
+      "removed": 4,
+      "withImage": 15
+    },
+    "viewpoint": {
+      "before": 33,
+      "after": 4,
+      "removed": 29,
+      "withImage": 1
+    },
+    "walks_parks": {
+      "before": 167,
+      "after": 32,
+      "removed": 135,
+      "withImage": 23
+    }
+  },
+  "originalRecords": 1454,
+  "retainedRecords": 434,
+  "uniqueRetainedPlaces": 408,
+  "removedRecords": 1020,
+  "uniquePlacesWithImages": 179,
+  "uniquePlacesWithoutImages": 229,
+  "svgCount": 9,
+  "apiCases": 11,
+  "llmExamples": 42,
+  "searchStatus": {
+    "ok": 83,
+    "<urlopen error timed out>": 9,
+    "HTTP Error 429: Too Many Requests": 363
+  },
+  "liveApiTestsRun": false
+}

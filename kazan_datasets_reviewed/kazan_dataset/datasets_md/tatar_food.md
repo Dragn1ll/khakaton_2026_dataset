@@ -1,0 +1,916 @@
+# Татарская кухня — Казань
+
+Категория: `tatar_food`. Записей: 11. Подготовлено 13 сентября 2026 года; геоданные OSM — срез 9 сентября 2026 года.
+
+![Иконка категории](../icons/tatar_food.svg)
+
+Пустые строки и `null` означают отсутствие сведений. Источники и статус изображения указаны для каждой точки. Часы работы отдельно не актуализированы.
+
+## Алан Аш
+
+- **id:** `node/9575907677`
+- **category:** `tatar_food`
+- **lat:** 55.7977949
+- **lon:** 49.1073889
+- **address:** не указан
+- **opening_hours:** `Mo-Th,Su 09:00-20:00; Fr-Sa 09:00-21:00`
+- **website:** не указан
+- **phone:** +7 843 5983233;+7 960 0475107
+
+**description**
+
+Кремлёвское кафе «Алан Аш» предлагает татарскую кухню, в том числе эчпочмаки, кыстыбый и чак-чак. Эта точка находится на первом этаже и рассчитана на 140 мест. Городской туристический портал относит её к местам для обеда во время посещения Кремля.
+
+- **imageUrl:** `null`
+- **imageSource:** `null`
+- **imageLicense:** `null`
+- **imageLicenseUrl:** `null`
+- **imageAuthor:** `null`
+- **imageStatus:** not_found
+- **imageMatch:** `null`
+- **imageCheckedAt:** 2026-09-13
+- **reuseStatus:** `null`
+- **iconPath:** icons/tatar_food.svg
+- **categoryIconPath:** icons/tatar_food.svg
+- **categoryIconUrl:** `null`
+- **visitStatus:** unknown
+- **routeEligible:** true
+
+### sources
+
+```json
+[
+  {
+    "url": "https://go.kzn.ru/articles/cto-posmotret-v-kazanskom-kremle",
+    "status": "fetched",
+    "checkedAt": "2026-09-13"
+  },
+  {
+    "url": "https://www.openstreetmap.org/node/9575907677",
+    "status": "original_osm_snapshot",
+    "checkedAt": null
+  }
+]
+```
+
+### provenance
+
+```json
+{
+  "osmSnapshot": "2026-09-09T22:24:20Z",
+  "repositoryCommit": "722a18fb55f9f093147c90a5d54c1a70e40c8ce5",
+  "descriptionSource": "https://github.com/Dragn1ll/khakaton_2026_dataset/blob/722a18fb55f9f093147c90a5d54c1a70e40c8ce5/02_place_descriptions/tatar_food_descriptions.md",
+  "evidenceLevel": "external_reference",
+  "nameRestored": false
+}
+```
+
+### osm_tags
+
+```json
+{
+  "addr:floor": "1",
+  "amenity": "cafe",
+  "capacity": "140",
+  "check_date": "2024-07-27",
+  "contact:email": "alanash.kremlin@yandex.ru",
+  "contact:phone": "+7 843 5983233;+7 960 0475107",
+  "cuisine": "tatar",
+  "level": "0",
+  "name": "Алан Аш",
+  "opening_hours": "Mo-Th,Su 09:00-20:00; Fr-Sa 09:00-21:00",
+  "operator": "ООО \"Татинтер групп\"",
+  "wheelchair": "no"
+}
+```
+
+---
+
+## Аш бабай
+
+- **id:** `node/9210128674`
+- **category:** `tatar_food`
+- **lat:** 55.7804325
+- **lon:** 49.116864
+- **address:** не указан
+- **opening_hours:** не указаны
+- **website:** не указан
+- **phone:** не указан
+
+**description**
+
+«Аш бабай» — кафе татарской кухни. Кафе находится на улице Каюма Насыри, 13, в Старо-Татарской слободе. Подробные сведения о меню и интерьере отсутствуют.
+
+- **imageUrl:** `null`
+- **imageSource:** `null`
+- **imageLicense:** `null`
+- **imageLicenseUrl:** `null`
+- **imageAuthor:** `null`
+- **imageStatus:** not_found
+- **imageMatch:** `null`
+- **imageCheckedAt:** 2026-09-13
+- **reuseStatus:** `null`
+- **iconPath:** icons/tatar_food.svg
+- **categoryIconPath:** icons/tatar_food.svg
+- **categoryIconUrl:** `null`
+- **visitStatus:** closure_reported
+- **routeEligible:** false
+
+**Примечания:**
+- Источник сообщает о закрытии кафе; повторное открытие не подтверждено.
+- Часы работы неизвестны; не считать круглосуточным доступом.
+
+### sources
+
+```json
+[
+  {
+    "url": "https://realnoevremya.ru/news/336873-v-kazani-zakryli-10-kafe-za-grubye-narusheniya-sanitarnyh-norm",
+    "status": "fetched",
+    "checkedAt": "2026-09-13"
+  },
+  {
+    "url": "https://www.openstreetmap.org/node/9210128674",
+    "status": "original_osm_snapshot",
+    "checkedAt": null
+  }
+]
+```
+
+### provenance
+
+```json
+{
+  "osmSnapshot": "2026-09-09T22:24:20Z",
+  "repositoryCommit": "722a18fb55f9f093147c90a5d54c1a70e40c8ce5",
+  "descriptionSource": "https://github.com/Dragn1ll/khakaton_2026_dataset/blob/722a18fb55f9f093147c90a5d54c1a70e40c8ce5/02_place_descriptions/tatar_food_descriptions.md",
+  "evidenceLevel": "external_reference",
+  "nameRestored": false
+}
+```
+
+### osm_tags
+
+```json
+{
+  "amenity": "cafe",
+  "cuisine": "tatar",
+  "name": "Аш бабай"
+}
+```
+
+---
+
+## Домашняя столовая
+
+- **id:** `node/4759711586`
+- **category:** `tatar_food`
+- **lat:** 55.7879607
+- **lon:** 49.1305022
+- **address:** не указан
+- **opening_hours:** `Mo-Sa 07:30-21:00; Su 09:00-21:00`
+- **website:** http://domstolovaya.ru/
+- **phone:** +7 903 3438567
+
+**description**
+
+«Домашняя столовая» — сеть заведений повседневного питания; на её сайте представлены завтраки, супы, горячие блюда и выпечка, а продукция заявлена как халяль. Эта точка соответствует адресу Бутлерова, 21 из официального списка. Она занимает первый этаж, предлагает татарскую и русскую кухню и еду навынос.
+
+- **imageUrl:** `null`
+- **imageSource:** `null`
+- **imageLicense:** `null`
+- **imageLicenseUrl:** `null`
+- **imageAuthor:** `null`
+- **imageStatus:** not_found
+- **imageMatch:** `null`
+- **imageCheckedAt:** 2026-09-13
+- **reuseStatus:** `null`
+- **iconPath:** icons/tatar_food.svg
+- **categoryIconPath:** icons/tatar_food.svg
+- **categoryIconUrl:** `null`
+- **visitStatus:** unknown
+- **routeEligible:** true
+
+### sources
+
+```json
+[
+  {
+    "url": "https://domstolovaya.ru/",
+    "status": "fetched",
+    "checkedAt": "2026-09-13"
+  },
+  {
+    "url": "https://www.openstreetmap.org/node/4759711586",
+    "status": "original_osm_snapshot",
+    "checkedAt": null
+  }
+]
+```
+
+### provenance
+
+```json
+{
+  "osmSnapshot": "2026-09-09T22:24:20Z",
+  "repositoryCommit": "722a18fb55f9f093147c90a5d54c1a70e40c8ce5",
+  "descriptionSource": "https://github.com/Dragn1ll/khakaton_2026_dataset/blob/722a18fb55f9f093147c90a5d54c1a70e40c8ce5/02_place_descriptions/tatar_food_descriptions.md",
+  "evidenceLevel": "external_reference",
+  "nameRestored": false
+}
+```
+
+### osm_tags
+
+```json
+{
+  "addr:floor": "1",
+  "amenity": "fast_food",
+  "brand": "Домашняя столовая",
+  "check_date": "2025-08-02",
+  "contact:facebook": "https://www.facebook.com/people/%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D1%8F%D1%8F-%D0%A1%D1%82%D0%BE%D0%BB%D0%BE%D0%B2%D0%B0%D1%8F/100017606163478/",
+  "contact:instagram": "domstolovaya",
+  "contact:phone": "+7 903 3438567",
+  "contact:vk": "https://vk.com/domashnayastolovaya",
+  "contact:website": "http://domstolovaya.ru/",
+  "cuisine": "tatar;russian",
+  "fast_food": "cafeteria",
+  "level": "0",
+  "name": "Домашняя столовая",
+  "opening_hours": "Mo-Sa 07:30-21:00; Su 09:00-21:00",
+  "operator": "ИП Асадуллина Лилия Ратмеровна",
+  "operator:ref:inn": "161401228492",
+  "outdoor_seating": "no",
+  "payment:cash": "yes",
+  "ref": "Бутлерова",
+  "takeaway": "yes",
+  "wheelchair": "no"
+}
+```
+
+---
+
+## Домашняя столовая
+
+- **id:** `node/4909944521`
+- **category:** `tatar_food`
+- **lat:** 55.8256634
+- **lon:** 49.085856
+- **address:** улица Декабристов, 100
+- **opening_hours:** `Mo-Sa 07:30-21:00; Su 09:00-21:00`
+- **website:** http://domstolovaya.ru/
+- **phone:** не указан
+
+**description**
+
+Столовая сети на Декабристов, 100 указана на официальном сайте с ориентиром на станцию метро «Яшьлек». Она расположена на первом этаже и работает в формате самообслуживания.
+
+- **imageUrl:** `null`
+- **imageSource:** `null`
+- **imageLicense:** `null`
+- **imageLicenseUrl:** `null`
+- **imageAuthor:** `null`
+- **imageStatus:** not_found
+- **imageMatch:** `null`
+- **imageCheckedAt:** 2026-09-13
+- **reuseStatus:** `null`
+- **iconPath:** icons/tatar_food.svg
+- **categoryIconPath:** icons/tatar_food.svg
+- **categoryIconUrl:** `null`
+- **visitStatus:** unknown
+- **routeEligible:** true
+
+### sources
+
+```json
+[
+  {
+    "url": "https://domstolovaya.ru/",
+    "status": "fetched",
+    "checkedAt": "2026-09-13"
+  },
+  {
+    "url": "https://www.openstreetmap.org/node/4909944521",
+    "status": "original_osm_snapshot",
+    "checkedAt": null
+  }
+]
+```
+
+### provenance
+
+```json
+{
+  "osmSnapshot": "2026-09-09T22:24:20Z",
+  "repositoryCommit": "722a18fb55f9f093147c90a5d54c1a70e40c8ce5",
+  "descriptionSource": "https://github.com/Dragn1ll/khakaton_2026_dataset/blob/722a18fb55f9f093147c90a5d54c1a70e40c8ce5/02_place_descriptions/tatar_food_descriptions.md",
+  "evidenceLevel": "external_reference",
+  "nameRestored": false
+}
+```
+
+### osm_tags
+
+```json
+{
+  "addr:floor": "1",
+  "addr:housenumber": "100",
+  "addr:street": "улица Декабристов",
+  "amenity": "fast_food",
+  "check_date": "2026-08-28",
+  "contact:facebook": "https://www.facebook.com/people/%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D1%8F%D1%8F-%D0%A1%D1%82%D0%BE%D0%BB%D0%BE%D0%B2%D0%B0%D1%8F/100017606163478/",
+  "contact:instagram": "domstolovaya",
+  "contact:vk": "https://vk.com/domashnayastolovaya",
+  "contact:website": "http://domstolovaya.ru/",
+  "cuisine": "tatar;russian",
+  "fast_food": "cafeteria",
+  "level": "0",
+  "name": "Домашняя столовая",
+  "name:ru": "Домашняя столовая",
+  "opening_hours": "Mo-Sa 07:30-21:00; Su 09:00-21:00",
+  "operator": "ИП Сабиров Р.Р.",
+  "ref": "Декабристов",
+  "wheelchair": "no"
+}
+```
+
+---
+
+## Домашняя столовая
+
+- **id:** `node/8328556617`
+- **category:** `tatar_food`
+- **lat:** 55.826796
+- **lon:** 49.1535056
+- **address:** не указан
+- **opening_hours:** `Mo-Sa 07:30-21:00; Su 09:00-21:00`
+- **website:** http://domstolovaya.ru/
+- **phone:** не указан
+
+**description**
+
+Филиал «Домашней столовой» с пометкой «Ямашева» соответствует точке сети на Ямашева, 100Г. Его отличительная деталь — размещение на втором этаже. Здесь указан формат столовой с самообслуживанием.
+
+- **imageUrl:** `null`
+- **imageSource:** `null`
+- **imageLicense:** `null`
+- **imageLicenseUrl:** `null`
+- **imageAuthor:** `null`
+- **imageStatus:** not_found
+- **imageMatch:** `null`
+- **imageCheckedAt:** 2026-09-13
+- **reuseStatus:** `null`
+- **iconPath:** icons/tatar_food.svg
+- **categoryIconPath:** icons/tatar_food.svg
+- **categoryIconUrl:** `null`
+- **visitStatus:** unknown
+- **routeEligible:** true
+
+### sources
+
+```json
+[
+  {
+    "url": "https://domstolovaya.ru/",
+    "status": "fetched",
+    "checkedAt": "2026-09-13"
+  },
+  {
+    "url": "https://www.openstreetmap.org/node/8328556617",
+    "status": "original_osm_snapshot",
+    "checkedAt": null
+  }
+]
+```
+
+### provenance
+
+```json
+{
+  "osmSnapshot": "2026-09-09T22:24:20Z",
+  "repositoryCommit": "722a18fb55f9f093147c90a5d54c1a70e40c8ce5",
+  "descriptionSource": "https://github.com/Dragn1ll/khakaton_2026_dataset/blob/722a18fb55f9f093147c90a5d54c1a70e40c8ce5/02_place_descriptions/tatar_food_descriptions.md",
+  "evidenceLevel": "external_reference",
+  "nameRestored": false
+}
+```
+
+### osm_tags
+
+```json
+{
+  "addr:floor": "2",
+  "amenity": "fast_food",
+  "check_date": "2025-07-02",
+  "contact:facebook": "https://www.facebook.com/people/%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D1%8F%D1%8F-%D0%A1%D1%82%D0%BE%D0%BB%D0%BE%D0%B2%D0%B0%D1%8F/100017606163478/",
+  "contact:instagram": "domstolovaya",
+  "contact:vk": "https://vk.com/domashnayastolovaya",
+  "contact:website": "http://domstolovaya.ru/",
+  "cuisine": "tatar;russian",
+  "fast_food": "cafeteria",
+  "level": "1",
+  "name": "Домашняя столовая",
+  "opening_hours": "Mo-Sa 07:30-21:00; Su 09:00-21:00",
+  "ref": "Ямашева",
+  "wheelchair": "no"
+}
+```
+
+---
+
+## Домашняя столовая
+
+- **id:** `node/9210120926`
+- **category:** `tatar_food`
+- **lat:** 55.7820726
+- **lon:** 49.1274568
+- **address:** Спартаковская улица, 1
+- **opening_hours:** `Mo-Sa 07:30-21:00; Su 09:00-21:00`
+- **website:** http://domstolovaya.ru/
+- **phone:** не указан
+
+**description**
+
+Столовая на Спартаковской, 1 присутствует в официальном перечне сети. Филиал расположен на первом этаже, оснащён кондиционером и не имеет летних столиков. В заведении заявлена халяльная кухня.
+
+- **imageUrl:** `null`
+- **imageSource:** `null`
+- **imageLicense:** `null`
+- **imageLicenseUrl:** `null`
+- **imageAuthor:** `null`
+- **imageStatus:** not_found
+- **imageMatch:** `null`
+- **imageCheckedAt:** 2026-09-13
+- **reuseStatus:** `null`
+- **iconPath:** icons/tatar_food.svg
+- **categoryIconPath:** icons/tatar_food.svg
+- **categoryIconUrl:** `null`
+- **visitStatus:** unknown
+- **routeEligible:** true
+
+### sources
+
+```json
+[
+  {
+    "url": "https://domstolovaya.ru/",
+    "status": "fetched",
+    "checkedAt": "2026-09-13"
+  },
+  {
+    "url": "https://www.openstreetmap.org/node/9210120926",
+    "status": "original_osm_snapshot",
+    "checkedAt": null
+  }
+]
+```
+
+### provenance
+
+```json
+{
+  "osmSnapshot": "2026-09-09T22:24:20Z",
+  "repositoryCommit": "722a18fb55f9f093147c90a5d54c1a70e40c8ce5",
+  "descriptionSource": "https://github.com/Dragn1ll/khakaton_2026_dataset/blob/722a18fb55f9f093147c90a5d54c1a70e40c8ce5/02_place_descriptions/tatar_food_descriptions.md",
+  "evidenceLevel": "external_reference",
+  "nameRestored": false
+}
+```
+
+### osm_tags
+
+```json
+{
+  "addr:floor": "1",
+  "addr:housenumber": "1",
+  "addr:street": "Спартаковская улица",
+  "air_conditioning": "yes",
+  "amenity": "fast_food",
+  "check_date": "2026-03-19",
+  "contact:facebook": "https://www.facebook.com/people/%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D1%8F%D1%8F-%D0%A1%D1%82%D0%BE%D0%BB%D0%BE%D0%B2%D0%B0%D1%8F/100017606163478/",
+  "contact:instagram": "domstolovaya",
+  "contact:vk": "https://vk.com/domashnayastolovaya",
+  "contact:website": "http://domstolovaya.ru/",
+  "cuisine": "tatar;russian",
+  "diet:halal": "yes",
+  "fast_food": "cafeteria",
+  "level": "0",
+  "name": "Домашняя столовая",
+  "opening_hours": "Mo-Sa 07:30-21:00; Su 09:00-21:00",
+  "operator": "ИП Курбангалеева Э.И.",
+  "outdoor_seating": "no",
+  "payment:cash": "yes",
+  "payment:credit_cards": "yes",
+  "payment:debit_cards": "yes",
+  "ref": "Спартаковская",
+  "wheelchair": "no"
+}
+```
+
+---
+
+## Домашняя столовая
+
+- **id:** `node/9459668817`
+- **category:** `tatar_food`
+- **lat:** 55.7974703
+- **lon:** 49.1229079
+- **address:** Большая Красная улица, 34/16
+- **opening_hours:** `Mo-Sa 07:30-21:00; Su 09:00-21:00`
+- **website:** http://domstolovaya.ru/
+- **phone:** +7 843 5282345
+
+**description**
+
+Филиал на Большой Красной, 34/16 подтверждается адресным списком сети. Столовая занимает первый этаж и предлагает блюда татарской и русской кухни в формате самообслуживания.
+
+- **imageUrl:** `null`
+- **imageSource:** `null`
+- **imageLicense:** `null`
+- **imageLicenseUrl:** `null`
+- **imageAuthor:** `null`
+- **imageStatus:** not_found
+- **imageMatch:** `null`
+- **imageCheckedAt:** 2026-09-13
+- **reuseStatus:** `null`
+- **iconPath:** icons/tatar_food.svg
+- **categoryIconPath:** icons/tatar_food.svg
+- **categoryIconUrl:** `null`
+- **visitStatus:** unknown
+- **routeEligible:** true
+
+### sources
+
+```json
+[
+  {
+    "url": "https://domstolovaya.ru/",
+    "status": "fetched",
+    "checkedAt": "2026-09-13"
+  },
+  {
+    "url": "https://www.openstreetmap.org/node/9459668817",
+    "status": "original_osm_snapshot",
+    "checkedAt": null
+  }
+]
+```
+
+### provenance
+
+```json
+{
+  "osmSnapshot": "2026-09-09T22:24:20Z",
+  "repositoryCommit": "722a18fb55f9f093147c90a5d54c1a70e40c8ce5",
+  "descriptionSource": "https://github.com/Dragn1ll/khakaton_2026_dataset/blob/722a18fb55f9f093147c90a5d54c1a70e40c8ce5/02_place_descriptions/tatar_food_descriptions.md",
+  "evidenceLevel": "external_reference",
+  "nameRestored": false
+}
+```
+
+### osm_tags
+
+```json
+{
+  "addr:floor": "1",
+  "addr:housenumber": "34/16",
+  "addr:street": "Большая Красная улица",
+  "amenity": "fast_food",
+  "check_date": "2025-07-12",
+  "contact:facebook": "https://www.facebook.com/people/%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D1%8F%D1%8F-%D0%A1%D1%82%D0%BE%D0%BB%D0%BE%D0%B2%D0%B0%D1%8F/100017606163478/",
+  "contact:instagram": "domstolovaya",
+  "contact:phone": "+7 843 5282345",
+  "contact:vk": "https://vk.com/domashnayastolovaya",
+  "contact:website": "http://domstolovaya.ru/",
+  "cuisine": "tatar;russian",
+  "fast_food": "cafeteria",
+  "level": "0",
+  "name": "Домашняя столовая",
+  "opening_hours": "Mo-Sa 07:30-21:00; Su 09:00-21:00",
+  "operator": "ИП Сабиров Р. Р.",
+  "ref": "Большая Красная",
+  "wheelchair": "no"
+}
+```
+
+---
+
+## Домашняя столовая
+
+- **id:** `node/9661591337`
+- **category:** `tatar_food`
+- **lat:** 55.800451
+- **lon:** 49.182225
+- **address:** не указан
+- **opening_hours:** `Mo-Sa 07:30-21:00; Su 09:00-21:00`
+- **website:** http://domstolovaya.ru/
+- **phone:** не указан
+
+**description**
+
+Точка сети с пометкой «Ершова» соответствует адресу Николая Ершова, 78Б из официального списка. Здесь представлены татарская и русская кухня в формате столовой с самообслуживанием.
+
+- **imageUrl:** `null`
+- **imageSource:** `null`
+- **imageLicense:** `null`
+- **imageLicenseUrl:** `null`
+- **imageAuthor:** `null`
+- **imageStatus:** not_found
+- **imageMatch:** `null`
+- **imageCheckedAt:** 2026-09-13
+- **reuseStatus:** `null`
+- **iconPath:** icons/tatar_food.svg
+- **categoryIconPath:** icons/tatar_food.svg
+- **categoryIconUrl:** `null`
+- **visitStatus:** unknown
+- **routeEligible:** true
+
+### sources
+
+```json
+[
+  {
+    "url": "https://domstolovaya.ru/",
+    "status": "fetched",
+    "checkedAt": "2026-09-13"
+  },
+  {
+    "url": "https://www.openstreetmap.org/node/9661591337",
+    "status": "original_osm_snapshot",
+    "checkedAt": null
+  }
+]
+```
+
+### provenance
+
+```json
+{
+  "osmSnapshot": "2026-09-09T22:24:20Z",
+  "repositoryCommit": "722a18fb55f9f093147c90a5d54c1a70e40c8ce5",
+  "descriptionSource": "https://github.com/Dragn1ll/khakaton_2026_dataset/blob/722a18fb55f9f093147c90a5d54c1a70e40c8ce5/02_place_descriptions/tatar_food_descriptions.md",
+  "evidenceLevel": "external_reference",
+  "nameRestored": false
+}
+```
+
+### osm_tags
+
+```json
+{
+  "amenity": "fast_food",
+  "contact:facebook": "https://www.facebook.com/people/%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D1%8F%D1%8F-%D0%A1%D1%82%D0%BE%D0%BB%D0%BE%D0%B2%D0%B0%D1%8F/100017606163478/",
+  "contact:instagram": "domstolovaya",
+  "contact:vk": "https://vk.com/domashnayastolovaya",
+  "contact:website": "http://domstolovaya.ru/",
+  "cuisine": "tatar;russian",
+  "fast_food": "cafeteria",
+  "name": "Домашняя столовая",
+  "opening_hours": "Mo-Sa 07:30-21:00; Su 09:00-21:00",
+  "ref": "Ершова"
+}
+```
+
+---
+
+## Домашняя столовая
+
+- **id:** `node/9661591338`
+- **category:** `tatar_food`
+- **lat:** 55.7888174
+- **lon:** 49.1514212
+- **address:** не указан
+- **opening_hours:** `Mo-Sa 07:30-21:00; Su 09:00-21:00`
+- **website:** http://domstolovaya.ru/
+- **phone:** не указан
+
+**description**
+
+Столовая с пометкой «Вишневского» соотносится с адресом Вишневского, 4/53 на сайте сети. Для неё указан первый этаж. Это отдельный филиал с самообслуживанием, а не точка на соседней улице Бутлерова.
+
+- **imageUrl:** `null`
+- **imageSource:** `null`
+- **imageLicense:** `null`
+- **imageLicenseUrl:** `null`
+- **imageAuthor:** `null`
+- **imageStatus:** not_found
+- **imageMatch:** `null`
+- **imageCheckedAt:** 2026-09-13
+- **reuseStatus:** `null`
+- **iconPath:** icons/tatar_food.svg
+- **categoryIconPath:** icons/tatar_food.svg
+- **categoryIconUrl:** `null`
+- **visitStatus:** unknown
+- **routeEligible:** true
+
+### sources
+
+```json
+[
+  {
+    "url": "https://domstolovaya.ru/",
+    "status": "fetched",
+    "checkedAt": "2026-09-13"
+  },
+  {
+    "url": "https://www.openstreetmap.org/node/9661591338",
+    "status": "original_osm_snapshot",
+    "checkedAt": null
+  }
+]
+```
+
+### provenance
+
+```json
+{
+  "osmSnapshot": "2026-09-09T22:24:20Z",
+  "repositoryCommit": "722a18fb55f9f093147c90a5d54c1a70e40c8ce5",
+  "descriptionSource": "https://github.com/Dragn1ll/khakaton_2026_dataset/blob/722a18fb55f9f093147c90a5d54c1a70e40c8ce5/02_place_descriptions/tatar_food_descriptions.md",
+  "evidenceLevel": "external_reference",
+  "nameRestored": false
+}
+```
+
+### osm_tags
+
+```json
+{
+  "addr:floor": "1",
+  "amenity": "fast_food",
+  "check_date": "2026-07-25",
+  "contact:facebook": "https://www.facebook.com/people/%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D1%8F%D1%8F-%D0%A1%D1%82%D0%BE%D0%BB%D0%BE%D0%B2%D0%B0%D1%8F/100017606163478/",
+  "contact:instagram": "domstolovaya",
+  "contact:vk": "https://vk.com/domashnayastolovaya",
+  "contact:website": "http://domstolovaya.ru/",
+  "cuisine": "tatar;russian",
+  "fast_food": "cafeteria",
+  "level": "0",
+  "name": "Домашняя столовая",
+  "opening_hours": "Mo-Sa 07:30-21:00; Su 09:00-21:00",
+  "operator": "ИП Сабиров Р. Р.",
+  "ref": "Вишневского",
+  "wheelchair": "no"
+}
+```
+
+---
+
+## Туган авылым
+
+- **id:** `node/10016636505`
+- **category:** `tatar_food`
+- **lat:** 55.7792662
+- **lon:** 49.1357534
+- **address:** не указан
+- **opening_hours:** `Mo-Fr 11:00-24:00; Sa-Su 00:00-01:00,11:00-24:00`
+- **website:** не указан
+- **phone:** не указан
+
+**description**
+
+Ресторан «Туган авылым» входит в национальный комплекс на улице Туфана Миннуллина, открытый в 2005 году к тысячелетию Казани. Здесь готовят татарские блюда, в том числе в дровяной печи. Интерьер оформлен как деревенский дом; в ресторане также проводят кулинарные мастер-классы.
+
+- **imageUrl:** http://s3go.kzn.ru/local/2026-01-20/8qkmJsXaSiffUXR0.jpeg
+- **imageSource:** https://go.kzn.ru/places/tugan-avylym
+- **imageLicense:** `null`
+- **imageLicenseUrl:** `null`
+- **imageAuthor:** Фото: Туган Авылым
+- **imageStatus:** source_linked_http_verified
+- **imageMatch:** Cover attached to unique place detail object on official Kazan portal; not a related article
+- **imageCheckedAt:** 2026-09-13
+- **reuseStatus:** permission_not_established
+- **iconPath:** icons/tatar_food.svg
+- **categoryIconPath:** icons/tatar_food.svg
+- **categoryIconUrl:** `null`
+- **visitStatus:** unknown
+- **routeEligible:** true
+
+### sources
+
+```json
+[
+  {
+    "url": "https://go.kzn.ru/places/tugan-avylym",
+    "status": "fetched",
+    "checkedAt": "2026-09-13"
+  },
+  {
+    "url": "https://go.kzn.ru/places/nacionalnyi-kompleks-tugan-avylym",
+    "status": "fetched",
+    "checkedAt": "2026-09-13"
+  },
+  {
+    "url": "https://www.openstreetmap.org/node/10016636505",
+    "status": "original_osm_snapshot",
+    "checkedAt": null
+  }
+]
+```
+
+### provenance
+
+```json
+{
+  "osmSnapshot": "2026-09-09T22:24:20Z",
+  "repositoryCommit": "722a18fb55f9f093147c90a5d54c1a70e40c8ce5",
+  "descriptionSource": "https://github.com/Dragn1ll/khakaton_2026_dataset/blob/722a18fb55f9f093147c90a5d54c1a70e40c8ce5/02_place_descriptions/tatar_food_descriptions.md",
+  "evidenceLevel": "external_reference",
+  "nameRestored": false
+}
+```
+
+### osm_tags
+
+```json
+{
+  "amenity": "restaurant",
+  "capacity": "200",
+  "check_date": "2023-04-24",
+  "cuisine": "regional;tatar",
+  "diet:halal": "yes",
+  "name": "Туган авылым",
+  "opening_hours": "Mo-Fr 11:00-24:00; Sa-Su 00:00-01:00,11:00-24:00",
+  "wheelchair": "no"
+}
+```
+
+---
+
+## Чәй йорты
+
+- **id:** `node/2951288375`
+- **category:** `tatar_food`
+- **lat:** 55.789535
+- **lon:** 49.1167334
+- **address:** не указан
+- **opening_hours:** `Mo-Sa 09:00-19:00`
+- **website:** не указан
+- **phone:** +7 843 2925654
+
+**description**
+
+«Чәй йорты», или «Дом чая», — заведение татарской кухни на улице Баумана, 64. Оно известно как место для знакомства с национальными блюдами и выпечкой в формате повседневного общепита. Также используется название «Казанское ашханэ Дом чая»; точная дата основания не установлена.
+
+- **imageUrl:** `null`
+- **imageSource:** `null`
+- **imageLicense:** `null`
+- **imageLicenseUrl:** `null`
+- **imageAuthor:** `null`
+- **imageStatus:** not_found
+- **imageMatch:** `null`
+- **imageCheckedAt:** 2026-09-13
+- **reuseStatus:** `null`
+- **iconPath:** icons/tatar_food.svg
+- **categoryIconPath:** icons/tatar_food.svg
+- **categoryIconUrl:** `null`
+- **visitStatus:** unknown
+- **routeEligible:** true
+
+### sources
+
+```json
+[
+  {
+    "url": "https://realnoevremya.ru/articles/247186-ugol-legendarnogo-dom-chaya-v-kazani-otdali-pod-donernuyu",
+    "status": "fetched",
+    "checkedAt": "2026-09-13"
+  },
+  {
+    "url": "https://www.openstreetmap.org/node/2951288375",
+    "status": "original_osm_snapshot",
+    "checkedAt": null
+  }
+]
+```
+
+### provenance
+
+```json
+{
+  "osmSnapshot": "2026-09-09T22:24:20Z",
+  "repositoryCommit": "722a18fb55f9f093147c90a5d54c1a70e40c8ce5",
+  "descriptionSource": "https://github.com/Dragn1ll/khakaton_2026_dataset/blob/722a18fb55f9f093147c90a5d54c1a70e40c8ce5/02_place_descriptions/tatar_food_descriptions.md",
+  "evidenceLevel": "external_reference",
+  "nameRestored": false
+}
+```
+
+### osm_tags
+
+```json
+{
+  "amenity": "cafe",
+  "check_date": "2024-09-25",
+  "cuisine": "tatar;regional;teahouse",
+  "name": "Казанское ашханэ Дом чая",
+  "name:en": "Kazan Ashkhane Tea House",
+  "name:ru": "Чәй йорты",
+  "opening_hours": "Mo-Sa 09:00-19:00",
+  "operator": "ООО \"Казанское ашханэ\"",
+  "phone": "+7 843 2925654",
+  "wheelchair": "no"
+}
+```
+
+---

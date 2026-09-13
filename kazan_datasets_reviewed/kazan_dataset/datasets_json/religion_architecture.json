@@ -1,0 +1,2995 @@
+[
+  {
+    "id": "way/123422865",
+    "name": "Азимовская мечеть",
+    "category": "religion_architecture",
+    "lat": 55.7691051,
+    "lon": 49.1153956,
+    "address": "улица Фаткуллина, 15",
+    "opening_hours": "",
+    "website": "",
+    "phone": "+7 843 2782983",
+    "description": "«Азимовская мечеть» — суннитская мечеть в Казани. Датируется 1890 годом.",
+    "osm_tags": {
+      "addr:housenumber": "15",
+      "addr:street": "улица Фаткуллина",
+      "amenity": "place_of_worship",
+      "building": "mosque",
+      "denomination": "sunni",
+      "name": "Азимовская мечеть",
+      "name:tt": "Әҗем мәчете",
+      "phone": "+7 843 2782983",
+      "religion": "muslim",
+      "start_date": "1890",
+      "wikidata": "Q1999626",
+      "wikipedia": "ru:Азимовская мечеть"
+    },
+    "sources": [
+      {
+        "url": "https://ru.wikipedia.org/wiki/%D0%90%D0%B7%D0%B8%D0%BC%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%BC%D0%B5%D1%87%D0%B5%D1%82%D1%8C",
+        "status": "fetched",
+        "checkedAt": "2026-09-13"
+      },
+      {
+        "url": "https://www.openstreetmap.org/way/123422865",
+        "status": "original_osm_snapshot",
+        "checkedAt": null
+      }
+    ],
+    "provenance": {
+      "osmSnapshot": "2026-09-09T22:24:20Z",
+      "repositoryCommit": "722a18fb55f9f093147c90a5d54c1a70e40c8ce5",
+      "descriptionSource": "https://github.com/Dragn1ll/khakaton_2026_dataset/blob/722a18fb55f9f093147c90a5d54c1a70e40c8ce5/02_place_descriptions/religion_architecture_descriptions.md",
+      "evidenceLevel": "external_reference",
+      "nameRestored": false
+    },
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Azimov_Mosque_%282023-04-15%29_08.jpg/960px-Azimov_Mosque_%282023-04-15%29_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Azimov_Mosque_(2023-04-15)_08.jpg",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAuthor": "Vyacheslav Kirillin",
+    "imageStatus": "source_linked_http_verified",
+    "iconPath": "icons/religion_architecture.svg",
+    "categoryIconPath": "icons/religion_architecture.svg",
+    "categoryIconUrl": null,
+    "visitStatus": "unknown",
+    "routeEligible": true,
+    "qualityNotes": [
+      "Часы работы неизвестны; не считать круглосуточным доступом."
+    ],
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageMatch": "OSM Wikidata link; coordinate check when P625 exists",
+    "imageCheckedAt": "2026-09-13",
+    "reuseStatus": "license_provided"
+  },
+  {
+    "id": "way/133264399",
+    "name": "Апанаевская мечеть",
+    "category": "religion_architecture",
+    "lat": 55.777895,
+    "lon": 49.1193413,
+    "address": "Казань, улица Каюма Насыри, 29",
+    "opening_hours": "",
+    "website": "",
+    "phone": "+7 843 2934292",
+    "description": "«Апанаевская мечеть» — суннитская мечеть в Казани.",
+    "osm_tags": {
+      "addr:city": "Казань",
+      "addr:country": "RU",
+      "addr:housenumber": "29",
+      "addr:street": "улица Каюма Насыри",
+      "amenity": "place_of_worship",
+      "building": "mosque",
+      "building:colour": "white",
+      "building:levels": "2",
+      "denomination": "sunni",
+      "name": "Апанаевская мечеть",
+      "name:de": "Apanajewskaja-Moschee",
+      "name:en": "Apanaevskaya Mosque",
+      "name:ru": "Апанаевская мечеть",
+      "name:tt": "Апанай мәчете",
+      "phone": "+7 843 2934292",
+      "religion": "muslim",
+      "wikidata": "Q617561",
+      "wikipedia": "ru:Апанаевская мечеть"
+    },
+    "sources": [
+      {
+        "url": "https://ru.wikipedia.org/wiki/%D0%90%D0%BF%D0%B0%D0%BD%D0%B0%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%BC%D0%B5%D1%87%D0%B5%D1%82%D1%8C",
+        "status": "fetched",
+        "checkedAt": "2026-09-13"
+      },
+      {
+        "url": "https://www.openstreetmap.org/way/133264399",
+        "status": "original_osm_snapshot",
+        "checkedAt": null
+      }
+    ],
+    "provenance": {
+      "osmSnapshot": "2026-09-09T22:24:20Z",
+      "repositoryCommit": "722a18fb55f9f093147c90a5d54c1a70e40c8ce5",
+      "descriptionSource": "https://github.com/Dragn1ll/khakaton_2026_dataset/blob/722a18fb55f9f093147c90a5d54c1a70e40c8ce5/02_place_descriptions/religion_architecture_descriptions.md",
+      "evidenceLevel": "external_reference",
+      "nameRestored": false
+    },
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Kazan_Apanayev_Mosque_08-2016_img1.jpg/960px-Kazan_Apanayev_Mosque_08-2016_img1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Kazan_Apanayev_Mosque_08-2016_img1.jpg",
+    "imageLicense": "FAL",
+    "imageAuthor": "A.Savin",
+    "imageStatus": "source_linked_http_verified",
+    "iconPath": "icons/religion_architecture.svg",
+    "categoryIconPath": "icons/religion_architecture.svg",
+    "categoryIconUrl": null,
+    "visitStatus": "unknown",
+    "routeEligible": true,
+    "qualityNotes": [
+      "Часы работы неизвестны; не считать круглосуточным доступом."
+    ],
+    "imageLicenseUrl": "http://artlibre.org/licence/lal/en",
+    "imageMatch": "OSM Wikidata link; coordinate check when P625 exists",
+    "imageCheckedAt": "2026-09-13",
+    "reuseStatus": "rights_review_required"
+  },
+  {
+    "id": "way/984941577",
+    "name": "Ахмадзаки",
+    "category": "religion_architecture",
+    "lat": 55.8514246,
+    "lon": 48.8946722,
+    "address": "Осиновский переулок, 16А",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "«Ахмадзаки» — мечеть в Казани. Датируется 2 мая 2022 года.",
+    "osm_tags": {
+      "addr:housenumber": "16А",
+      "addr:street": "Осиновский переулок",
+      "amenity": "place_of_worship",
+      "building": "mosque",
+      "building:levels": "1",
+      "name": "Ахмадзаки",
+      "religion": "muslim",
+      "start_date": "2022-05-02"
+    },
+    "sources": [
+      {
+        "url": "https://www.openstreetmap.org/way/984941577",
+        "status": "original_osm_snapshot",
+        "checkedAt": null
+      }
+    ],
+    "provenance": {
+      "osmSnapshot": "2026-09-09T22:24:20Z",
+      "repositoryCommit": "722a18fb55f9f093147c90a5d54c1a70e40c8ce5",
+      "descriptionSource": "https://github.com/Dragn1ll/khakaton_2026_dataset/blob/722a18fb55f9f093147c90a5d54c1a70e40c8ce5/02_place_descriptions/religion_architecture_descriptions.md",
+      "evidenceLevel": "osm_specific_facts",
+      "nameRestored": false
+    },
+    "imageUrl": null,
+    "imageSource": null,
+    "imageLicense": null,
+    "imageAuthor": null,
+    "imageStatus": "not_found",
+    "iconPath": "icons/religion_architecture.svg",
+    "categoryIconPath": "icons/religion_architecture.svg",
+    "categoryIconUrl": null,
+    "visitStatus": "unknown",
+    "routeEligible": true,
+    "qualityNotes": [
+      "Часы работы неизвестны; не считать круглосуточным доступом."
+    ],
+    "imageLicenseUrl": null,
+    "imageMatch": null,
+    "imageCheckedAt": "2026-09-13",
+    "reuseStatus": null
+  },
+  {
+    "id": "way/259988409",
+    "name": "Благовещенский собор",
+    "category": "religion_architecture",
+    "lat": 55.799848,
+    "lon": 49.1060415,
+    "address": "420111, Казань, проезд Шейнкмана, 2",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "«Благовещенский собор» — православный храм в Казани. Датируется 1561..1562 годом.",
+    "osm_tags": {
+      "addr:city": "Казань",
+      "addr:housenumber": "2",
+      "addr:postcode": "420111",
+      "addr:street": "проезд Шейнкмана",
+      "amenity": "place_of_worship",
+      "building": "cathedral",
+      "building:colour": "white",
+      "building:levels": "3",
+      "denomination": "russian_orthodox",
+      "name": "Благовещенский собор",
+      "name:de": "Mariä-Verkündigungs-Kathedrale",
+      "name:es": "Catedral de la Anunciación",
+      "name:ru": "Благовещенский собор",
+      "name:zh": "聖母報領大教堂",
+      "religion": "christian",
+      "start_date": "1561..1562",
+      "tourism": "attraction",
+      "wikidata": "Q185568",
+      "wikipedia": "ru:Благовещенский собор Казанского кремля"
+    },
+    "sources": [
+      {
+        "url": "https://ru.wikipedia.org/wiki/%D0%91%D0%BB%D0%B0%D0%B3%D0%BE%D0%B2%D0%B5%D1%89%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%BA%D1%80%D0%B5%D0%BC%D0%BB%D1%8F",
+        "status": "fetched",
+        "checkedAt": "2026-09-13"
+      },
+      {
+        "url": "https://www.openstreetmap.org/way/259988409",
+        "status": "original_osm_snapshot",
+        "checkedAt": null
+      }
+    ],
+    "provenance": {
+      "osmSnapshot": "2026-09-09T22:24:20Z",
+      "repositoryCommit": "722a18fb55f9f093147c90a5d54c1a70e40c8ce5",
+      "descriptionSource": "https://github.com/Dragn1ll/khakaton_2026_dataset/blob/722a18fb55f9f093147c90a5d54c1a70e40c8ce5/02_place_descriptions/religion_architecture_descriptions.md",
+      "evidenceLevel": "external_reference",
+      "nameRestored": false
+    },
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Kazan_Kremlin_Annunciation_Cathedral_08-2016.jpg/960px-Kazan_Kremlin_Annunciation_Cathedral_08-2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Kazan_Kremlin_Annunciation_Cathedral_08-2016.jpg",
+    "imageLicense": "FAL",
+    "imageAuthor": "A.Savin",
+    "imageStatus": "source_linked_http_verified",
+    "iconPath": "icons/religion_architecture.svg",
+    "categoryIconPath": "icons/religion_architecture.svg",
+    "categoryIconUrl": null,
+    "visitStatus": "unknown",
+    "routeEligible": true,
+    "qualityNotes": [
+      "Часы работы неизвестны; не считать круглосуточным доступом."
+    ],
+    "imageLicenseUrl": "http://artlibre.org/licence/lal/en",
+    "imageMatch": "OSM Wikidata link; coordinate check when P625 exists",
+    "imageCheckedAt": "2026-09-13",
+    "reuseStatus": "rights_review_required"
+  },
+  {
+    "id": "way/70910317",
+    "name": "Булгар",
+    "category": "religion_architecture",
+    "lat": 55.8350676,
+    "lon": 49.1199136,
+    "address": "420103, Казань, улица Мусина, 10",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "«Булгар» — суннитская мечеть в Казани. Датируется 1993 годом.",
+    "osm_tags": {
+      "addr:city": "Казань",
+      "addr:housenumber": "10",
+      "addr:postcode": "420103",
+      "addr:street": "улица Мусина",
+      "amenity": "place_of_worship",
+      "building": "mosque",
+      "building:colour": "white",
+      "building:levels": "2",
+      "building:material": "brick",
+      "denomination": "sunni",
+      "name": "Булгар",
+      "name:ru": "Булгар",
+      "religion": "muslim",
+      "start_date": "1993",
+      "wikidata": "Q3658918"
+    },
+    "sources": [
+      {
+        "url": "https://tt.wikipedia.org/wiki/%D0%91%D0%BE%D0%BB%D0%B3%D0%B0%D1%80_%D0%BC%D3%99%D1%87%D0%B5%D1%82%D0%B5_%28%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%29",
+        "status": "fetched",
+        "checkedAt": "2026-09-13"
+      },
+      {
+        "url": "https://www.openstreetmap.org/way/70910317",
+        "status": "original_osm_snapshot",
+        "checkedAt": null
+      }
+    ],
+    "provenance": {
+      "osmSnapshot": "2026-09-09T22:24:20Z",
+      "repositoryCommit": "722a18fb55f9f093147c90a5d54c1a70e40c8ce5",
+      "descriptionSource": "https://github.com/Dragn1ll/khakaton_2026_dataset/blob/722a18fb55f9f093147c90a5d54c1a70e40c8ce5/02_place_descriptions/religion_architecture_descriptions.md",
+      "evidenceLevel": "external_reference",
+      "nameRestored": false
+    },
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Bulgar_Mosque%2C_Kazan_%282022-10-06%29_01.jpg/960px-Bulgar_Mosque%2C_Kazan_%282022-10-06%29_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Bulgar_Mosque,_Kazan_(2022-10-06)_01.jpg",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAuthor": "Наргиза Амруллаева",
+    "imageStatus": "source_linked_http_verified",
+    "iconPath": "icons/religion_architecture.svg",
+    "categoryIconPath": "icons/religion_architecture.svg",
+    "categoryIconUrl": null,
+    "visitStatus": "unknown",
+    "routeEligible": true,
+    "qualityNotes": [
+      "Часы работы неизвестны; не считать круглосуточным доступом."
+    ],
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageMatch": "OSM Wikidata link; coordinate check when P625 exists",
+    "imageCheckedAt": "2026-09-13",
+    "reuseStatus": "license_provided"
+  },
+  {
+    "id": "way/133264577",
+    "name": "Бурнай",
+    "category": "religion_architecture",
+    "lat": 55.7747026,
+    "lon": 49.1170573,
+    "address": "Казань, улица Ахтямова, 7",
+    "opening_hours": "",
+    "website": "",
+    "phone": "+7 843 2494525",
+    "description": "«Бурнай» — суннитская мечеть в Казани.",
+    "osm_tags": {
+      "addr:city": "Казань",
+      "addr:housenumber": "7",
+      "addr:street": "улица Ахтямова",
+      "alt_name": "Бурнаевская мечеть",
+      "amenity": "place_of_worship",
+      "building": "mosque",
+      "building:colour": "#96281b",
+      "building:levels": "1",
+      "building:material": "brick",
+      "check_date": "2022-11-12",
+      "denomination": "sunni",
+      "name": "Бурнай",
+      "name:en": "Burnay",
+      "name:tt": "Борнай мәчете",
+      "name:tt-lat": "Bornay məçete",
+      "phone": "+7 843 2494525",
+      "religion": "muslim",
+      "wikidata": "Q1016744",
+      "wikipedia": "ru:Бурнаевская мечеть"
+    },
+    "sources": [
+      {
+        "url": "https://ru.wikipedia.org/wiki/%D0%91%D1%83%D1%80%D0%BD%D0%B0%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%BC%D0%B5%D1%87%D0%B5%D1%82%D1%8C",
+        "status": "fetched",
+        "checkedAt": "2026-09-13"
+      },
+      {
+        "url": "https://www.openstreetmap.org/way/133264577",
+        "status": "original_osm_snapshot",
+        "checkedAt": null
+      }
+    ],
+    "provenance": {
+      "osmSnapshot": "2026-09-09T22:24:20Z",
+      "repositoryCommit": "722a18fb55f9f093147c90a5d54c1a70e40c8ce5",
+      "descriptionSource": "https://github.com/Dragn1ll/khakaton_2026_dataset/blob/722a18fb55f9f093147c90a5d54c1a70e40c8ce5/02_place_descriptions/religion_architecture_descriptions.md",
+      "evidenceLevel": "external_reference",
+      "nameRestored": false
+    },
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Kazan_Burnay_Mosque_08-2016.jpg/960px-Kazan_Burnay_Mosque_08-2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Kazan_Burnay_Mosque_08-2016.jpg",
+    "imageLicense": "FAL",
+    "imageAuthor": "A.Savin",
+    "imageStatus": "source_linked_http_verified",
+    "iconPath": "icons/religion_architecture.svg",
+    "categoryIconPath": "icons/religion_architecture.svg",
+    "categoryIconUrl": null,
+    "visitStatus": "unknown",
+    "routeEligible": true,
+    "qualityNotes": [
+      "Часы работы неизвестны; не считать круглосуточным доступом."
+    ],
+    "imageLicenseUrl": "http://artlibre.org/licence/lal/en",
+    "imageMatch": "OSM Wikidata link; coordinate check when P625 exists",
+    "imageCheckedAt": "2026-09-13",
+    "reuseStatus": "rights_review_required"
+  },
+  {
+    "id": "way/93047510",
+    "name": "Воскресенский собор",
+    "category": "religion_architecture",
+    "lat": 55.7454143,
+    "lon": 49.1650671,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "«Воскресенский собор» — христианский храм в Казани. Датируется 1698 годом.",
+    "osm_tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "name": "Воскресенский собор",
+      "religion": "christian",
+      "start_date": "1698"
+    },
+    "sources": [
+      {
+        "url": "https://www.openstreetmap.org/way/93047510",
+        "status": "original_osm_snapshot",
+        "checkedAt": null
+      }
+    ],
+    "provenance": {
+      "osmSnapshot": "2026-09-09T22:24:20Z",
+      "repositoryCommit": "722a18fb55f9f093147c90a5d54c1a70e40c8ce5",
+      "descriptionSource": "https://github.com/Dragn1ll/khakaton_2026_dataset/blob/722a18fb55f9f093147c90a5d54c1a70e40c8ce5/02_place_descriptions/religion_architecture_descriptions.md",
+      "evidenceLevel": "osm_specific_facts",
+      "nameRestored": false
+    },
+    "imageUrl": null,
+    "imageSource": null,
+    "imageLicense": null,
+    "imageAuthor": null,
+    "imageStatus": "not_found",
+    "iconPath": "icons/religion_architecture.svg",
+    "categoryIconPath": "icons/religion_architecture.svg",
+    "categoryIconUrl": null,
+    "visitStatus": "unknown",
+    "routeEligible": true,
+    "qualityNotes": [
+      "Часы работы неизвестны; не считать круглосуточным доступом."
+    ],
+    "imageLicenseUrl": null,
+    "imageMatch": null,
+    "imageCheckedAt": "2026-09-13",
+    "reuseStatus": null
+  },
+  {
+    "id": "way/157537968",
+    "name": "Галеевская мечеть",
+    "category": "religion_architecture",
+    "lat": 55.7813084,
+    "lon": 49.1113549,
+    "address": "Казань, улица Габдуллы Тукая, 40/22",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "«Галеевская мечеть» — суннитская мечеть в Казани.",
+    "osm_tags": {
+      "addr:city": "Казань",
+      "addr:country": "RU",
+      "addr:housenumber": "40/22",
+      "addr:street": "улица Габдуллы Тукая",
+      "amenity": "place_of_worship",
+      "building": "mosque",
+      "building:levels": "2",
+      "denomination": "sunni",
+      "name": "Галеевская мечеть",
+      "name:ba": "Ғәлиев мәсете",
+      "name:en": "\"Galeev\" mosque",
+      "name:ru": "Галеевская мечеть",
+      "name:tt": "Галиев мәчете",
+      "name:tt-lat": "Ğäliev mäçete",
+      "religion": "muslim",
+      "wikidata": "Q4132323",
+      "wikipedia": "ru:Галеевская мечеть"
+    },
+    "sources": [
+      {
+        "url": "https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D0%BB%D0%B5%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%BC%D0%B5%D1%87%D0%B5%D1%82%D1%8C",
+        "status": "fetched",
+        "checkedAt": "2026-09-13"
+      },
+      {
+        "url": "https://www.openstreetmap.org/way/157537968",
+        "status": "original_osm_snapshot",
+        "checkedAt": null
+      }
+    ],
+    "provenance": {
+      "osmSnapshot": "2026-09-09T22:24:20Z",
+      "repositoryCommit": "722a18fb55f9f093147c90a5d54c1a70e40c8ce5",
+      "descriptionSource": "https://github.com/Dragn1ll/khakaton_2026_dataset/blob/722a18fb55f9f093147c90a5d54c1a70e40c8ce5/02_place_descriptions/religion_architecture_descriptions.md",
+      "evidenceLevel": "external_reference",
+      "nameRestored": false
+    },
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/%D0%93%D0%B0%D0%BB%D0%B5%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%BC%D0%B5%D1%87%D0%B5%D1%82%D1%8C_002.JPG/960px-%D0%93%D0%B0%D0%BB%D0%B5%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%BC%D0%B5%D1%87%D0%B5%D1%82%D1%8C_002.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:%D0%93%D0%B0%D0%BB%D0%B5%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%BC%D0%B5%D1%87%D0%B5%D1%82%D1%8C_002.JPG",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageAuthor": "Disciple",
+    "imageStatus": "source_linked_http_verified",
+    "iconPath": "icons/religion_architecture.svg",
+    "categoryIconPath": "icons/religion_architecture.svg",
+    "categoryIconUrl": null,
+    "visitStatus": "unknown",
+    "routeEligible": true,
+    "qualityNotes": [
+      "Часы работы неизвестны; не считать круглосуточным доступом."
+    ],
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "imageMatch": "OSM Wikidata link; coordinate check when P625 exists",
+    "imageCheckedAt": "2026-09-13",
+    "reuseStatus": "license_provided"
+  },
+  {
+    "id": "way/133264786",
+    "name": "Голубая мечеть",
+    "category": "religion_architecture",
+    "lat": 55.7771944,
+    "lon": 49.1126261,
+    "address": "420021, Казань, улица Фатыха Карима, 19/8",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "«Голубая мечеть» — суннитская мечеть в Казани.",
+    "osm_tags": {
+      "addr:city": "Казань",
+      "addr:housenumber": "19/8",
+      "addr:postcode": "420021",
+      "addr:street": "улица Фатыха Карима",
+      "amenity": "place_of_worship",
+      "building": "mosque",
+      "building:levels": "3",
+      "check_date": "2023-04-09",
+      "denomination": "sunni",
+      "name": "Голубая мечеть",
+      "name:en": "Zangar mosque",
+      "name:tt": "Зәңгәр",
+      "religion": "muslim",
+      "wikidata": "Q4142281",
+      "wikipedia": "ru:Голубая мечеть (Казань)"
+    },
+    "sources": [
+      {
+        "url": "https://ru.wikipedia.org/wiki/%D0%93%D0%BE%D0%BB%D1%83%D0%B1%D0%B0%D1%8F_%D0%BC%D0%B5%D1%87%D0%B5%D1%82%D1%8C_%28%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%8C%29",
+        "status": "fetched",
+        "checkedAt": "2026-09-13"
+      },
+      {
+        "url": "https://www.openstreetmap.org/way/133264786",
+        "status": "original_osm_snapshot",
+        "checkedAt": null
+      }
+    ],
+    "provenance": {
+      "osmSnapshot": "2026-09-09T22:24:20Z",
+      "repositoryCommit": "722a18fb55f9f093147c90a5d54c1a70e40c8ce5",
+      "descriptionSource": "https://github.com/Dragn1ll/khakaton_2026_dataset/blob/722a18fb55f9f093147c90a5d54c1a70e40c8ce5/02_place_descriptions/religion_architecture_descriptions.md",
+      "evidenceLevel": "external_reference",
+      "nameRestored": false
+    },
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/af/Kazan_Blue_mosque_minaret.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Kazan_Blue_mosque_minaret.jpg",
+    "imageLicense": "Public domain",
+    "imageAuthor": "Ерней",
+    "imageStatus": "source_linked_http_verified",
+    "iconPath": "icons/religion_architecture.svg",
+    "categoryIconPath": "icons/religion_architecture.svg",
+    "categoryIconUrl": null,
+    "visitStatus": "unknown",
+    "routeEligible": true,
+    "qualityNotes": [
+      "Часы работы неизвестны; не считать круглосуточным доступом."
+    ],
+    "imageLicenseUrl": null,
+    "imageMatch": "OSM Wikidata link; coordinate check when P625 exists",
+    "imageCheckedAt": "2026-09-13",
+    "reuseStatus": "license_provided"
+  },
+  {
+    "id": "way/105146836",
+    "name": "Закабанная мечеть",
+    "category": "religion_architecture",
+    "lat": 55.7774773,
+    "lon": 49.1280589,
+    "address": "Казань, улица Хади Такташа, 26",
+    "opening_hours": "",
+    "website": "https://zakaban.ru",
+    "phone": "+7 843 5371283",
+    "description": "«Закабанная мечеть» — суннитская мечеть в Казани. Датируется 1926 годом.",
+    "osm_tags": {
+      "addr:city": "Казань",
+      "addr:country": "RU",
+      "addr:housenumber": "26",
+      "addr:street": "улица Хади Такташа",
+      "amenity": "place_of_worship",
+      "building": "mosque",
+      "denomination": "sunni",
+      "historic": "heritage",
+      "name": "Закабанная мечеть",
+      "name:tt": "Кабан арты мәчете",
+      "phone": "+7 843 5371283",
+      "religion": "muslim",
+      "start_date": "1926",
+      "website": "https://zakaban.ru",
+      "wheelchair": "yes",
+      "wikidata": "Q1506616",
+      "wikipedia": "ru:Закабанная мечеть"
+    },
+    "sources": [
+      {
+        "url": "https://ru.wikipedia.org/wiki/%D0%97%D0%B0%D0%BA%D0%B0%D0%B1%D0%B0%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BC%D0%B5%D1%87%D0%B5%D1%82%D1%8C",
+        "status": "fetched",
+        "checkedAt": "2026-09-13"
+      },
+      {
+        "url": "https://www.openstreetmap.org/way/105146836",
+        "status": "original_osm_snapshot",
+        "checkedAt": null
+      }
+    ],
+    "provenance": {
+      "osmSnapshot": "2026-09-09T22:24:20Z",
+      "repositoryCommit": "722a18fb55f9f093147c90a5d54c1a70e40c8ce5",
+      "descriptionSource": "https://github.com/Dragn1ll/khakaton_2026_dataset/blob/722a18fb55f9f093147c90a5d54c1a70e40c8ce5/02_place_descriptions/religion_architecture_descriptions.md",
+      "evidenceLevel": "external_reference",
+      "nameRestored": false
+    },
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Kazan_Zakabannaya_Mosque_08-2016.jpg/960px-Kazan_Zakabannaya_Mosque_08-2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Kazan_Zakabannaya_Mosque_08-2016.jpg",
+    "imageLicense": "FAL",
+    "imageAuthor": "A.Savin",
+    "imageStatus": "source_linked_http_verified",
+    "iconPath": "icons/religion_architecture.svg",
+    "categoryIconPath": "icons/religion_architecture.svg",
+    "categoryIconUrl": null,
+    "visitStatus": "unknown",
+    "routeEligible": true,
+    "qualityNotes": [
+      "Часы работы неизвестны; не считать круглосуточным доступом."
+    ],
+    "imageLicenseUrl": "http://artlibre.org/licence/lal/en",
+    "imageMatch": "OSM Wikidata link; coordinate check when P625 exists",
+    "imageCheckedAt": "2026-09-13",
+    "reuseStatus": "rights_review_required"
+  },
+  {
+    "id": "way/390073198",
+    "name": "Ибрагим",
+    "category": "religion_architecture",
+    "lat": 55.8425247,
+    "lon": 49.2346692,
+    "address": "Локаторная улица, 33Б",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "«Ибрагим» — суннитская мечеть в Казани. Датируется 2024 годом.",
+    "osm_tags": {
+      "addr:housenumber": "33Б",
+      "addr:street": "Локаторная улица",
+      "amenity": "place_of_worship",
+      "building": "mosque",
+      "building:levels": "1",
+      "denomination": "sunni",
+      "name": "Ибрагим",
+      "religion": "muslim",
+      "start_date": "2024"
+    },
+    "sources": [
+      {
+        "url": "https://www.openstreetmap.org/way/390073198",
+        "status": "original_osm_snapshot",
+        "checkedAt": null
+      }
+    ],
+    "provenance": {
+      "osmSnapshot": "2026-09-09T22:24:20Z",
+      "repositoryCommit": "722a18fb55f9f093147c90a5d54c1a70e40c8ce5",
+      "descriptionSource": "https://github.com/Dragn1ll/khakaton_2026_dataset/blob/722a18fb55f9f093147c90a5d54c1a70e40c8ce5/02_place_descriptions/religion_architecture_descriptions.md",
+      "evidenceLevel": "osm_specific_facts",
+      "nameRestored": false
+    },
+    "imageUrl": null,
+    "imageSource": null,
+    "imageLicense": null,
+    "imageAuthor": null,
+    "imageStatus": "not_found",
+    "iconPath": "icons/religion_architecture.svg",
+    "categoryIconPath": "icons/religion_architecture.svg",
+    "categoryIconUrl": null,
+    "visitStatus": "unknown",
+    "routeEligible": true,
+    "qualityNotes": [
+      "Часы работы неизвестны; не считать круглосуточным доступом."
+    ],
+    "imageLicenseUrl": null,
+    "imageMatch": null,
+    "imageCheckedAt": "2026-09-13",
+    "reuseStatus": null
+  },
+  {
+    "id": "way/179750813",
+    "name": "Иман Нуры",
+    "category": "religion_architecture",
+    "lat": 55.8480717,
+    "lon": 49.2211327,
+    "address": "Дорожная улица, 32",
+    "opening_hours": "08:00-19:00",
+    "website": "",
+    "phone": "",
+    "description": "«Иман Нуры» — суннитская мечеть в Казани. Датируется 1996 годом.",
+    "osm_tags": {
+      "addr:housenumber": "32",
+      "addr:street": "Дорожная улица",
+      "amenity": "place_of_worship",
+      "building": "mosque",
+      "building:levels": "2",
+      "denomination": "sunni",
+      "name": "Иман Нуры",
+      "opening_hours": "08:00-19:00",
+      "religion": "muslim",
+      "source:addr": "ЕГРН",
+      "start_date": "1996"
+    },
+    "sources": [
+      {
+        "url": "https://www.openstreetmap.org/way/179750813",
+        "status": "original_osm_snapshot",
+        "checkedAt": null
+      }
+    ],
+    "provenance": {
+      "osmSnapshot": "2026-09-09T22:24:20Z",
+      "repositoryCommit": "722a18fb55f9f093147c90a5d54c1a70e40c8ce5",
+      "descriptionSource": "https://github.com/Dragn1ll/khakaton_2026_dataset/blob/722a18fb55f9f093147c90a5d54c1a70e40c8ce5/02_place_descriptions/religion_architecture_descriptions.md",
+      "evidenceLevel": "osm_specific_facts",
+      "nameRestored": false
+    },
+    "imageUrl": null,
+    "imageSource": null,
+    "imageLicense": null,
+    "imageAuthor": null,
+    "imageStatus": "not_found",
+    "iconPath": "icons/religion_architecture.svg",
+    "categoryIconPath": "icons/religion_architecture.svg",
+    "categoryIconUrl": null,
+    "visitStatus": "unknown",
+    "routeEligible": true,
+    "qualityNotes": [],
+    "imageLicenseUrl": null,
+    "imageMatch": null,
+    "imageCheckedAt": "2026-09-13",
+    "reuseStatus": null
+  },
+  {
+    "id": "way/845720689",
+    "name": "Ирек",
+    "category": "religion_architecture",
+    "lat": 55.8025265,
+    "lon": 49.1150722,
+    "address": "Казань, Федосеевская улица, 5",
+    "opening_hours": "",
+    "website": "",
+    "phone": "+7 937 7728888",
+    "description": "«Ирек» — суннитская мечеть в Казани. Датируется 2021 годом.",
+    "osm_tags": {
+      "addr:city": "Казань",
+      "addr:housenumber": "5",
+      "addr:street": "Федосеевская улица",
+      "amenity": "place_of_worship",
+      "building": "mosque",
+      "building:levels": "2",
+      "contact:instagram": "https://www.instagram.com/mechetirek",
+      "contact:phone": "+7 937 7728888",
+      "denomination": "sunni",
+      "name": "Ирек",
+      "name:ru": "Ирек",
+      "name:tt": "Ирек",
+      "religion": "muslim",
+      "source:addr": "ЕГРН",
+      "start_date": "2021"
+    },
+    "sources": [
+      {
+        "url": "https://www.openstreetmap.org/way/845720689",
+        "status": "original_osm_snapshot",
+        "checkedAt": null
+      }
+    ],
+    "provenance": {
+      "osmSnapshot": "2026-09-09T22:24:20Z",
+      "repositoryCommit": "722a18fb55f9f093147c90a5d54c1a70e40c8ce5",
+      "descriptionSource": "https://github.com/Dragn1ll/khakaton_2026_dataset/blob/722a18fb55f9f093147c90a5d54c1a70e40c8ce5/02_place_descriptions/religion_architecture_descriptions.md",
+      "evidenceLevel": "osm_specific_facts",
+      "nameRestored": false
+    },
+    "imageUrl": null,
+    "imageSource": null,
+    "imageLicense": null,
+    "imageAuthor": null,
+    "imageStatus": "not_found",
+    "iconPath": "icons/religion_architecture.svg",
+    "categoryIconPath": "icons/religion_architecture.svg",
+    "categoryIconUrl": null,
+    "visitStatus": "unknown",
+    "routeEligible": true,
+    "qualityNotes": [
+      "Часы работы неизвестны; не считать круглосуточным доступом."
+    ],
+    "imageLicenseUrl": null,
+    "imageMatch": null,
+    "imageCheckedAt": "2026-09-13",
+    "reuseStatus": null
+  },
+  {
+    "id": "way/81652743",
+    "name": "Иске Таш",
+    "category": "religion_architecture",
+    "lat": 55.7695118,
+    "lon": 49.1018001,
+    "address": "улица Мазита Гафури, 34А к1",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "«Иске Таш» — суннитская мечеть в Казани.",
+    "osm_tags": {
+      "addr:housenumber": "34А к1",
+      "addr:street": "улица Мазита Гафури",
+      "amenity": "place_of_worship",
+      "building": "mosque",
+      "denomination": "sunni",
+      "name": "Иске Таш",
+      "name:en": "İske Taş Mosque",
+      "name:tt": "Иске Таш мәчет",
+      "religion": "muslim",
+      "wikidata": "Q1634179",
+      "wikipedia": "tt:Иске Таш мәчет"
+    },
+    "sources": [
+      {
+        "url": "https://tt.wikipedia.org/wiki/%D0%98%D1%81%D0%BA%D0%B5_%D0%A2%D0%B0%D1%88_%D0%BC%D3%99%D1%87%D0%B5%D1%82",
+        "status": "fetched",
+        "checkedAt": "2026-09-13"
+      },
+      {
+        "url": "https://www.openstreetmap.org/way/81652743",
+        "status": "original_osm_snapshot",
+        "checkedAt": null
+      }
+    ],
+    "provenance": {
+      "osmSnapshot": "2026-09-09T22:24:20Z",
+      "repositoryCommit": "722a18fb55f9f093147c90a5d54c1a70e40c8ce5",
+      "descriptionSource": "https://github.com/Dragn1ll/khakaton_2026_dataset/blob/722a18fb55f9f093147c90a5d54c1a70e40c8ce5/02_place_descriptions/religion_architecture_descriptions.md",
+      "evidenceLevel": "external_reference",
+      "nameRestored": false
+    },
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/IskeTash2006.JPG/960px-IskeTash2006.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:IskeTash2006.JPG",
+    "imageLicense": "Public domain",
+    "imageAuthor": "Untifler",
+    "imageStatus": "source_linked_http_verified",
+    "iconPath": "icons/religion_architecture.svg",
+    "categoryIconPath": "icons/religion_architecture.svg",
+    "categoryIconUrl": null,
+    "visitStatus": "unknown",
+    "routeEligible": true,
+    "qualityNotes": [
+      "Часы работы неизвестны; не считать круглосуточным доступом."
+    ],
+    "imageLicenseUrl": null,
+    "imageMatch": "OSM Wikidata link; coordinate check when P625 exists",
+    "imageCheckedAt": "2026-09-13",
+    "reuseStatus": "license_provided"
+  },
+  {
+    "id": "way/92016285",
+    "name": "Ислам",
+    "category": "religion_architecture",
+    "lat": 55.8629217,
+    "lon": 49.2319454,
+    "address": "Казань, Вяземская улица, 28",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "«Ислам» — суннитская мечеть в Казани.",
+    "osm_tags": {
+      "addr:city": "Казань",
+      "addr:housenumber": "28",
+      "addr:street": "Вяземская улица",
+      "amenity": "place_of_worship",
+      "building": "mosque",
+      "denomination": "sunni",
+      "name": "Ислам",
+      "religion": "muslim",
+      "wikidata": "Q4292339"
+    },
+    "sources": [
+      {
+        "url": "https://tt.wikipedia.org/wiki/%D0%98%D1%81%D0%BB%D0%B0%D0%BC_%28%D0%BC%D3%99%D1%87%D0%B5%D1%82%2C_%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%29",
+        "status": "fetched",
+        "checkedAt": "2026-09-13"
+      },
+      {
+        "url": "https://www.openstreetmap.org/way/92016285",
+        "status": "original_osm_snapshot",
+        "checkedAt": null
+      }
+    ],
+    "provenance": {
+      "osmSnapshot": "2026-09-09T22:24:20Z",
+      "repositoryCommit": "722a18fb55f9f093147c90a5d54c1a70e40c8ce5",
+      "descriptionSource": "https://github.com/Dragn1ll/khakaton_2026_dataset/blob/722a18fb55f9f093147c90a5d54c1a70e40c8ce5/02_place_descriptions/religion_architecture_descriptions.md",
+      "evidenceLevel": "external_reference",
+      "nameRestored": false
+    },
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Kazan_Islam_Mosque_%282022-08-23%29_05.jpg/960px-Kazan_Islam_Mosque_%282022-08-23%29_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Kazan_Islam_Mosque_(2022-08-23)_05.jpg",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAuthor": "Наргиза Амруллаева",
+    "imageStatus": "source_linked_http_verified",
+    "iconPath": "icons/religion_architecture.svg",
+    "categoryIconPath": "icons/religion_architecture.svg",
+    "categoryIconUrl": null,
+    "visitStatus": "unknown",
+    "routeEligible": true,
+    "qualityNotes": [
+      "Часы работы неизвестны; не считать круглосуточным доступом."
+    ],
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageMatch": "OSM Wikidata link; coordinate check when P625 exists",
+    "imageCheckedAt": "2026-09-13",
+    "reuseStatus": "license_provided"
+  },
+  {
+    "id": "way/83410332",
+    "name": "Казан Нуры",
+    "category": "religion_architecture",
+    "lat": 55.818927,
+    "lon": 49.1326311,
+    "address": "420103, Казань, улица Фатыха Амирхана, 3 к2",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "«Казан Нуры» — суннитская мечеть в Казани. Датируется 2014 годом.",
+    "osm_tags": {
+      "addr:city": "Казань",
+      "addr:housenumber": "3 к2",
+      "addr:postcode": "420103",
+      "addr:street": "улица Фатыха Амирхана",
+      "amenity": "place_of_worship",
+      "building": "mosque",
+      "building:levels": "1",
+      "check_date": "2023-07-01",
+      "denomination": "sunni",
+      "name": "Казан Нуры",
+      "name:en": "Kazan Nury",
+      "name:ru": "Казан Нуры",
+      "name:tt": "Казан Нуры",
+      "religion": "muslim",
+      "start_date": "2014",
+      "wikidata": "Q3658918"
+    },
+    "sources": [
+      {
+        "url": "https://tt.wikipedia.org/wiki/%D0%91%D0%BE%D0%BB%D0%B3%D0%B0%D1%80_%D0%BC%D3%99%D1%87%D0%B5%D1%82%D0%B5_%28%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%29",
+        "status": "fetched",
+        "checkedAt": "2026-09-13"
+      },
+      {
+        "url": "https://www.openstreetmap.org/way/83410332",
+        "status": "original_osm_snapshot",
+        "checkedAt": null
+      }
+    ],
+    "provenance": {
+      "osmSnapshot": "2026-09-09T22:24:20Z",
+      "repositoryCommit": "722a18fb55f9f093147c90a5d54c1a70e40c8ce5",
+      "descriptionSource": "https://github.com/Dragn1ll/khakaton_2026_dataset/blob/722a18fb55f9f093147c90a5d54c1a70e40c8ce5/02_place_descriptions/religion_architecture_descriptions.md",
+      "evidenceLevel": "external_reference",
+      "nameRestored": false
+    },
+    "imageUrl": null,
+    "imageSource": null,
+    "imageLicense": null,
+    "imageAuthor": null,
+    "imageStatus": "not_found",
+    "iconPath": "icons/religion_architecture.svg",
+    "categoryIconPath": "icons/religion_architecture.svg",
+    "categoryIconUrl": null,
+    "visitStatus": "unknown",
+    "routeEligible": true,
+    "qualityNotes": [
+      "Часы работы неизвестны; не считать круглосуточным доступом."
+    ],
+    "imageLicenseUrl": null,
+    "imageMatch": null,
+    "imageCheckedAt": "2026-09-13",
+    "reuseStatus": null
+  },
+  {
+    "id": "way/196916395",
+    "name": "Каусар",
+    "category": "religion_architecture",
+    "lat": 55.7695094,
+    "lon": 49.2683138,
+    "address": "Казань, Боковой переулок, 10",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "«Каусар» — суннитская мечеть в Казани. Датируется 2003 годом.",
+    "osm_tags": {
+      "addr:city": "Казань",
+      "addr:housenumber": "10",
+      "addr:street": "Боковой переулок",
+      "amenity": "place_of_worship",
+      "building": "mosque",
+      "building:levels": "1",
+      "denomination": "sunni",
+      "name": "Каусар",
+      "religion": "muslim",
+      "start_date": "2003"
+    },
+    "sources": [
+      {
+        "url": "https://www.openstreetmap.org/way/196916395",
+        "status": "original_osm_snapshot",
+        "checkedAt": null
+      }
+    ],
+    "provenance": {
+      "osmSnapshot": "2026-09-09T22:24:20Z",
+      "repositoryCommit": "722a18fb55f9f093147c90a5d54c1a70e40c8ce5",
+      "descriptionSource": "https://github.com/Dragn1ll/khakaton_2026_dataset/blob/722a18fb55f9f093147c90a5d54c1a70e40c8ce5/02_place_descriptions/religion_architecture_descriptions.md",
+      "evidenceLevel": "osm_specific_facts",
+      "nameRestored": false
+    },
+    "imageUrl": null,
+    "imageSource": null,
+    "imageLicense": null,
+    "imageAuthor": null,
+    "imageStatus": "not_found",
+    "iconPath": "icons/religion_architecture.svg",
+    "categoryIconPath": "icons/religion_architecture.svg",
+    "categoryIconUrl": null,
+    "visitStatus": "unknown",
+    "routeEligible": true,
+    "qualityNotes": [
+      "Часы работы неизвестны; не считать круглосуточным доступом."
+    ],
+    "imageLicenseUrl": null,
+    "imageMatch": null,
+    "imageCheckedAt": "2026-09-13",
+    "reuseStatus": null
+  },
+  {
+    "id": "way/104638469",
+    "name": "Кафедральный собор Покрова Пресвятой Богородицы",
+    "category": "religion_architecture",
+    "lat": 55.7833088,
+    "lon": 49.1315113,
+    "address": "Казань, улица Ульянова-Ленина, 11",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "«Кафедральный собор Покрова Пресвятой Богородицы» — старообрядческий храм в Казани. Датируется 1909 годом.",
+    "osm_tags": {
+      "addr:city": "Казань",
+      "addr:country": "RU",
+      "addr:housenumber": "11",
+      "addr:street": "улица Ульянова-Ленина",
+      "alt_name": "Покровский кафедральный собор",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "building:levels": "2",
+      "denomination": "old_believers",
+      "historic": "church",
+      "name": "Кафедральный собор Покрова Пресвятой Богородицы",
+      "operator": "РПСЦ",
+      "place_of_worship:type": "cathedral",
+      "religion": "christian",
+      "roof:shape": "many",
+      "start_date": "1909",
+      "wikidata": "Q4369338",
+      "wikipedia": "ru:Покровский кафедральный собор (Казань)"
+    },
+    "sources": [
+      {
+        "url": "https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BA%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%B0%D1%84%D0%B5%D0%B4%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_%28%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%8C%29",
+        "status": "fetched",
+        "checkedAt": "2026-09-13"
+      },
+      {
+        "url": "https://www.openstreetmap.org/way/104638469",
+        "status": "original_osm_snapshot",
+        "checkedAt": null
+      }
+    ],
+    "provenance": {
+      "osmSnapshot": "2026-09-09T22:24:20Z",
+      "repositoryCommit": "722a18fb55f9f093147c90a5d54c1a70e40c8ce5",
+      "descriptionSource": "https://github.com/Dragn1ll/khakaton_2026_dataset/blob/722a18fb55f9f093147c90a5d54c1a70e40c8ce5/02_place_descriptions/religion_architecture_descriptions.md",
+      "evidenceLevel": "external_reference",
+      "nameRestored": false
+    },
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/%D0%9F%D0%BE%D0%BA%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%B0%D1%84%D0%B5%D0%B4%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_%D0%A0%D0%9F%D0%A1%D0%A6_%28%D0%B3._%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%8C%29.JPG/960px-%D0%9F%D0%BE%D0%BA%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%B0%D1%84%D0%B5%D0%B4%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_%D0%A0%D0%9F%D0%A1%D0%A6_%28%D0%B3._%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%8C%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:%D0%9F%D0%BE%D0%BA%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%B0%D1%84%D0%B5%D0%B4%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_%D0%A0%D0%9F%D0%A1%D0%A6_(%D0%B3._%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%8C).JPG",
+    "imageLicense": "CC0",
+    "imageAuthor": "Алексеев Игорь Евгеньевич",
+    "imageStatus": "source_linked_http_verified",
+    "iconPath": "icons/religion_architecture.svg",
+    "categoryIconPath": "icons/religion_architecture.svg",
+    "categoryIconUrl": null,
+    "visitStatus": "unknown",
+    "routeEligible": true,
+    "qualityNotes": [
+      "Часы работы неизвестны; не считать круглосуточным доступом."
+    ],
+    "imageLicenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "imageMatch": "OSM Wikidata link; coordinate check when P625 exists",
+    "imageCheckedAt": "2026-09-13",
+    "reuseStatus": "license_provided"
+  },
+  {
+    "id": "way/230132591",
+    "name": "Кул-Шариф",
+    "category": "religion_architecture",
+    "lat": 55.7983486,
+    "lon": 49.1051597,
+    "address": "420111, Казань, Кремль, 13",
+    "opening_hours": "",
+    "website": "https://www.kul-sharif.com/",
+    "phone": "+7 843 5678077",
+    "description": "«Кул-Шариф» — суннитская мечеть в Казани. Датируется 2005 годом.",
+    "osm_tags": {
+      "addr:city": "Казань",
+      "addr:housenumber": "13",
+      "addr:postcode": "420111",
+      "addr:street": "Кремль",
+      "amenity": "place_of_worship",
+      "building": "mosque",
+      "denomination": "sunni",
+      "height": "8",
+      "name": "Кул-Шариф",
+      "name:de": "Kul-Scharif-Moschee",
+      "name:en": "Kul-Sharif mosque",
+      "name:ru": "Кул-Шариф",
+      "name:tt": "Колшәриф мәчете",
+      "name:zh": "庫爾謝里夫清真寺",
+      "phone": "+7 843 5678077",
+      "religion": "muslim",
+      "roof:colour": "#7C5A51",
+      "start_date": "2005",
+      "tourism": "attraction",
+      "website": "https://www.kul-sharif.com/",
+      "wikidata": "Q121198",
+      "wikipedia": "ru:Кул-Шариф"
+    },
+    "sources": [
+      {
+        "url": "https://ru.wikipedia.org/wiki/%D0%9A%D1%83%D0%BB-%D0%A8%D0%B0%D1%80%D0%B8%D1%84",
+        "status": "fetched",
+        "checkedAt": "2026-09-13"
+      },
+      {
+        "url": "https://www.openstreetmap.org/way/230132591",
+        "status": "original_osm_snapshot",
+        "checkedAt": null
+      }
+    ],
+    "provenance": {
+      "osmSnapshot": "2026-09-09T22:24:20Z",
+      "repositoryCommit": "722a18fb55f9f093147c90a5d54c1a70e40c8ce5",
+      "descriptionSource": "https://github.com/Dragn1ll/khakaton_2026_dataset/blob/722a18fb55f9f093147c90a5d54c1a70e40c8ce5/02_place_descriptions/religion_architecture_descriptions.md",
+      "evidenceLevel": "external_reference",
+      "nameRestored": false
+    },
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Kazan_Kremlin_Qolsharif_Mosque_08-2016_img2.jpg/960px-Kazan_Kremlin_Qolsharif_Mosque_08-2016_img2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Kazan_Kremlin_Qolsharif_Mosque_08-2016_img2.jpg",
+    "imageLicense": "FAL",
+    "imageAuthor": "A.Savin",
+    "imageStatus": "source_linked_http_verified",
+    "iconPath": "icons/religion_architecture.svg",
+    "categoryIconPath": "icons/religion_architecture.svg",
+    "categoryIconUrl": null,
+    "visitStatus": "unknown",
+    "routeEligible": true,
+    "qualityNotes": [
+      "Часы работы неизвестны; не считать круглосуточным доступом."
+    ],
+    "imageLicenseUrl": "http://artlibre.org/licence/lal/en",
+    "imageMatch": "OSM Wikidata link; coordinate check when P625 exists",
+    "imageCheckedAt": "2026-09-13",
+    "reuseStatus": "rights_review_required"
+  },
+  {
+    "id": "way/220779521",
+    "name": "Маулид",
+    "category": "religion_architecture",
+    "lat": 55.8486961,
+    "lon": 48.8916081,
+    "address": "Селянская улица, 23",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "«Маулид» — суннитская мечеть в Казани. Датируется 1992 годом.",
+    "osm_tags": {
+      "addr:housenumber": "23",
+      "addr:street": "Селянская улица",
+      "amenity": "place_of_worship",
+      "building": "mosque",
+      "building:levels": "2",
+      "denomination": "sunni",
+      "name": "Маулид",
+      "religion": "muslim",
+      "start_date": "1992"
+    },
+    "sources": [
+      {
+        "url": "https://www.openstreetmap.org/way/220779521",
+        "status": "original_osm_snapshot",
+        "checkedAt": null
+      }
+    ],
+    "provenance": {
+      "osmSnapshot": "2026-09-09T22:24:20Z",
+      "repositoryCommit": "722a18fb55f9f093147c90a5d54c1a70e40c8ce5",
+      "descriptionSource": "https://github.com/Dragn1ll/khakaton_2026_dataset/blob/722a18fb55f9f093147c90a5d54c1a70e40c8ce5/02_place_descriptions/religion_architecture_descriptions.md",
+      "evidenceLevel": "osm_specific_facts",
+      "nameRestored": false
+    },
+    "imageUrl": null,
+    "imageSource": null,
+    "imageLicense": null,
+    "imageAuthor": null,
+    "imageStatus": "not_found",
+    "iconPath": "icons/religion_architecture.svg",
+    "categoryIconPath": "icons/religion_architecture.svg",
+    "categoryIconUrl": null,
+    "visitStatus": "unknown",
+    "routeEligible": true,
+    "qualityNotes": [
+      "Часы работы неизвестны; не считать круглосуточным доступом."
+    ],
+    "imageLicenseUrl": null,
+    "imageMatch": null,
+    "imageCheckedAt": "2026-09-13",
+    "reuseStatus": null
+  },
+  {
+    "id": "way/133264462",
+    "name": "мечеть Аль-Марджани",
+    "category": "religion_architecture",
+    "lat": 55.7797739,
+    "lon": 49.1177757,
+    "address": "Казань, улица Каюма Насыри, 17",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "«мечеть Аль-Марджани» — суннитская мечеть в Казани.",
+    "osm_tags": {
+      "addr:city": "Казань",
+      "addr:housenumber": "17",
+      "addr:street": "улица Каюма Насыри",
+      "amenity": "place_of_worship",
+      "building": "mosque",
+      "denomination": "sunni",
+      "name": "мечеть Аль-Марджани",
+      "name:de": "al-Mardschani-Moschee",
+      "name:en": "Märcani Mosque",
+      "name:ru": "мечеть Аль-Марджани",
+      "name:tr": "Marcani Camii",
+      "name:tt": "Мәрҗани мәчете",
+      "name:tt-lat": "Märcani mäçete",
+      "religion": "muslim",
+      "roof:colour": "lightgreen",
+      "wikidata": "Q2528801",
+      "wikipedia": "ru:Мечеть аль-Марджани"
+    },
+    "sources": [
+      {
+        "url": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D1%87%D0%B5%D1%82%D1%8C_%D0%B0%D0%BB%D1%8C-%D0%9C%D0%B0%D1%80%D0%B4%D0%B6%D0%B0%D0%BD%D0%B8",
+        "status": "fetched",
+        "checkedAt": "2026-09-13"
+      },
+      {
+        "url": "https://www.openstreetmap.org/way/133264462",
+        "status": "original_osm_snapshot",
+        "checkedAt": null
+      }
+    ],
+    "provenance": {
+      "osmSnapshot": "2026-09-09T22:24:20Z",
+      "repositoryCommit": "722a18fb55f9f093147c90a5d54c1a70e40c8ce5",
+      "descriptionSource": "https://github.com/Dragn1ll/khakaton_2026_dataset/blob/722a18fb55f9f093147c90a5d54c1a70e40c8ce5/02_place_descriptions/religion_architecture_descriptions.md",
+      "evidenceLevel": "external_reference",
+      "nameRestored": false
+    },
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Old_Tatar_Sloboda_in_Kazan_%28April_2025%29_-_0_4.jpg/960px-Old_Tatar_Sloboda_in_Kazan_%28April_2025%29_-_0_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Old_Tatar_Sloboda_in_Kazan_(April_2025)_-_0_4.jpg",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAuthor": "Vyacheslav Bukharov",
+    "imageStatus": "source_linked_http_verified",
+    "iconPath": "icons/religion_architecture.svg",
+    "categoryIconPath": "icons/religion_architecture.svg",
+    "categoryIconUrl": null,
+    "visitStatus": "unknown",
+    "routeEligible": true,
+    "qualityNotes": [
+      "Часы работы неизвестны; не считать круглосуточным доступом."
+    ],
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageMatch": "OSM Wikidata link; coordinate check when P625 exists",
+    "imageCheckedAt": "2026-09-13",
+    "reuseStatus": "license_provided"
+  },
+  {
+    "id": "way/108249744",
+    "name": "Мечеть Нурулла",
+    "category": "religion_architecture",
+    "lat": 55.782981,
+    "lon": 49.1145517,
+    "address": "420021, Казань, Московская улица, 74",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "«Мечеть Нурулла» — суннитская мечеть в Казани. Датируется 1849 годом.",
+    "osm_tags": {
+      "addr:city": "Казань",
+      "addr:country": "RU",
+      "addr:housenumber": "74",
+      "addr:postcode": "420021",
+      "addr:street": "Московская улица",
+      "alt_name": "Сенная",
+      "amenity": "place_of_worship",
+      "building": "mosque",
+      "building:levels": "3",
+      "check_date": "2022-05-31",
+      "denomination": "sunni",
+      "name": "Мечеть Нурулла",
+      "name:ba": "Нурулла мәсете",
+      "name:de": "Nurulla-Moschee",
+      "name:en": "Nurulla Mosque",
+      "name:ru": "Мечеть Нурулла",
+      "name:tt": "Нурулла мәчете",
+      "religion": "muslim",
+      "roof:colour": "green",
+      "start_date": "1849",
+      "wikidata": "Q1587654",
+      "wikipedia": "ru:Мечеть Нурулла"
+    },
+    "sources": [
+      {
+        "url": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D1%87%D0%B5%D1%82%D1%8C_%D0%9D%D1%83%D1%80%D1%83%D0%BB%D0%BB%D0%B0",
+        "status": "fetched",
+        "checkedAt": "2026-09-13"
+      },
+      {
+        "url": "https://www.openstreetmap.org/way/108249744",
+        "status": "original_osm_snapshot",
+        "checkedAt": null
+      }
+    ],
+    "provenance": {
+      "osmSnapshot": "2026-09-09T22:24:20Z",
+      "repositoryCommit": "722a18fb55f9f093147c90a5d54c1a70e40c8ce5",
+      "descriptionSource": "https://github.com/Dragn1ll/khakaton_2026_dataset/blob/722a18fb55f9f093147c90a5d54c1a70e40c8ce5/02_place_descriptions/religion_architecture_descriptions.md",
+      "evidenceLevel": "external_reference",
+      "nameRestored": false
+    },
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Kazan_Nurulla_Mosque_08-2016.jpg/960px-Kazan_Nurulla_Mosque_08-2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Kazan_Nurulla_Mosque_08-2016.jpg",
+    "imageLicense": "FAL",
+    "imageAuthor": "A.Savin",
+    "imageStatus": "source_linked_http_verified",
+    "iconPath": "icons/religion_architecture.svg",
+    "categoryIconPath": "icons/religion_architecture.svg",
+    "categoryIconUrl": null,
+    "visitStatus": "unknown",
+    "routeEligible": true,
+    "qualityNotes": [
+      "Часы работы неизвестны; не считать круглосуточным доступом."
+    ],
+    "imageLicenseUrl": "http://artlibre.org/licence/lal/en",
+    "imageMatch": "OSM Wikidata link; coordinate check when P625 exists",
+    "imageCheckedAt": "2026-09-13",
+    "reuseStatus": "rights_review_required"
+  },
+  {
+    "id": "way/393600003",
+    "name": "Миргазиян",
+    "category": "religion_architecture",
+    "lat": 55.8231371,
+    "lon": 49.0857135,
+    "address": "420034, Казань, улица Декабристов, 111",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "«Миргазиян» — суннитская мечеть в Казани. Датируется 2018 годом.",
+    "osm_tags": {
+      "addr:city": "Казань",
+      "addr:housenumber": "111",
+      "addr:postcode": "420034",
+      "addr:street": "улица Декабристов",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "building:levels": "2",
+      "denomination": "sunni",
+      "name": "Миргазиян",
+      "name:ru": "Миргазиян",
+      "religion": "muslim",
+      "start_date": "2018"
+    },
+    "sources": [
+      {
+        "url": "https://www.openstreetmap.org/way/393600003",
+        "status": "original_osm_snapshot",
+        "checkedAt": null
+      }
+    ],
+    "provenance": {
+      "osmSnapshot": "2026-09-09T22:24:20Z",
+      "repositoryCommit": "722a18fb55f9f093147c90a5d54c1a70e40c8ce5",
+      "descriptionSource": "https://github.com/Dragn1ll/khakaton_2026_dataset/blob/722a18fb55f9f093147c90a5d54c1a70e40c8ce5/02_place_descriptions/religion_architecture_descriptions.md",
+      "evidenceLevel": "osm_specific_facts",
+      "nameRestored": false
+    },
+    "imageUrl": null,
+    "imageSource": null,
+    "imageLicense": null,
+    "imageAuthor": null,
+    "imageStatus": "not_found",
+    "iconPath": "icons/religion_architecture.svg",
+    "categoryIconPath": "icons/religion_architecture.svg",
+    "categoryIconUrl": null,
+    "visitStatus": "unknown",
+    "routeEligible": true,
+    "qualityNotes": [
+      "Часы работы неизвестны; не считать круглосуточным доступом."
+    ],
+    "imageLicenseUrl": null,
+    "imageMatch": null,
+    "imageCheckedAt": "2026-09-13",
+    "reuseStatus": null
+  },
+  {
+    "id": "way/91641026",
+    "name": "Никольский кафедральный собор",
+    "category": "religion_architecture",
+    "lat": 55.7939564,
+    "lon": 49.108931,
+    "address": "Казань, улица Баумана, 5",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "«Никольский кафедральный собор» — православный храм в Казани.",
+    "osm_tags": {
+      "addr:city": "Казань",
+      "addr:country": "RU",
+      "addr:housenumber": "5",
+      "addr:street": "улица Баумана",
+      "amenity": "place_of_worship",
+      "building": "cathedral",
+      "check_date": "2023-11-05",
+      "denomination": "russian_orthodox",
+      "name": "Никольский кафедральный собор",
+      "name:ru": "Никольский кафедральный собор",
+      "name:tt": "Микулай кафедраль соборы",
+      "note": "Уточните, по-моему я какую-то лажу нарисовал по бингу",
+      "religion": "christian",
+      "tourism": "attraction",
+      "wikidata": "Q3663712",
+      "wikipedia": "ru:Никольский собор (Казань)"
+    },
+    "sources": [
+      {
+        "url": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_%28%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%8C%29",
+        "status": "fetched",
+        "checkedAt": "2026-09-13"
+      },
+      {
+        "url": "https://www.openstreetmap.org/way/91641026",
+        "status": "original_osm_snapshot",
+        "checkedAt": null
+      }
+    ],
+    "provenance": {
+      "osmSnapshot": "2026-09-09T22:24:20Z",
+      "repositoryCommit": "722a18fb55f9f093147c90a5d54c1a70e40c8ce5",
+      "descriptionSource": "https://github.com/Dragn1ll/khakaton_2026_dataset/blob/722a18fb55f9f093147c90a5d54c1a70e40c8ce5/02_place_descriptions/religion_architecture_descriptions.md",
+      "evidenceLevel": "external_reference",
+      "nameRestored": false
+    },
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Kazan_Baumana_Street_StNicholas_Cathedral_08-2016.jpg/960px-Kazan_Baumana_Street_StNicholas_Cathedral_08-2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Kazan_Baumana_Street_StNicholas_Cathedral_08-2016.jpg",
+    "imageLicense": "FAL",
+    "imageAuthor": "A.Savin",
+    "imageStatus": "source_linked_http_verified",
+    "iconPath": "icons/religion_architecture.svg",
+    "categoryIconPath": "icons/religion_architecture.svg",
+    "categoryIconUrl": null,
+    "visitStatus": "unknown",
+    "routeEligible": true,
+    "qualityNotes": [
+      "Часы работы неизвестны; не считать круглосуточным доступом."
+    ],
+    "imageLicenseUrl": "http://artlibre.org/licence/lal/en",
+    "imageMatch": "OSM Wikidata link; coordinate check when P625 exists",
+    "imageCheckedAt": "2026-09-13",
+    "reuseStatus": "rights_review_required"
+  },
+  {
+    "id": "way/90178098",
+    "name": "Петропавловский собор",
+    "category": "religion_architecture",
+    "lat": 55.7935195,
+    "lon": 49.1131591,
+    "address": "Казань, улица Мусы Джалиля, 21",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "«Петропавловский собор» — православный храм в Казани.",
+    "osm_tags": {
+      "addr:city": "Казань",
+      "addr:country": "RU",
+      "addr:housenumber": "21",
+      "addr:street": "улица Мусы Джалиля",
+      "amenity": "place_of_worship",
+      "building": "cathedral",
+      "building:levels": "2",
+      "check_date": "2022-07-13",
+      "denomination": "russian_orthodox",
+      "name": "Петропавловский собор",
+      "name:en": "Saints Peter and Paul Cathedral",
+      "name:fr": "Église Saint-Pierre-et-Saint-Paul",
+      "name:ru": "Петропавловский собор",
+      "name:tt": "Изгеләр Петр Һәм Павел соборы",
+      "religion": "christian",
+      "service_times": "Mo-Sa 08:00, 17:00; Su, PH 07:00,08:40,17:00",
+      "source:addr": "ЕГРН",
+      "tourism": "attraction",
+      "wikidata": "Q2655072",
+      "wikipedia": "ru:Петропавловский собор (Казань)"
+    },
+    "sources": [
+      {
+        "url": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%BF%D0%B0%D0%B2%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_%28%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%8C%29",
+        "status": "fetched",
+        "checkedAt": "2026-09-13"
+      },
+      {
+        "url": "https://www.openstreetmap.org/way/90178098",
+        "status": "original_osm_snapshot",
+        "checkedAt": null
+      }
+    ],
+    "provenance": {
+      "osmSnapshot": "2026-09-09T22:24:20Z",
+      "repositoryCommit": "722a18fb55f9f093147c90a5d54c1a70e40c8ce5",
+      "descriptionSource": "https://github.com/Dragn1ll/khakaton_2026_dataset/blob/722a18fb55f9f093147c90a5d54c1a70e40c8ce5/02_place_descriptions/religion_architecture_descriptions.md",
+      "evidenceLevel": "external_reference",
+      "nameRestored": false
+    },
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/08/%D0%9F%D0%B5%D1%82%D1%80%D0%B0%D0%BF%D0%B0%D1%9E%D0%BB%D0%B0%D1%9E%D1%81%D0%BA%D1%96_%D1%81%D0%B0%D0%B1%D0%BE%D1%80_%D1%83_%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%96.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:%D0%9F%D0%B5%D1%82%D1%80%D0%B0%D0%BF%D0%B0%D1%9E%D0%BB%D0%B0%D1%9E%D1%81%D0%BA%D1%96_%D1%81%D0%B0%D0%B1%D0%BE%D1%80_%D1%83_%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%96.jpg",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAuthor": "Murdic",
+    "imageStatus": "source_linked_http_verified",
+    "iconPath": "icons/religion_architecture.svg",
+    "categoryIconPath": "icons/religion_architecture.svg",
+    "categoryIconUrl": null,
+    "visitStatus": "unknown",
+    "routeEligible": true,
+    "qualityNotes": [
+      "Часы работы неизвестны; не считать круглосуточным доступом."
+    ],
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageMatch": "OSM Wikidata link; coordinate check when P625 exists",
+    "imageCheckedAt": "2026-09-13",
+    "reuseStatus": "license_provided"
+  },
+  {
+    "id": "way/981029244",
+    "name": "Рауза",
+    "category": "religion_architecture",
+    "lat": 55.8000795,
+    "lon": 49.1677452,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "«Рауза» — суннитская мечеть в Казани.",
+    "osm_tags": {
+      "amenity": "place_of_worship",
+      "barrier": "fence",
+      "denomination": "sunni",
+      "name": "Рауза",
+      "name:ru": "Рауза",
+      "religion": "muslim",
+      "wikidata": "Q110128898",
+      "wikipedia": "tt:Рауза мәчете"
+    },
+    "sources": [
+      {
+        "url": "https://tt.wikipedia.org/wiki/%D0%A0%D0%B0%D1%83%D0%B7%D0%B0_%D0%BC%D3%99%D1%87%D0%B5%D1%82%D0%B5",
+        "status": "fetched",
+        "checkedAt": "2026-09-13"
+      },
+      {
+        "url": "https://www.openstreetmap.org/way/981029244",
+        "status": "original_osm_snapshot",
+        "checkedAt": null
+      }
+    ],
+    "provenance": {
+      "osmSnapshot": "2026-09-09T22:24:20Z",
+      "repositoryCommit": "722a18fb55f9f093147c90a5d54c1a70e40c8ce5",
+      "descriptionSource": "https://github.com/Dragn1ll/khakaton_2026_dataset/blob/722a18fb55f9f093147c90a5d54c1a70e40c8ce5/02_place_descriptions/religion_architecture_descriptions.md",
+      "evidenceLevel": "external_reference",
+      "nameRestored": false
+    },
+    "imageUrl": null,
+    "imageSource": null,
+    "imageLicense": null,
+    "imageAuthor": null,
+    "imageStatus": "not_found",
+    "iconPath": "icons/religion_architecture.svg",
+    "categoryIconPath": "icons/religion_architecture.svg",
+    "categoryIconUrl": null,
+    "visitStatus": "unknown",
+    "routeEligible": true,
+    "qualityNotes": [
+      "Часы работы неизвестны; не считать круглосуточным доступом."
+    ],
+    "imageLicenseUrl": null,
+    "imageMatch": null,
+    "imageCheckedAt": "2026-09-13",
+    "reuseStatus": null
+  },
+  {
+    "id": "way/96704998",
+    "name": "Розовая мечеть",
+    "category": "religion_architecture",
+    "lat": 55.7659428,
+    "lon": 49.1058709,
+    "address": "улица Мазита Гафури, 71 к9",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "«Розовая мечеть» — суннитская мечеть в Казани. Датируется 1808 годом. Здание имеет статус объекта культурного наследия.",
+    "osm_tags": {
+      "addr:housenumber": "71 к9",
+      "addr:street": "улица Мазита Гафури",
+      "amenity": "place_of_worship",
+      "building": "mosque",
+      "building:levels": "2",
+      "denomination": "sunni",
+      "heritage": "4",
+      "historic": "building",
+      "name": "Розовая мечеть",
+      "name:heritage": "Мечеть у татарского кладбища",
+      "name:tt": "Ал мәчет",
+      "ref:egrokn": "161711250870005",
+      "religion": "muslim",
+      "start_date": "1808",
+      "wikidata": "Q16938097",
+      "wikipedia": "ru:Розовая мечеть (Казань)"
+    },
+    "sources": [
+      {
+        "url": "https://ru.wikipedia.org/wiki/%D0%A0%D0%BE%D0%B7%D0%BE%D0%B2%D0%B0%D1%8F_%D0%BC%D0%B5%D1%87%D0%B5%D1%82%D1%8C_%28%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%8C%29",
+        "status": "fetched",
+        "checkedAt": "2026-09-13"
+      },
+      {
+        "url": "https://www.openstreetmap.org/way/96704998",
+        "status": "original_osm_snapshot",
+        "checkedAt": null
+      }
+    ],
+    "provenance": {
+      "osmSnapshot": "2026-09-09T22:24:20Z",
+      "repositoryCommit": "722a18fb55f9f093147c90a5d54c1a70e40c8ce5",
+      "descriptionSource": "https://github.com/Dragn1ll/khakaton_2026_dataset/blob/722a18fb55f9f093147c90a5d54c1a70e40c8ce5/02_place_descriptions/religion_architecture_descriptions.md",
+      "evidenceLevel": "external_reference",
+      "nameRestored": false
+    },
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/%D0%9D%D0%BE%D0%B2%D0%BE%D1%81%D0%BB%D0%BE%D0%B1%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D1%8F_%D0%BC%D0%B5%D1%87%D0%B5%D1%82%D1%8C.jpg/960px-%D0%9D%D0%BE%D0%B2%D0%BE%D1%81%D0%BB%D0%BE%D0%B1%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D1%8F_%D0%BC%D0%B5%D1%87%D0%B5%D1%82%D1%8C.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:%D0%9D%D0%BE%D0%B2%D0%BE%D1%81%D0%BB%D0%BE%D0%B1%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D1%8F_%D0%BC%D0%B5%D1%87%D0%B5%D1%82%D1%8C.jpg",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAuthor": "Chernyshov.tt",
+    "imageStatus": "source_linked_http_verified",
+    "iconPath": "icons/religion_architecture.svg",
+    "categoryIconPath": "icons/religion_architecture.svg",
+    "categoryIconUrl": null,
+    "visitStatus": "unknown",
+    "routeEligible": true,
+    "qualityNotes": [
+      "Часы работы неизвестны; не считать круглосуточным доступом."
+    ],
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageMatch": "OSM Wikidata link; coordinate check when P625 exists",
+    "imageCheckedAt": "2026-09-13",
+    "reuseStatus": "license_provided"
+  },
+  {
+    "id": "way/859389252",
+    "name": "Салах",
+    "category": "religion_architecture",
+    "lat": 55.7960298,
+    "lon": 49.2370995,
+    "address": "Казань, Мамадышский тракт",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "«Салах» — мечеть в Казани. Датируется 2019 годом.",
+    "osm_tags": {
+      "addr:city": "Казань",
+      "addr:street": "Мамадышский тракт",
+      "amenity": "place_of_worship",
+      "building": "mosque",
+      "building:levels": "2",
+      "name": "Салах",
+      "religion": "muslim",
+      "start_date": "2019"
+    },
+    "sources": [
+      {
+        "url": "https://www.openstreetmap.org/way/859389252",
+        "status": "original_osm_snapshot",
+        "checkedAt": null
+      }
+    ],
+    "provenance": {
+      "osmSnapshot": "2026-09-09T22:24:20Z",
+      "repositoryCommit": "722a18fb55f9f093147c90a5d54c1a70e40c8ce5",
+      "descriptionSource": "https://github.com/Dragn1ll/khakaton_2026_dataset/blob/722a18fb55f9f093147c90a5d54c1a70e40c8ce5/02_place_descriptions/religion_architecture_descriptions.md",
+      "evidenceLevel": "osm_specific_facts",
+      "nameRestored": false
+    },
+    "imageUrl": null,
+    "imageSource": null,
+    "imageLicense": null,
+    "imageAuthor": null,
+    "imageStatus": "not_found",
+    "iconPath": "icons/religion_architecture.svg",
+    "categoryIconPath": "icons/religion_architecture.svg",
+    "categoryIconUrl": null,
+    "visitStatus": "unknown",
+    "routeEligible": true,
+    "qualityNotes": [
+      "Часы работы неизвестны; не считать круглосуточным доступом."
+    ],
+    "imageLicenseUrl": null,
+    "imageMatch": null,
+    "imageCheckedAt": "2026-09-13",
+    "reuseStatus": null
+  },
+  {
+    "id": "way/99325934",
+    "name": "Собор Богоявления Господня",
+    "category": "religion_architecture",
+    "lat": 55.7881198,
+    "lon": 49.1188494,
+    "address": "420111, Казань, улица Баумана, 78 к1",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "«Собор Богоявления Господня» — православный храм в Казани. Датируется 1756 годом.",
+    "osm_tags": {
+      "addr:city": "Казань",
+      "addr:country": "RU",
+      "addr:housenumber": "78 к1",
+      "addr:postcode": "420111",
+      "addr:street": "улица Баумана",
+      "amenity": "place_of_worship",
+      "building": "cathedral",
+      "building:colour": "white",
+      "building:levels": "2",
+      "building:part": "yes",
+      "check_date": "2023-05-16",
+      "denomination": "russian_orthodox",
+      "name": "Собор Богоявления Господня",
+      "name:tt": "Богоявление чиркәве",
+      "religion": "christian",
+      "service_times": "08:00; 17:00",
+      "start_date": "1756",
+      "wikidata": "Q4089831",
+      "wikipedia": "ru:Богоявленский собор (Казань)"
+    },
+    "sources": [
+      {
+        "url": "https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%B3%D0%BE%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_%28%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%8C%29",
+        "status": "fetched",
+        "checkedAt": "2026-09-13"
+      },
+      {
+        "url": "https://www.openstreetmap.org/way/99325934",
+        "status": "original_osm_snapshot",
+        "checkedAt": null
+      }
+    ],
+    "provenance": {
+      "osmSnapshot": "2026-09-09T22:24:20Z",
+      "repositoryCommit": "722a18fb55f9f093147c90a5d54c1a70e40c8ce5",
+      "descriptionSource": "https://github.com/Dragn1ll/khakaton_2026_dataset/blob/722a18fb55f9f093147c90a5d54c1a70e40c8ce5/02_place_descriptions/religion_architecture_descriptions.md",
+      "evidenceLevel": "external_reference",
+      "nameRestored": false
+    },
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/%D0%91%D0%BE%D0%B3%D0%BE%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%9A%D0%B0%D0%B7.JPG/960px-%D0%91%D0%BE%D0%B3%D0%BE%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%9A%D0%B0%D0%B7.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:%D0%91%D0%BE%D0%B3%D0%BE%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%9A%D0%B0%D0%B7.JPG",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageAuthor": "Messir",
+    "imageStatus": "source_linked_http_verified",
+    "iconPath": "icons/religion_architecture.svg",
+    "categoryIconPath": "icons/religion_architecture.svg",
+    "categoryIconUrl": null,
+    "visitStatus": "unknown",
+    "routeEligible": true,
+    "qualityNotes": [
+      "Часы работы неизвестны; не считать круглосуточным доступом."
+    ],
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "imageMatch": "OSM Wikidata link; coordinate check when P625 exists",
+    "imageCheckedAt": "2026-09-13",
+    "reuseStatus": "license_provided"
+  },
+  {
+    "id": "way/133264866",
+    "name": "Султановская мечеть",
+    "category": "religion_architecture",
+    "lat": 55.7839128,
+    "lon": 49.1090155,
+    "address": "Казань, улица Габдуллы Тукая, 14",
+    "opening_hours": "",
+    "website": "",
+    "phone": "+7 843 2927881",
+    "description": "«Султановская мечеть» — суннитская мечеть в Казани.",
+    "osm_tags": {
+      "addr2:housenumber": "15",
+      "addr2:street": "улица Галиаскара Камала",
+      "addr:city": "Казань",
+      "addr:country": "RU",
+      "addr:housenumber": "14",
+      "addr:street": "улица Габдуллы Тукая",
+      "amenity": "place_of_worship",
+      "building": "mosque",
+      "check_date": "2023-07-22",
+      "denomination": "sunni",
+      "name": "Султановская мечеть",
+      "name:de": "Sultanowskaja-Moschee",
+      "name:en": "Sultan Mosque",
+      "name:ru": "Султановская мечеть",
+      "name:tt": "Солтан мәчете",
+      "name:tt-lat": "Soltan mäçete",
+      "phone": "+7 843 2927881",
+      "religion": "muslim",
+      "wikidata": "Q1634187",
+      "wikipedia": "ru:Султановская мечеть"
+    },
+    "sources": [
+      {
+        "url": "https://ru.wikipedia.org/wiki/%D0%A1%D1%83%D0%BB%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%BC%D0%B5%D1%87%D0%B5%D1%82%D1%8C",
+        "status": "fetched",
+        "checkedAt": "2026-09-13"
+      },
+      {
+        "url": "https://www.openstreetmap.org/way/133264866",
+        "status": "original_osm_snapshot",
+        "checkedAt": null
+      }
+    ],
+    "provenance": {
+      "osmSnapshot": "2026-09-09T22:24:20Z",
+      "repositoryCommit": "722a18fb55f9f093147c90a5d54c1a70e40c8ce5",
+      "descriptionSource": "https://github.com/Dragn1ll/khakaton_2026_dataset/blob/722a18fb55f9f093147c90a5d54c1a70e40c8ce5/02_place_descriptions/religion_architecture_descriptions.md",
+      "evidenceLevel": "external_reference",
+      "nameRestored": false
+    },
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/%D0%A1%D1%83%D0%BB%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%BC%D0%B5%D1%87%D0%B5%D1%82%D1%8C%2C_%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%8C%2C_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F.JPG/960px-%D0%A1%D1%83%D0%BB%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%BC%D0%B5%D1%87%D0%B5%D1%82%D1%8C%2C_%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%8C%2C_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:%D0%A1%D1%83%D0%BB%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%BC%D0%B5%D1%87%D0%B5%D1%82%D1%8C,_%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%8C,_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F.JPG",
+    "imageLicense": "CC0",
+    "imageAuthor": "Клеткин Максим Евгеньевич",
+    "imageStatus": "source_linked_http_verified",
+    "iconPath": "icons/religion_architecture.svg",
+    "categoryIconPath": "icons/religion_architecture.svg",
+    "categoryIconUrl": null,
+    "visitStatus": "unknown",
+    "routeEligible": true,
+    "qualityNotes": [
+      "Часы работы неизвестны; не считать круглосуточным доступом."
+    ],
+    "imageLicenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "imageMatch": "OSM Wikidata link; coordinate check when P625 exists",
+    "imageCheckedAt": "2026-09-13",
+    "reuseStatus": "license_provided"
+  },
+  {
+    "id": "way/157683902",
+    "name": "Тихвинская церковь Божией Матери",
+    "category": "religion_architecture",
+    "lat": 55.7837127,
+    "lon": 49.1114767,
+    "address": "Казань, улица Михаила Худякова, 4",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "«Тихвинская церковь Божией Матери» — православный храм в Казани.",
+    "osm_tags": {
+      "addr:city": "Казань",
+      "addr:country": "RU",
+      "addr:housenumber": "4",
+      "addr:street": "улица Михаила Худякова",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "russian_orthodox",
+      "name": "Тихвинская церковь Божией Матери",
+      "name:tt": "Казан Тихвин чиркәве",
+      "religion": "christian",
+      "wikidata": "Q16706310",
+      "wikipedia": "ru:Храм Тихвинской иконы Божией Матери (Казань)"
+    },
+    "sources": [
+      {
+        "url": "https://ru.wikipedia.org/wiki/%D0%A5%D1%80%D0%B0%D0%BC_%D0%A2%D0%B8%D1%85%D0%B2%D0%B8%D0%BD%D1%81%D0%BA%D0%BE%D0%B9_%D0%B8%D0%BA%D0%BE%D0%BD%D1%8B_%D0%91%D0%BE%D0%B6%D0%B8%D0%B5%D0%B9_%D0%9C%D0%B0%D1%82%D0%B5%D1%80%D0%B8_%28%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%8C%29",
+        "status": "fetched",
+        "checkedAt": "2026-09-13"
+      },
+      {
+        "url": "https://www.openstreetmap.org/way/157683902",
+        "status": "original_osm_snapshot",
+        "checkedAt": null
+      }
+    ],
+    "provenance": {
+      "osmSnapshot": "2026-09-09T22:24:20Z",
+      "repositoryCommit": "722a18fb55f9f093147c90a5d54c1a70e40c8ce5",
+      "descriptionSource": "https://github.com/Dragn1ll/khakaton_2026_dataset/blob/722a18fb55f9f093147c90a5d54c1a70e40c8ce5/02_place_descriptions/religion_architecture_descriptions.md",
+      "evidenceLevel": "external_reference",
+      "nameRestored": false
+    },
+    "imageUrl": null,
+    "imageSource": null,
+    "imageLicense": null,
+    "imageAuthor": null,
+    "imageStatus": "unverified_or_unavailable",
+    "iconPath": "icons/religion_architecture.svg",
+    "categoryIconPath": "icons/religion_architecture.svg",
+    "categoryIconUrl": null,
+    "visitStatus": "unknown",
+    "routeEligible": true,
+    "qualityNotes": [
+      "Часы работы неизвестны; не считать круглосуточным доступом."
+    ],
+    "imageLicenseUrl": null,
+    "imageMatch": null,
+    "imageCheckedAt": "2026-09-13",
+    "reuseStatus": null
+  },
+  {
+    "id": "way/119437966",
+    "name": "Хабад Любавич",
+    "category": "religion_architecture",
+    "lat": 55.7914275,
+    "lon": 49.1163087,
+    "address": "Казань, Профсоюзная улица, 15",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "«Хабад Любавич» — синагога в Казани.",
+    "osm_tags": {
+      "addr:city": "Казань",
+      "addr:country": "RU",
+      "addr:housenumber": "15",
+      "addr:street": "Профсоюзная улица",
+      "amenity": "place_of_worship",
+      "building": "synagogue",
+      "building:levels": "3",
+      "denomination": "conservative",
+      "name": "Хабад Любавич",
+      "name:tt": "Казан синагогасы",
+      "name:yi": "הכנסת קאזאן",
+      "religion": "jewish",
+      "wikidata": "Q25555541",
+      "wikipedia": "tt:Казан синагогасы"
+    },
+    "sources": [
+      {
+        "url": "https://tt.wikipedia.org/wiki/%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD_%D1%81%D0%B8%D0%BD%D0%B0%D0%B3%D0%BE%D0%B3%D0%B0%D1%81%D1%8B",
+        "status": "fetched",
+        "checkedAt": "2026-09-13"
+      },
+      {
+        "url": "https://www.openstreetmap.org/way/119437966",
+        "status": "original_osm_snapshot",
+        "checkedAt": null
+      }
+    ],
+    "provenance": {
+      "osmSnapshot": "2026-09-09T22:24:20Z",
+      "repositoryCommit": "722a18fb55f9f093147c90a5d54c1a70e40c8ce5",
+      "descriptionSource": "https://github.com/Dragn1ll/khakaton_2026_dataset/blob/722a18fb55f9f093147c90a5d54c1a70e40c8ce5/02_place_descriptions/religion_architecture_descriptions.md",
+      "evidenceLevel": "external_reference",
+      "nameRestored": false
+    },
+    "imageUrl": null,
+    "imageSource": null,
+    "imageLicense": null,
+    "imageAuthor": null,
+    "imageStatus": "not_found",
+    "iconPath": "icons/religion_architecture.svg",
+    "categoryIconPath": "icons/religion_architecture.svg",
+    "categoryIconUrl": null,
+    "visitStatus": "unknown",
+    "routeEligible": true,
+    "qualityNotes": [
+      "Часы работы неизвестны; не считать круглосуточным доступом."
+    ],
+    "imageLicenseUrl": null,
+    "imageMatch": null,
+    "imageCheckedAt": "2026-09-13",
+    "reuseStatus": null
+  },
+  {
+    "id": "way/104635635",
+    "name": "Храм Воздвижения Святого Креста",
+    "category": "religion_architecture",
+    "lat": 55.7829909,
+    "lon": 49.1274749,
+    "address": "Казань, улица Островского, 73",
+    "opening_hours": "Tu-Su 10:00-13:00, 15:00-19:00",
+    "website": "",
+    "phone": "",
+    "description": "«Храм Воздвижения Святого Креста» — католический храм в Казани.",
+    "osm_tags": {
+      "addr:city": "Казань",
+      "addr:housenumber": "73",
+      "addr:street": "улица Островского",
+      "amenity": "place_of_worship",
+      "building": "temple",
+      "building:levels": "3",
+      "denomination": "roman_catholic",
+      "name": "Храм Воздвижения Святого Креста",
+      "name:fr": "Église de l'Exaltation de la Sainte-Croix",
+      "name:it": "Chiesa dell'Esaltazione della Santa Croce",
+      "name:ru": "Храм Воздвижения Святого Креста",
+      "name:tt": "Изге Хач күтәрү чиркәве",
+      "opening_hours": "Tu-Su 10:00-13:00, 15:00-19:00",
+      "religion": "christian",
+      "tourism": "attraction",
+      "wikidata": "Q3585726",
+      "wikipedia": "ru:Храм Воздвижения Святого Креста (Казань)"
+    },
+    "sources": [
+      {
+        "url": "https://ru.wikipedia.org/wiki/%D0%A5%D1%80%D0%B0%D0%BC_%D0%92%D0%BE%D0%B7%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F_%D0%A1%D0%B2%D1%8F%D1%82%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D1%81%D1%82%D0%B0_%28%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%8C%29",
+        "status": "fetched",
+        "checkedAt": "2026-09-13"
+      },
+      {
+        "url": "https://www.openstreetmap.org/way/104635635",
+        "status": "original_osm_snapshot",
+        "checkedAt": null
+      }
+    ],
+    "provenance": {
+      "osmSnapshot": "2026-09-09T22:24:20Z",
+      "repositoryCommit": "722a18fb55f9f093147c90a5d54c1a70e40c8ce5",
+      "descriptionSource": "https://github.com/Dragn1ll/khakaton_2026_dataset/blob/722a18fb55f9f093147c90a5d54c1a70e40c8ce5/02_place_descriptions/religion_architecture_descriptions.md",
+      "evidenceLevel": "external_reference",
+      "nameRestored": false
+    },
+    "imageUrl": null,
+    "imageSource": null,
+    "imageLicense": null,
+    "imageAuthor": null,
+    "imageStatus": "unverified_or_unavailable",
+    "iconPath": "icons/religion_architecture.svg",
+    "categoryIconPath": "icons/religion_architecture.svg",
+    "categoryIconUrl": null,
+    "visitStatus": "unknown",
+    "routeEligible": true,
+    "qualityNotes": [],
+    "imageLicenseUrl": null,
+    "imageMatch": null,
+    "imageCheckedAt": "2026-09-13",
+    "reuseStatus": null
+  },
+  {
+    "id": "way/88784322",
+    "name": "Храм Сошествия Святого Духа",
+    "category": "religion_architecture",
+    "lat": 55.7801989,
+    "lon": 49.1345989,
+    "address": "Казань, улица Туфана Миннуллина, 21",
+    "opening_hours": "",
+    "website": "http://duhovhram-kzn.ru",
+    "phone": "",
+    "description": "«Храм Сошествия Святого Духа» — православный храм в Казани.",
+    "osm_tags": {
+      "addr:city": "Казань",
+      "addr:country": "RU",
+      "addr:housenumber": "21",
+      "addr:street": "улица Туфана Миннуллина",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "building:levels": "2",
+      "denomination": "russian_orthodox",
+      "name": "Храм Сошествия Святого Духа",
+      "name:ru": "Храм Сошествия Святого Духа",
+      "name:tt": "Изге Рух иңү чиркәве",
+      "religion": "christian",
+      "roof:colour": "green",
+      "website": "http://duhovhram-kzn.ru",
+      "wikidata": "Q21011899",
+      "wikipedia": "ru:Церковь Сошествия Святого Духа (Казань)"
+    },
+    "sources": [
+      {
+        "url": "https://ru.wikipedia.org/wiki/%D0%A6%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C_%D0%A1%D0%BE%D1%88%D0%B5%D1%81%D1%82%D0%B2%D0%B8%D1%8F_%D0%A1%D0%B2%D1%8F%D1%82%D0%BE%D0%B3%D0%BE_%D0%94%D1%83%D1%85%D0%B0_%28%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%8C%29",
+        "status": "fetched",
+        "checkedAt": "2026-09-13"
+      },
+      {
+        "url": "https://www.openstreetmap.org/way/88784322",
+        "status": "original_osm_snapshot",
+        "checkedAt": null
+      }
+    ],
+    "provenance": {
+      "osmSnapshot": "2026-09-09T22:24:20Z",
+      "repositoryCommit": "722a18fb55f9f093147c90a5d54c1a70e40c8ce5",
+      "descriptionSource": "https://github.com/Dragn1ll/khakaton_2026_dataset/blob/722a18fb55f9f093147c90a5d54c1a70e40c8ce5/02_place_descriptions/religion_architecture_descriptions.md",
+      "evidenceLevel": "external_reference",
+      "nameRestored": false
+    },
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Church_Descent_Holy_Spirit%2C_Kazan_%282023-03-27%29_24.jpg/960px-Church_Descent_Holy_Spirit%2C_Kazan_%282023-03-27%29_24.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Church_Descent_Holy_Spirit,_Kazan_(2023-03-27)_24.jpg",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAuthor": "Vyacheslav Kirillin",
+    "imageStatus": "source_linked_http_verified",
+    "iconPath": "icons/religion_architecture.svg",
+    "categoryIconPath": "icons/religion_architecture.svg",
+    "categoryIconUrl": null,
+    "visitStatus": "unknown",
+    "routeEligible": true,
+    "qualityNotes": [
+      "Часы работы неизвестны; не считать круглосуточным доступом."
+    ],
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageMatch": "OSM Wikidata link; coordinate check when P625 exists",
+    "imageCheckedAt": "2026-09-13",
+    "reuseStatus": "license_provided"
+  },
+  {
+    "id": "way/168485111",
+    "name": "Храм Успения Пресвятыя Богородицы",
+    "category": "religion_architecture",
+    "lat": 55.857719,
+    "lon": 49.2241449,
+    "address": "Казань, Парковая улица, 30",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "«Храм Успения Пресвятыя Богородицы» — христианский храм в Казани. Датируется 2020 годом.",
+    "osm_tags": {
+      "addr:city": "Казань",
+      "addr:housenumber": "30",
+      "addr:street": "Парковая улица",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "building:levels": "4",
+      "name": "Храм Успения Пресвятыя Богородицы",
+      "religion": "christian",
+      "start_date": "2020"
+    },
+    "sources": [
+      {
+        "url": "https://www.openstreetmap.org/way/168485111",
+        "status": "original_osm_snapshot",
+        "checkedAt": null
+      }
+    ],
+    "provenance": {
+      "osmSnapshot": "2026-09-09T22:24:20Z",
+      "repositoryCommit": "722a18fb55f9f093147c90a5d54c1a70e40c8ce5",
+      "descriptionSource": "https://github.com/Dragn1ll/khakaton_2026_dataset/blob/722a18fb55f9f093147c90a5d54c1a70e40c8ce5/02_place_descriptions/religion_architecture_descriptions.md",
+      "evidenceLevel": "osm_specific_facts",
+      "nameRestored": false
+    },
+    "imageUrl": null,
+    "imageSource": null,
+    "imageLicense": null,
+    "imageAuthor": null,
+    "imageStatus": "not_found",
+    "iconPath": "icons/religion_architecture.svg",
+    "categoryIconPath": "icons/religion_architecture.svg",
+    "categoryIconUrl": null,
+    "visitStatus": "unknown",
+    "routeEligible": true,
+    "qualityNotes": [
+      "Часы работы неизвестны; не считать круглосуточным доступом."
+    ],
+    "imageLicenseUrl": null,
+    "imageMatch": null,
+    "imageCheckedAt": "2026-09-13",
+    "reuseStatus": null
+  },
+  {
+    "id": "way/91769591",
+    "name": "Храм-памятник в честь Нерукотворного Образа Спасителя",
+    "category": "religion_architecture",
+    "lat": 55.8010139,
+    "lon": 49.0774931,
+    "address": "",
+    "opening_hours": "09:30-19:00",
+    "website": "https://tatmitropolia.ru/hramy_tatarstana/kazan_eparhiya/kazan/?id=44614",
+    "phone": "+7 903 3061921",
+    "description": "«Храм-памятник в честь Нерукотворного Образа Спасителя» — православный храм в Казани.",
+    "osm_tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "check_date": "2026-06-07",
+      "contact:phone": "+7 903 3061921",
+      "contact:website": "https://tatmitropolia.ru/hramy_tatarstana/kazan_eparhiya/kazan/?id=44614",
+      "denomination": "russian_orthodox",
+      "historic": "monument",
+      "name": "Храм-памятник в честь Нерукотворного Образа Спасителя",
+      "name:ru": "Храм-памятник в честь Нерукотворного Образа Спасителя",
+      "opening_hours": "09:30-19:00",
+      "ref:temples.ru": "3504",
+      "religion": "christian",
+      "service_times": "Sa 16:00; Su 09:00",
+      "tourism": "attraction",
+      "wikidata": "Q4500674",
+      "wikipedia": "ru:Храм-памятник воинам, павшим при взятии Казани в 1552 году"
+    },
+    "sources": [
+      {
+        "url": "https://ru.wikipedia.org/wiki/%D0%A5%D1%80%D0%B0%D0%BC-%D0%BF%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA_%D0%B2%D0%BE%D0%B8%D0%BD%D0%B0%D0%BC%2C_%D0%BF%D0%B0%D0%B2%D1%88%D0%B8%D0%BC_%D0%BF%D1%80%D0%B8_%D0%B2%D0%B7%D1%8F%D1%82%D0%B8%D0%B8_%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D0%B8_%D0%B2_1552_%D0%B3%D0%BE%D0%B4%D1%83",
+        "status": "fetched",
+        "checkedAt": "2026-09-13"
+      },
+      {
+        "url": "https://www.openstreetmap.org/way/91769591",
+        "status": "original_osm_snapshot",
+        "checkedAt": null
+      }
+    ],
+    "provenance": {
+      "osmSnapshot": "2026-09-09T22:24:20Z",
+      "repositoryCommit": "722a18fb55f9f093147c90a5d54c1a70e40c8ce5",
+      "descriptionSource": "https://github.com/Dragn1ll/khakaton_2026_dataset/blob/722a18fb55f9f093147c90a5d54c1a70e40c8ce5/02_place_descriptions/religion_architecture_descriptions.md",
+      "evidenceLevel": "external_reference",
+      "nameRestored": false
+    },
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Church_of_Image_of_Edessa%2C_Kazan_%282025-08-15%29_49.jpg/960px-Church_of_Image_of_Edessa%2C_Kazan_%282025-08-15%29_49.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Church_of_Image_of_Edessa,_Kazan_(2025-08-15)_49.jpg",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAuthor": "Vyacheslav Kirillin",
+    "imageStatus": "source_linked_http_verified",
+    "iconPath": "icons/religion_architecture.svg",
+    "categoryIconPath": "icons/religion_architecture.svg",
+    "categoryIconUrl": null,
+    "visitStatus": "unknown",
+    "routeEligible": true,
+    "qualityNotes": [],
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageMatch": "OSM Wikidata link; coordinate check when P625 exists",
+    "imageCheckedAt": "2026-09-13",
+    "reuseStatus": "license_provided"
+  },
+  {
+    "id": "way/90161962",
+    "name": "Церковь Николы Ратного",
+    "category": "religion_architecture",
+    "lat": 55.7968128,
+    "lon": 49.1061608,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "«Церковь Николы Ратного» — православный храм в Казани. Датируется 1568 годом.",
+    "osm_tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "building:levels": "2",
+      "denomination": "russian_orthodox",
+      "name": "Церковь Николы Ратного",
+      "name:ru": "Церковь Николы Ратного",
+      "religion": "christian",
+      "start_date": "1568",
+      "tourism": "attraction"
+    },
+    "sources": [
+      {
+        "url": "https://www.openstreetmap.org/way/90161962",
+        "status": "original_osm_snapshot",
+        "checkedAt": null
+      }
+    ],
+    "provenance": {
+      "osmSnapshot": "2026-09-09T22:24:20Z",
+      "repositoryCommit": "722a18fb55f9f093147c90a5d54c1a70e40c8ce5",
+      "descriptionSource": "https://github.com/Dragn1ll/khakaton_2026_dataset/blob/722a18fb55f9f093147c90a5d54c1a70e40c8ce5/02_place_descriptions/religion_architecture_descriptions.md",
+      "evidenceLevel": "osm_specific_facts",
+      "nameRestored": false
+    },
+    "imageUrl": null,
+    "imageSource": null,
+    "imageLicense": null,
+    "imageAuthor": null,
+    "imageStatus": "not_found",
+    "iconPath": "icons/religion_architecture.svg",
+    "categoryIconPath": "icons/religion_architecture.svg",
+    "categoryIconUrl": null,
+    "visitStatus": "unknown",
+    "routeEligible": true,
+    "qualityNotes": [
+      "Часы работы неизвестны; не считать круглосуточным доступом."
+    ],
+    "imageLicenseUrl": null,
+    "imageMatch": null,
+    "imageCheckedAt": "2026-09-13",
+    "reuseStatus": null
+  },
+  {
+    "id": "way/90251716",
+    "name": "Церковь Параскевы Пятницы",
+    "category": "religion_architecture",
+    "lat": 55.7990902,
+    "lon": 49.1103207,
+    "address": "Казань, Большая Красная улица, 1/2",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "«Церковь Параскевы Пятницы» — православный храм в Казани.",
+    "osm_tags": {
+      "addr:city": "Казань",
+      "addr:housenumber": "1/2",
+      "addr:street": "Большая Красная улица",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "building:colour": "white",
+      "building:levels": "1",
+      "denomination": "russian_orthodox",
+      "loc_name": "Храм святой Мученицы Параскевы Пятницы",
+      "name": "Церковь Параскевы Пятницы",
+      "name:ru": "Церковь Параскевы Пятницы",
+      "ref:sobory.ru": "06602",
+      "religion": "christian",
+      "roof:colour": "blue",
+      "source:addr": "ЕГРН",
+      "wikidata": "Q25394762",
+      "wikipedia": "ru:Пятницкая церковь (Казань)"
+    },
+    "sources": [
+      {
+        "url": "https://ru.wikipedia.org/wiki/%D0%9F%D1%8F%D1%82%D0%BD%D0%B8%D1%86%D0%BA%D0%B0%D1%8F_%D1%86%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C_%28%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%8C%29",
+        "status": "fetched",
+        "checkedAt": "2026-09-13"
+      },
+      {
+        "url": "https://www.openstreetmap.org/way/90251716",
+        "status": "original_osm_snapshot",
+        "checkedAt": null
+      }
+    ],
+    "provenance": {
+      "osmSnapshot": "2026-09-09T22:24:20Z",
+      "repositoryCommit": "722a18fb55f9f093147c90a5d54c1a70e40c8ce5",
+      "descriptionSource": "https://github.com/Dragn1ll/khakaton_2026_dataset/blob/722a18fb55f9f093147c90a5d54c1a70e40c8ce5/02_place_descriptions/religion_architecture_descriptions.md",
+      "evidenceLevel": "external_reference",
+      "nameRestored": false
+    },
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Views_from_Kazan_Kremlin_observation_deck_%28April_2025%29_-0_9.jpg/960px-Views_from_Kazan_Kremlin_observation_deck_%28April_2025%29_-0_9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Views_from_Kazan_Kremlin_observation_deck_(April_2025)_-0_9.jpg",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAuthor": "Vyacheslav Bukharov",
+    "imageStatus": "source_linked_http_verified",
+    "iconPath": "icons/religion_architecture.svg",
+    "categoryIconPath": "icons/religion_architecture.svg",
+    "categoryIconUrl": null,
+    "visitStatus": "unknown",
+    "routeEligible": true,
+    "qualityNotes": [
+      "Часы работы неизвестны; не считать круглосуточным доступом."
+    ],
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageMatch": "OSM Wikidata link; coordinate check when P625 exists",
+    "imageCheckedAt": "2026-09-13",
+    "reuseStatus": "license_provided"
+  },
+  {
+    "id": "way/62054977",
+    "name": "Церковь Рождества Христова",
+    "category": "religion_architecture",
+    "lat": 55.8338121,
+    "lon": 49.1462859,
+    "address": "420132, Казань, улица Адоратского, 23В",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "«Церковь Рождества Христова» — православный храм в Казани. Датируется 2002 годом.",
+    "osm_tags": {
+      "addr:city": "Казань",
+      "addr:housenumber": "23В",
+      "addr:postcode": "420132",
+      "addr:street": "улица Адоратского",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "building:levels": "2",
+      "denomination": "russian_orthodox",
+      "name": "Церковь Рождества Христова",
+      "name:ru": "Церковь Рождества Христова",
+      "name:tt": "Гайсә Мәсихнең тууы чиркәве",
+      "ref:temples.ru": "10402",
+      "religion": "christian",
+      "start_date": "2002"
+    },
+    "sources": [
+      {
+        "url": "https://www.openstreetmap.org/way/62054977",
+        "status": "original_osm_snapshot",
+        "checkedAt": null
+      }
+    ],
+    "provenance": {
+      "osmSnapshot": "2026-09-09T22:24:20Z",
+      "repositoryCommit": "722a18fb55f9f093147c90a5d54c1a70e40c8ce5",
+      "descriptionSource": "https://github.com/Dragn1ll/khakaton_2026_dataset/blob/722a18fb55f9f093147c90a5d54c1a70e40c8ce5/02_place_descriptions/religion_architecture_descriptions.md",
+      "evidenceLevel": "osm_specific_facts",
+      "nameRestored": false
+    },
+    "imageUrl": null,
+    "imageSource": null,
+    "imageLicense": null,
+    "imageAuthor": null,
+    "imageStatus": "not_found",
+    "iconPath": "icons/religion_architecture.svg",
+    "categoryIconPath": "icons/religion_architecture.svg",
+    "categoryIconUrl": null,
+    "visitStatus": "unknown",
+    "routeEligible": true,
+    "qualityNotes": [
+      "Часы работы неизвестны; не считать круглосуточным доступом."
+    ],
+    "imageLicenseUrl": null,
+    "imageMatch": null,
+    "imageCheckedAt": "2026-09-13",
+    "reuseStatus": null
+  },
+  {
+    "id": "way/153063182",
+    "name": "Церковь Святой Великомученицы Варвары",
+    "category": "religion_architecture",
+    "lat": 55.7946585,
+    "lon": 49.1436415,
+    "address": "Казань, улица Карла Маркса, 67",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "«Церковь Святой Великомученицы Варвары» — православный храм в Казани. Датируется 1908 годом; архитектор — Ф. Н. Малиновский.",
+    "osm_tags": {
+      "addr:city": "Казань",
+      "addr:housenumber": "67",
+      "addr:street": "улица Карла Маркса",
+      "amenity": "place_of_worship",
+      "architect": "Ф. Н. Малиновский",
+      "building": "church",
+      "building:architecture": "russian_revival",
+      "building:levels": "4",
+      "check_date": "2025-02-17",
+      "denomination": "russian_orthodox",
+      "historic": "heritage",
+      "name": "Церковь Святой Великомученицы Варвары",
+      "name:ru": "Церковь Святой Великомученицы Варвары",
+      "religion": "christian",
+      "start_date": "1908",
+      "wikidata": "Q4505144",
+      "wikipedia": "ru:Церковь Святой Великомученицы Варвары (Казань)"
+    },
+    "sources": [
+      {
+        "url": "https://ru.wikipedia.org/wiki/%D0%A6%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C_%D0%A1%D0%B2%D1%8F%D1%82%D0%BE%D0%B9_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%BC%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%86%D1%8B_%D0%92%D0%B0%D1%80%D0%B2%D0%B0%D1%80%D1%8B_%28%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%8C%29",
+        "status": "fetched",
+        "checkedAt": "2026-09-13"
+      },
+      {
+        "url": "https://www.openstreetmap.org/way/153063182",
+        "status": "original_osm_snapshot",
+        "checkedAt": null
+      }
+    ],
+    "provenance": {
+      "osmSnapshot": "2026-09-09T22:24:20Z",
+      "repositoryCommit": "722a18fb55f9f093147c90a5d54c1a70e40c8ce5",
+      "descriptionSource": "https://github.com/Dragn1ll/khakaton_2026_dataset/blob/722a18fb55f9f093147c90a5d54c1a70e40c8ce5/02_place_descriptions/religion_architecture_descriptions.md",
+      "evidenceLevel": "external_reference",
+      "nameRestored": false
+    },
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/%D0%A6%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C_%D0%92%D0%B0%D1%80%D0%B2%D0%B0%D1%80%D1%8B_01.jpg/960px-%D0%A6%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C_%D0%92%D0%B0%D1%80%D0%B2%D0%B0%D1%80%D1%8B_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:%D0%A6%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C_%D0%92%D0%B0%D1%80%D0%B2%D0%B0%D1%80%D1%8B_01.jpg",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageAuthor": "Olesssya",
+    "imageStatus": "source_linked_http_verified",
+    "iconPath": "icons/religion_architecture.svg",
+    "categoryIconPath": "icons/religion_architecture.svg",
+    "categoryIconUrl": null,
+    "visitStatus": "unknown",
+    "routeEligible": true,
+    "qualityNotes": [
+      "Часы работы неизвестны; не считать круглосуточным доступом."
+    ],
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "imageMatch": "OSM Wikidata link; coordinate check when P625 exists",
+    "imageCheckedAt": "2026-09-13",
+    "reuseStatus": "license_provided"
+  },
+  {
+    "id": "relation/18117393",
+    "name": "Церковь Святой Екатерины",
+    "category": "religion_architecture",
+    "lat": 55.796332,
+    "lon": 49.1203941,
+    "address": "Казань, улица Карла Маркса, 26",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "«Церковь Святой Екатерины» — лютеранский храм в Казани. Датируется 1862..1865 годом. Здание имеет статус объекта культурного наследия.",
+    "osm_tags": {
+      "addr:city": "Казань",
+      "addr:housenumber": "26",
+      "addr:street": "улица Карла Маркса",
+      "amenity": "place_of_worship",
+      "building": "civic",
+      "building:architecture": "russian_gothic_revival",
+      "building:levels": "2",
+      "check_date": "2025-07-08",
+      "denomination": "lutheran",
+      "heritage": "4",
+      "historic": "church",
+      "name": "Церковь Святой Екатерины",
+      "name:de": "Sankt-Katharina-Kirche",
+      "name:ru": "Церковь Святой Екатерины",
+      "name:tt": "Казан кирхасы",
+      "ref:egrokn": "161711093220005",
+      "religion": "christian",
+      "start_date": "1862..1865",
+      "type": "multipolygon",
+      "wikidata": "Q735724",
+      "wikipedia": "ru:Церковь Святой Екатерины (Казань)"
+    },
+    "sources": [
+      {
+        "url": "https://ru.wikipedia.org/wiki/%D0%A6%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C_%D0%A1%D0%B2%D1%8F%D1%82%D0%BE%D0%B9_%D0%95%D0%BA%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D1%8B_%28%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%8C%29",
+        "status": "fetched",
+        "checkedAt": "2026-09-13"
+      },
+      {
+        "url": "https://www.openstreetmap.org/relation/18117393",
+        "status": "original_osm_snapshot",
+        "checkedAt": null
+      }
+    ],
+    "provenance": {
+      "osmSnapshot": "2026-09-09T22:24:20Z",
+      "repositoryCommit": "722a18fb55f9f093147c90a5d54c1a70e40c8ce5",
+      "descriptionSource": "https://github.com/Dragn1ll/khakaton_2026_dataset/blob/722a18fb55f9f093147c90a5d54c1a70e40c8ce5/02_place_descriptions/religion_architecture_descriptions.md",
+      "evidenceLevel": "external_reference",
+      "nameRestored": false
+    },
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Kazan_luther.JPG/960px-Kazan_luther.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Kazan_luther.JPG",
+    "imageLicense": "Public domain",
+    "imageAuthor": "Dr Jorgen",
+    "imageStatus": "source_linked_http_verified",
+    "iconPath": "icons/religion_architecture.svg",
+    "categoryIconPath": "icons/religion_architecture.svg",
+    "categoryIconUrl": null,
+    "visitStatus": "unknown",
+    "routeEligible": true,
+    "qualityNotes": [
+      "Часы работы неизвестны; не считать круглосуточным доступом."
+    ],
+    "imageLicenseUrl": null,
+    "imageMatch": "OSM Wikidata link; coordinate check when P625 exists",
+    "imageCheckedAt": "2026-09-13",
+    "reuseStatus": "license_provided"
+  },
+  {
+    "id": "way/90251767",
+    "name": "Церковь святой преподобной великомученицы Евдокии",
+    "category": "religion_architecture",
+    "lat": 55.8022853,
+    "lon": 49.1159406,
+    "address": "420111, Казань, Федосеевская улица, 46",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "«Церковь святой преподобной великомученицы Евдокии» — православный храм в Казани.",
+    "osm_tags": {
+      "addr:city": "Казань",
+      "addr:housenumber": "46",
+      "addr:postcode": "420111",
+      "addr:street": "Федосеевская улица",
+      "alt_name": "Храм св. Евдокии",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "russian_orthodox",
+      "name": "Церковь святой преподобной великомученицы Евдокии",
+      "name:tt": "Изге Исуска охшаш бөек газапчигәр Әүдәки чиркәве",
+      "religion": "christian",
+      "wikidata": "Q24933251",
+      "wikipedia": "ru:Церковь Святой Преподобной Великомученицы Евдокии (Казань)"
+    },
+    "sources": [
+      {
+        "url": "https://ru.wikipedia.org/wiki/%D0%A6%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C_%D0%A1%D0%B2%D1%8F%D1%82%D0%BE%D0%B9_%D0%9F%D1%80%D0%B5%D0%BF%D0%BE%D0%B4%D0%BE%D0%B1%D0%BD%D0%BE%D0%B9_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%BC%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%86%D1%8B_%D0%95%D0%B2%D0%B4%D0%BE%D0%BA%D0%B8%D0%B8_%28%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%8C%29",
+        "status": "fetched",
+        "checkedAt": "2026-09-13"
+      },
+      {
+        "url": "https://www.openstreetmap.org/way/90251767",
+        "status": "original_osm_snapshot",
+        "checkedAt": null
+      }
+    ],
+    "provenance": {
+      "osmSnapshot": "2026-09-09T22:24:20Z",
+      "repositoryCommit": "722a18fb55f9f093147c90a5d54c1a70e40c8ce5",
+      "descriptionSource": "https://github.com/Dragn1ll/khakaton_2026_dataset/blob/722a18fb55f9f093147c90a5d54c1a70e40c8ce5/02_place_descriptions/religion_architecture_descriptions.md",
+      "evidenceLevel": "external_reference",
+      "nameRestored": false
+    },
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/%D0%95%D0%B2%D0%B4%D0%BE%D0%BA%D0%B8%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D1%86%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C_%28%D0%B3._%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%8C%29_-_2.JPG/960px-%D0%95%D0%B2%D0%B4%D0%BE%D0%BA%D0%B8%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D1%86%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C_%28%D0%B3._%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%8C%29_-_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:%D0%95%D0%B2%D0%B4%D0%BE%D0%BA%D0%B8%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D1%86%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C_(%D0%B3._%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%8C)_-_2.JPG",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageAuthor": "Алексеев Игорь Евгеньевич",
+    "imageStatus": "source_linked_http_verified",
+    "iconPath": "icons/religion_architecture.svg",
+    "categoryIconPath": "icons/religion_architecture.svg",
+    "categoryIconUrl": null,
+    "visitStatus": "unknown",
+    "routeEligible": true,
+    "qualityNotes": [
+      "Часы работы неизвестны; не считать круглосуточным доступом."
+    ],
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "imageMatch": "OSM Wikidata link; coordinate check when P625 exists",
+    "imageCheckedAt": "2026-09-13",
+    "reuseStatus": "license_provided"
+  },
+  {
+    "id": "way/196006772",
+    "name": "Церковь Святых Царственных Страстотерпцев",
+    "category": "religion_architecture",
+    "lat": 55.7363543,
+    "lon": 49.2794145,
+    "address": "Казань, 2-я Зелёная улица, 18Б",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "«Церковь Святых Царственных Страстотерпцев» — православный храм в Казани. Датируется 2008 годом.",
+    "osm_tags": {
+      "addr:city": "Казань",
+      "addr:housenumber": "18Б",
+      "addr:street": "2-я Зелёная улица",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "building:levels": "1",
+      "denomination": "orthodox",
+      "name": "Церковь Святых Царственных Страстотерпцев",
+      "religion": "christian",
+      "start_date": "2008"
+    },
+    "sources": [
+      {
+        "url": "https://www.openstreetmap.org/way/196006772",
+        "status": "original_osm_snapshot",
+        "checkedAt": null
+      }
+    ],
+    "provenance": {
+      "osmSnapshot": "2026-09-09T22:24:20Z",
+      "repositoryCommit": "722a18fb55f9f093147c90a5d54c1a70e40c8ce5",
+      "descriptionSource": "https://github.com/Dragn1ll/khakaton_2026_dataset/blob/722a18fb55f9f093147c90a5d54c1a70e40c8ce5/02_place_descriptions/religion_architecture_descriptions.md",
+      "evidenceLevel": "osm_specific_facts",
+      "nameRestored": false
+    },
+    "imageUrl": null,
+    "imageSource": null,
+    "imageLicense": null,
+    "imageAuthor": null,
+    "imageStatus": "not_found",
+    "iconPath": "icons/religion_architecture.svg",
+    "categoryIconPath": "icons/religion_architecture.svg",
+    "categoryIconUrl": null,
+    "visitStatus": "unknown",
+    "routeEligible": true,
+    "qualityNotes": [
+      "Часы работы неизвестны; не считать круглосуточным доступом."
+    ],
+    "imageLicenseUrl": null,
+    "imageMatch": null,
+    "imageCheckedAt": "2026-09-13",
+    "reuseStatus": null
+  },
+  {
+    "id": "way/200348972",
+    "name": "Церковь Тихона, патриарха Всероссийского",
+    "category": "religion_architecture",
+    "lat": 55.8341927,
+    "lon": 49.1465366,
+    "address": "",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "«Церковь Тихона, патриарха Всероссийского» — православный храм в Казани. Датируется 1998 годом.",
+    "osm_tags": {
+      "amenity": "place_of_worship",
+      "building": "church",
+      "building:levels": "1",
+      "denomination": "russian_orthodox",
+      "name": "Церковь Тихона, патриарха Всероссийского",
+      "ref:temples.ru": "10420",
+      "religion": "christian",
+      "start_date": "1998"
+    },
+    "sources": [
+      {
+        "url": "https://www.openstreetmap.org/way/200348972",
+        "status": "original_osm_snapshot",
+        "checkedAt": null
+      }
+    ],
+    "provenance": {
+      "osmSnapshot": "2026-09-09T22:24:20Z",
+      "repositoryCommit": "722a18fb55f9f093147c90a5d54c1a70e40c8ce5",
+      "descriptionSource": "https://github.com/Dragn1ll/khakaton_2026_dataset/blob/722a18fb55f9f093147c90a5d54c1a70e40c8ce5/02_place_descriptions/religion_architecture_descriptions.md",
+      "evidenceLevel": "osm_specific_facts",
+      "nameRestored": false
+    },
+    "imageUrl": null,
+    "imageSource": null,
+    "imageLicense": null,
+    "imageAuthor": null,
+    "imageStatus": "not_found",
+    "iconPath": "icons/religion_architecture.svg",
+    "categoryIconPath": "icons/religion_architecture.svg",
+    "categoryIconUrl": null,
+    "visitStatus": "unknown",
+    "routeEligible": true,
+    "qualityNotes": [
+      "Часы работы неизвестны; не считать круглосуточным доступом."
+    ],
+    "imageLicenseUrl": null,
+    "imageMatch": null,
+    "imageCheckedAt": "2026-09-13",
+    "reuseStatus": null
+  },
+  {
+    "id": "way/243897655",
+    "name": "Церковь Феодора, Давида и Константина",
+    "category": "religion_architecture",
+    "lat": 55.7940559,
+    "lon": 49.1571513,
+    "address": "Казань, улица Николая Ершова, 25 к1",
+    "opening_hours": "",
+    "website": "http://arskoe.site",
+    "phone": "+7 965 590-25-65",
+    "description": "«Церковь Феодора, Давида и Константина» — православный храм в Казани.",
+    "osm_tags": {
+      "addr:city": "Казань",
+      "addr:housenumber": "25 к1",
+      "addr:street": "улица Николая Ершова",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "check_date": "2026-07-25",
+      "contact:phone": "+7 965 590-25-65",
+      "contact:vk": "https://vk.com/hram.klad",
+      "contact:website": "http://arskoe.site",
+      "contact:whatsapp": "https://wa.me/79655902565?text=Здравствуйте,%20хочу%20спросить",
+      "denomination": "russian_orthodox",
+      "name": "Церковь Феодора, Давида и Константина",
+      "name:ru": "Церковь Феодора, Давида и Константина",
+      "name:tt": "Ярыслау могҗиза кылучылары чиркәве",
+      "official_name": "Церковь Святых благоверных князей Феодора, Давида и Константина Ярославских чудотворцев",
+      "religion": "christian",
+      "wikidata": "Q25394359",
+      "wikipedia": "ru:Церковь Ярославских Чудотворцев (Казань)"
+    },
+    "sources": [
+      {
+        "url": "https://ru.wikipedia.org/wiki/%D0%A6%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C_%D0%AF%D1%80%D0%BE%D1%81%D0%BB%D0%B0%D0%B2%D1%81%D0%BA%D0%B8%D1%85_%D0%A7%D1%83%D0%B4%D0%BE%D1%82%D0%B2%D0%BE%D1%80%D1%86%D0%B5%D0%B2_%28%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%8C%29",
+        "status": "fetched",
+        "checkedAt": "2026-09-13"
+      },
+      {
+        "url": "https://www.openstreetmap.org/way/243897655",
+        "status": "original_osm_snapshot",
+        "checkedAt": null
+      }
+    ],
+    "provenance": {
+      "osmSnapshot": "2026-09-09T22:24:20Z",
+      "repositoryCommit": "722a18fb55f9f093147c90a5d54c1a70e40c8ce5",
+      "descriptionSource": "https://github.com/Dragn1ll/khakaton_2026_dataset/blob/722a18fb55f9f093147c90a5d54c1a70e40c8ce5/02_place_descriptions/religion_architecture_descriptions.md",
+      "evidenceLevel": "external_reference",
+      "nameRestored": false
+    },
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/%D0%A6%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C_%D0%AF%D1%80%D0%BE%D1%81%D0%BB%D0%B0%D0%B2%D1%81%D0%BA%D0%B8%D1%85_%D1%87%D1%83%D0%B4%D0%BE%D1%82%D0%B2%D0%BE%D1%80%D1%86%D0%B5%D0%B2_%28%D0%B3._%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%8C%29_-_1.JPG/960px-%D0%A6%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C_%D0%AF%D1%80%D0%BE%D1%81%D0%BB%D0%B0%D0%B2%D1%81%D0%BA%D0%B8%D1%85_%D1%87%D1%83%D0%B4%D0%BE%D1%82%D0%B2%D0%BE%D1%80%D1%86%D0%B5%D0%B2_%28%D0%B3._%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%8C%29_-_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:%D0%A6%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C_%D0%AF%D1%80%D0%BE%D1%81%D0%BB%D0%B0%D0%B2%D1%81%D0%BA%D0%B8%D1%85_%D1%87%D1%83%D0%B4%D0%BE%D1%82%D0%B2%D0%BE%D1%80%D1%86%D0%B5%D0%B2_(%D0%B3._%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%8C)_-_1.JPG",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageAuthor": "Алексеев Игорь Евгеньевич",
+    "imageStatus": "source_linked_http_verified",
+    "iconPath": "icons/religion_architecture.svg",
+    "categoryIconPath": "icons/religion_architecture.svg",
+    "categoryIconUrl": null,
+    "visitStatus": "unknown",
+    "routeEligible": true,
+    "qualityNotes": [
+      "Часы работы неизвестны; не считать круглосуточным доступом."
+    ],
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "imageMatch": "OSM Wikidata link; coordinate check when P625 exists",
+    "imageCheckedAt": "2026-09-13",
+    "reuseStatus": "license_provided"
+  },
+  {
+    "id": "way/200348973",
+    "name": "Часовня Ксении Петербургской",
+    "category": "religion_architecture",
+    "lat": 55.8340466,
+    "lon": 49.1464564,
+    "address": "420137, Казань, улица Адоратского",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "«Часовня Ксении Петербургской» — православный храм в Казани. Датируется 2006 годом.",
+    "osm_tags": {
+      "addr:city": "Казань",
+      "addr:postcode": "420137",
+      "addr:street": "улица Адоратского",
+      "amenity": "place_of_worship",
+      "building": "chapel",
+      "building:levels": "1",
+      "denomination": "russian_orthodox",
+      "name": "Часовня Ксении Петербургской",
+      "ref:temples.ru": "10421",
+      "religion": "christian",
+      "start_date": "2006"
+    },
+    "sources": [
+      {
+        "url": "https://www.openstreetmap.org/way/200348973",
+        "status": "original_osm_snapshot",
+        "checkedAt": null
+      }
+    ],
+    "provenance": {
+      "osmSnapshot": "2026-09-09T22:24:20Z",
+      "repositoryCommit": "722a18fb55f9f093147c90a5d54c1a70e40c8ce5",
+      "descriptionSource": "https://github.com/Dragn1ll/khakaton_2026_dataset/blob/722a18fb55f9f093147c90a5d54c1a70e40c8ce5/02_place_descriptions/religion_architecture_descriptions.md",
+      "evidenceLevel": "osm_specific_facts",
+      "nameRestored": false
+    },
+    "imageUrl": null,
+    "imageSource": null,
+    "imageLicense": null,
+    "imageAuthor": null,
+    "imageStatus": "not_found",
+    "iconPath": "icons/religion_architecture.svg",
+    "categoryIconPath": "icons/religion_architecture.svg",
+    "categoryIconUrl": null,
+    "visitStatus": "unknown",
+    "routeEligible": true,
+    "qualityNotes": [
+      "Часы работы неизвестны; не считать круглосуточным доступом."
+    ],
+    "imageLicenseUrl": null,
+    "imageMatch": null,
+    "imageCheckedAt": "2026-09-13",
+    "reuseStatus": null
+  },
+  {
+    "id": "way/230558190",
+    "name": "Шамиль",
+    "category": "religion_architecture",
+    "lat": 55.7264823,
+    "lon": 49.1518755,
+    "address": "Казань, Борисковская улица, 64",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "«Шамиль» — суннитская мечеть в Казани. Датируется 2001 годом.",
+    "osm_tags": {
+      "addr:city": "Казань",
+      "addr:country": "RU",
+      "addr:housenumber": "64",
+      "addr:street": "Борисковская улица",
+      "amenity": "place_of_worship",
+      "building": "mosque",
+      "building:levels": "1",
+      "check_date": "2025-05-30",
+      "denomination": "sunni",
+      "name": "Шамиль",
+      "name:ru": "Шамиль",
+      "religion": "muslim",
+      "start_date": "2001"
+    },
+    "sources": [
+      {
+        "url": "https://www.openstreetmap.org/way/230558190",
+        "status": "original_osm_snapshot",
+        "checkedAt": null
+      }
+    ],
+    "provenance": {
+      "osmSnapshot": "2026-09-09T22:24:20Z",
+      "repositoryCommit": "722a18fb55f9f093147c90a5d54c1a70e40c8ce5",
+      "descriptionSource": "https://github.com/Dragn1ll/khakaton_2026_dataset/blob/722a18fb55f9f093147c90a5d54c1a70e40c8ce5/02_place_descriptions/religion_architecture_descriptions.md",
+      "evidenceLevel": "osm_specific_facts",
+      "nameRestored": false
+    },
+    "imageUrl": null,
+    "imageSource": null,
+    "imageLicense": null,
+    "imageAuthor": null,
+    "imageStatus": "not_found",
+    "iconPath": "icons/religion_architecture.svg",
+    "categoryIconPath": "icons/religion_architecture.svg",
+    "categoryIconUrl": null,
+    "visitStatus": "unknown",
+    "routeEligible": true,
+    "qualityNotes": [
+      "Часы работы неизвестны; не считать круглосуточным доступом."
+    ],
+    "imageLicenseUrl": null,
+    "imageMatch": null,
+    "imageCheckedAt": "2026-09-13",
+    "reuseStatus": null
+  },
+  {
+    "id": "way/230217132",
+    "name": "Ярдэм",
+    "category": "religion_architecture",
+    "lat": 55.8283148,
+    "lon": 49.0605457,
+    "address": "Казань, улица Серова, 4А",
+    "opening_hours": "",
+    "website": "",
+    "phone": "",
+    "description": "«Ярдэм» — суннитская мечеть в Казани. Датируется 2013 годом.",
+    "osm_tags": {
+      "addr:city": "Казань",
+      "addr:housenumber": "4А",
+      "addr:street": "улица Серова",
+      "amenity": "place_of_worship",
+      "building": "mosque",
+      "building:levels": "2",
+      "check_date": "2024-07-07",
+      "denomination": "sunni",
+      "name": "Ярдәм",
+      "name:en": "Yärdäm",
+      "name:ru": "Ярдэм",
+      "name:tt": "Ярдәм",
+      "ramp": "yes",
+      "religion": "muslim",
+      "roof:shape": "dome",
+      "start_date": "2013"
+    },
+    "sources": [
+      {
+        "url": "https://www.openstreetmap.org/way/230217132",
+        "status": "original_osm_snapshot",
+        "checkedAt": null
+      }
+    ],
+    "provenance": {
+      "osmSnapshot": "2026-09-09T22:24:20Z",
+      "repositoryCommit": "722a18fb55f9f093147c90a5d54c1a70e40c8ce5",
+      "descriptionSource": "https://github.com/Dragn1ll/khakaton_2026_dataset/blob/722a18fb55f9f093147c90a5d54c1a70e40c8ce5/02_place_descriptions/religion_architecture_descriptions.md",
+      "evidenceLevel": "osm_specific_facts",
+      "nameRestored": false
+    },
+    "imageUrl": null,
+    "imageSource": null,
+    "imageLicense": null,
+    "imageAuthor": null,
+    "imageStatus": "not_found",
+    "iconPath": "icons/religion_architecture.svg",
+    "categoryIconPath": "icons/religion_architecture.svg",
+    "categoryIconUrl": null,
+    "visitStatus": "unknown",
+    "routeEligible": true,
+    "qualityNotes": [
+      "Часы работы неизвестны; не считать круглосуточным доступом."
+    ],
+    "imageLicenseUrl": null,
+    "imageMatch": null,
+    "imageCheckedAt": "2026-09-13",
+    "reuseStatus": null
+  }
+]

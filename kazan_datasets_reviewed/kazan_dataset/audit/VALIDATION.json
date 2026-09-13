@@ -1,0 +1,14 @@
+{
+  "status": "passed",
+  "checks": [
+    "9 nonempty Markdown datasets",
+    "JSON parsing and required fields",
+    "OSM tags unchanged",
+    "unique IDs within category",
+    "9 valid SVG XML files",
+    "all icon paths resolve",
+    "11 API cases: 1 positive, 10 negative",
+    "42 valid JSONL evaluation examples"
+  ],
+  "liveApiTestsRun": false
+}
